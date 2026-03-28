@@ -1,0 +1,4434 @@
+# Sebastián Lecchini <sebas38760@gmail.com>,  2026.
+msgid ""
+msgstr ""
+"Project-Id-Version: wesnoth-RSP\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2026-03-25 19:24\n"
+"PO-Revision-Date: 2026-03-26 20:14-0300\n"
+"Last-Translator: Sebastián Lecchini <sebas38760@gmail.com>\n"
+"Language-Team: >\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [editor_group], id=rsp
+#: Refumees_Saurian_Pack/_main.cfg:22 Refumees_Saurian_Pack/campaign.cfg:44
+msgid "Refumees Saurian Pack"
+msgstr "Paquete Saurio de Refumee"
+
+#. [about] name=Alex_Jarocha-Ernst
+#: Refumees_Saurian_Pack/about.cfg:4
+msgid "Honorable Mentions - Images- Portrait"
+msgstr "Menciones honoríficas - Imágenes - Retrato"
+
+#. [about] name=ForestDragon
+#: Refumees_Saurian_Pack/about.cfg:27
+msgid "balancing"
+msgstr "balance"
+
+#. [about] name=Following authors created sprites what are used in this campaign.
+#: Refumees_Saurian_Pack/about.cfg:34
+msgid "Honorable Mentions - Sprites - Units"
+msgstr "Menciones honoríficas - Sprites - Unidades"
+
+#. [about] name=Saurian Spearwoman, Saurian Warden
+#: Refumees_Saurian_Pack/about.cfg:40
+msgid "MJ (Talentless)"
+msgstr "MJ (Talentless)"
+
+#. [about] name=Saurian Recruit, Saurian Soldier, Saurian Veteran
+#: Refumees_Saurian_Pack/about.cfg:53
+msgid "Exodus_Island 1.10 by Anagkai"
+msgstr "Exodus_Island 1.10 por Anagkai"
+
+#. [about] name=devotee
+#. [about] name=assassin, slayer
+#: Refumees_Saurian_Pack/about.cfg:63 Refumees_Saurian_Pack/about.cfg:79
+msgid "Across the Ocean 1.12 by SkyOne"
+msgstr "Across the Ocean 1.12 por SkyOne"
+
+#. [about] name=Saurian Guard and Saurian Champion
+#: Refumees_Saurian_Pack/about.cfg:94
+msgid "by SkyOne and The Gnat"
+msgstr "por SkyOne y The Gnat"
+
+#. [about] name=Saurian Knife-thrower, Saurian Wise
+#: Refumees_Saurian_Pack/about.cfg:104
+msgid "Era of Strife 1.5.2 by Jami"
+msgstr "Era of Strife 1.5.2 por Jami"
+
+#. [about] name=Saurian Visionnare
+#: Refumees_Saurian_Pack/about.cfg:114
+msgid "aldarisvet"
+msgstr "aldarisvet"
+
+#. [about] name=Saurian Lich
+#: Refumees_Saurian_Pack/about.cfg:124
+msgid "Pilauli"
+msgstr "Pilauli"
+
+#. [about] name=hill saurian/mountain saurian
+#. [about] name=lurker
+#: Refumees_Saurian_Pack/about.cfg:134 Refumees_Saurian_Pack/about.cfg:144
+msgid "Eagle 11"
+msgstr "Eagle 11"
+
+#. [about] name=Zaxalis Saurian
+#: Refumees_Saurian_Pack/about.cfg:154
+msgid "Skizzaltix"
+msgstr "Skizzaltix"
+
+#. [about] name=Bugrider and BannerBugrider
+#: Refumees_Saurian_Pack/about.cfg:164
+msgid "Origin Unknown"
+msgstr "Origen desconocido"
+
+#. [about] name=saurian fire and arcane magic halo
+#: Refumees_Saurian_Pack/about.cfg:174
+msgid "Halo Frames"
+msgstr "Fotogramas de halo"
+
+#. [about] name=TawfulEvil
+#: Refumees_Saurian_Pack/about.cfg:184
+msgid "Help with updating undead saurians"
+msgstr "Ayuda con la actualización de los saurios no-muertos"
+
+#. [about] name=Bugrider -se-bobbing animation -fixed shadows
+#: Refumees_Saurian_Pack/about.cfg:191
+msgid "Own work in cooperation with hunter_z"
+msgstr "Trabajo propio en colaboración con hunter_z"
+
+#. [about] name=Wise -attack animation
+#: Refumees_Saurian_Pack/about.cfg:206
+msgid "hunter_z"
+msgstr "hunter_z"
+
+#. [about] name=RKT
+#: Refumees_Saurian_Pack/about.cfg:215
+msgid "Descriptions"
+msgstr "Descripciones"
+
+#. [about] name=Deep saurian reskin -Sprites and Portraits
+#: Refumees_Saurian_Pack/about.cfg:224
+msgid "Own work"
+msgstr "Trabajo propio"
+
+#. [era], id=era_Saurian
+#: Refumees_Saurian_Pack/era.cfg:13
+msgid "Default + Saurians"
+msgstr "Predeterminado + Saurios"
+
+#. [era], id=era_Saurian
+#: Refumees_Saurian_Pack/era.cfg:14
+msgid "Mainline factions + dunefolk + different saurian tribes"
+msgstr "Facciones principales + Barjanes + diferentes tribus saurias"
+
+#. [terrain_type], id=saurian_swamp_encampment
+#: Refumees_Saurian_Pack/rsp-terrains.cfg:6
+#: Refumees_Saurian_Pack/rsp-terrains.cfg:7
+msgid "Saurian Swamp Encampment"
+msgstr "Campamento pantanoso saurio"
+
+#. [terrain_type], id=saurian_swamp_campkeep
+#: Refumees_Saurian_Pack/rsp-terrains.cfg:19
+#: Refumees_Saurian_Pack/rsp-terrains.cfg:20
+msgid "Saurian Swamp Keep"
+msgstr "Torreón pantanoso saurio"
+
+#. [multiplayer_side], id=Ref Deep Saurians
+#: Refumees_Saurian_Pack/faction/deep-saurians-default.cfg:4
+msgid "Deep Saurians"
+msgstr "Saurios Profundos"
+
+#. [multiplayer_side], id=Ref Deep Saurians
+#. [multiplayer_side], id=Ref Desert Saurians
+#. [multiplayer_side], id=Ref Saurians Thief
+#. [multiplayer_side], id=Ref Saurians Thief NOMASK
+#. [multiplayer_side], id=Ref Saurians
+#. [multiplayer_side], id=Ref Undead Saurians
+#: Refumees_Saurian_Pack/faction/deep-saurians-default.cfg:12
+#: Refumees_Saurian_Pack/faction/desert-saurians-default.cfg:12
+#: Refumees_Saurian_Pack/faction/saurians-band-default.cfg:12
+#: Refumees_Saurian_Pack/faction/saurians-band-default2.cfg:12
+#: Refumees_Saurian_Pack/faction/saurians-default.cfg:12
+#: Refumees_Saurian_Pack/faction/undead-saurians-default.cfg:12
+msgid ""
+"This is an faction of tribal <ref>text='Saurians' dst='..race_lizard'</ref>. "
+"They are played best as an highly mobile strikeforce, using their mobility "
+"advantage to constantly mount hit and run attacks against their opponents to "
+"harass them, never giving their opponents enough time to catch breath."
+msgstr ""
+"Esta es una facción de <ref>text='Saurios' dst='..race_lizard'</ref> "
+"tribales. Se juegan mejor como una fuerza de ataque de alta movilidad, "
+"aprovechando su ventaja de movimiento para ejecutar constantemente ataques "
+"de golpe y huida contra sus rivales y hostigarlos, sin darles nunca el "
+"tiempo suficiente para recuperar el aliento."
+
+#. [multiplayer_side], id=Ref Desert Saurians
+#: Refumees_Saurian_Pack/faction/desert-saurians-default.cfg:4
+msgid "Desert Saurians"
+msgstr "Saurios del Desierto"
+
+#. [multiplayer_side], id=Ref Saurians Thief
+#. [multiplayer_side], id=Ref Saurians Thief NOMASK
+#: Refumees_Saurian_Pack/faction/saurians-band-default.cfg:4
+#: Refumees_Saurian_Pack/faction/saurians-band-default2.cfg:4
+msgid "Saurians Band"
+msgstr "Banda Sauria"
+
+#. [multiplayer_side], id=Ref Saurians
+#: Refumees_Saurian_Pack/faction/saurians-default.cfg:4
+msgid "Swamp Saurians"
+msgstr "Saurios del Pantano"
+
+#. [multiplayer_side], id=Ref Undead Saurians
+#: Refumees_Saurian_Pack/faction/undead-saurians-default.cfg:4
+msgid "Undead Saurians"
+msgstr "Saurios No-muertos"
+
+#. [hides], id=lurk
+#: Refumees_Saurian_Pack/images/units/unused/Darker_Dreams/macros/abilities.cfg:9
+#: Refumees_Saurian_Pack/images/units/unused/Darker_Dreams/macros/abilities.cfg:11
+msgid "lurk"
+msgstr "acechar"
+
+#. [hides], id=lurk
+#: Refumees_Saurian_Pack/images/units/unused/Darker_Dreams/macros/abilities.cfg:10
+#: Refumees_Saurian_Pack/images/units/unused/Darker_Dreams/macros/abilities.cfg:12
+msgid "female^lurk"
+msgstr "acechar"
+
+#. [hides], id=lurk
+#: Refumees_Saurian_Pack/images/units/unused/Darker_Dreams/macros/abilities.cfg:13
+#: Refumees_Saurian_Pack/images/units/unused/Darker_Dreams/macros/abilities.cfg:17
+msgid ""
+"Lurk:\n"
+"This unit can hide in swamps, and remain undetected by its enemies.\n"
+"\n"
+"Enemy units cannot see this unit while it is in swamps, except if they have "
+"units next to it. Any enemy unit that first discovers this unit immediately "
+"loses all its remaining movement."
+msgstr ""
+"Acechar:\n"
+"Esta unidad puede ocultarse en pantanos y pasar desapercibida para sus "
+"enemigos.\n"
+"\n"
+"Las unidades enemigas no pueden ver a esta unidad mientras esté en un "
+"pantano, a menos que tengan unidades adyacentes a ella. Cualquier unidad "
+"enemiga que descubra a esta unidad por primera vez pierde de inmediato todo "
+"su movimiento restante."
+
+#. SPECIAL_NOTES
+#: Refumees_Saurian_Pack/images/units/unused/Darker_Dreams/macros/special-notes.cfg:3
+msgid ""
+"\n"
+"\n"
+"Special Notes:"
+msgstr ""
+"\n"
+"\n"
+"Notas especiales:"
+
+#. SPECIAL_NOTES_LURK
+#: Refumees_Saurian_Pack/images/units/unused/Darker_Dreams/macros/special-notes.cfg:8
+msgid ""
+" In swampland, this unit's lurk skill renders it invisible to enemies unless "
+"it is immediately adjacent or has revealed itself by attacking."
+msgstr ""
+" En terreno pantanoso, la habilidad de acecho de esta unidad la hace "
+"invisible para los enemigos, a menos que estén directamente adyacentes a "
+"ella o se haya revelado al atacar."
+
+#. [unit_type], id=Saurian Auspex, race=lizard
+#: Refumees_Saurian_Pack/images/units/unused/Darker_Dreams/unit-cfgs/Auspex.cfg:4
+msgid "Saurian Auspex"
+msgstr "Auspex Saurio"
+
+#. [unit_type], id=Saurian Auspex, race=lizard
+#: Refumees_Saurian_Pack/images/units/unused/Darker_Dreams/unit-cfgs/Auspex.cfg:21
+msgid ""
+"One of the great mysteries of the Saurian tribes is their study of the "
+"stars. While much of the Saurian culture is primative all Saurian magic "
+"users are thoroughly schooled in the astrology and astronomy of the world, "
+"and are immensely skilled in using the stars, moons, and planets as "
+"divinitory tools and a source of power."
+msgstr ""
+"Uno de los grandes misterios de las tribus saurias es su estudio de las "
+"estrellas. Aunque gran parte de la cultura sauria es primitiva, todos los "
+"practicantes de magia saurios reciben una formación exhaustiva en astrología "
+"y astronomía del mundo, y poseen una enorme habilidad para usar las "
+"estrellas, lunas y planetas como herramientas adivinatorias y fuentes de "
+"poder."
+
+#. [unit_type], id=Saurian Haruspex, race=lizard
+#: Refumees_Saurian_Pack/images/units/unused/Darker_Dreams/unit-cfgs/Haruspex.cfg:4
+msgid "Saurian Haruspex"
+msgstr "Harúspice Saurio"
+
+#. [unit_type], id=Saurian Haruspex, race=lizard
+#: Refumees_Saurian_Pack/images/units/unused/Darker_Dreams/unit-cfgs/Haruspex.cfg:21
+msgid ""
+"While the appearance of the Haruspex is perhaps one of the least fearsome of "
+"Saurians to appear on the battlefield, their deep understanding of "
+"predictive magics is not to be underestimated. Gazing ever skyword and "
+"whispering to the allies that invariably cluster near, the Haruspex's effect "
+"on a battle can be both dramatic and immediate. While all of the Saurian "
+"magic users are relied upon for their prophetic readings, the Haruspex "
+"refine and focus upon that skill. It is said among the tribes that a "
+"Haruspex cannot encounter death without having predicted it."
+msgstr ""
+"Aunque la apariencia del Harúspice es quizás la menos temible de los saurios "
+"que aparecen en el campo de batalla, su profundo conocimiento de la magia "
+"profética no debe subestimarse. Mirando siempre hacia el cielo y susurrando "
+"a los aliados que invariablemente se agrupan a su alrededor, el efecto del "
+"Harúspice en una batalla puede ser tanto dramático como inmediato. Si bien "
+"todos los practicantes de magia saurios son apreciados por sus lecturas "
+"proféticas, el Harúspice refina y se centra en esa habilidad. Entre las "
+"tribus se dice que un Harúspice no puede encontrar la muerte sin haberla "
+"predicho."
+
+#. [unit_type], id=Saurian Hunter, race=lizard
+#. [unit_type], id=Saurian Hunter, race=lizard, gender=female
+#: Refumees_Saurian_Pack/images/units/unused/Darker_Dreams/unit-cfgs/Hunter.cfg:4
+#: Refumees_Saurian_Pack/units/thief-saurians/S1-Hunter.cfg:5
+msgid "Saurian Hunter"
+msgstr "Cazador Saurio"
+
+#. [unit_type], id=Saurian Hunter, race=lizard
+#: Refumees_Saurian_Pack/images/units/unused/Darker_Dreams/unit-cfgs/Hunter.cfg:20
+msgid ""
+"Saurian warriors derive their tactics from their hunting methods, and even "
+"the greatest of Saurian warriors is still responsible for bringing back food "
+"for the tribe."
+msgstr ""
+"Los guerreros saurios derivan sus tácticas de sus métodos de caza, y hasta "
+"el más grande de los guerreros saurios sigue siendo responsable de traer "
+"alimento para la tribu."
+
+#. [unit_type], id=Saurian Observer, race=lizard
+#: Refumees_Saurian_Pack/images/units/unused/Darker_Dreams/unit-cfgs/Observer.cfg:4
+#: Refumees_Saurian_Pack/images/units/unused/Darker_Dreams/unit-cfgs/Vigilant.cfg:4
+msgid "Saurian Observer"
+msgstr "Observador Saurio"
+
+#. [unit_type], id=Saurian Observer, race=lizard
+#: Refumees_Saurian_Pack/images/units/unused/Darker_Dreams/unit-cfgs/Observer.cfg:20
+msgid ""
+"Far weaker in a fair fight than even the most frail of elves or humans, "
+"outsiders encountering Observers easily mistake them for dark and vengful "
+"spirits as they strike and then melt away. Frequently, by the time an "
+"Observer leads their hunting party to it's prey the members of the hunting "
+"party have ample ready targets."
+msgstr ""
+"Mucho más débiles en combate directo que incluso los más frágiles elfos o "
+"humanos, quienes se topan con los Observadores los confunden fácilmente con "
+"espíritus oscuros y vengativos que golpean y luego se desvanecen. Con "
+"frecuencia, para cuando un Observador lleva a su grupo de caza hasta su "
+"presa, los miembros del grupo ya tienen abundantes objetivos al alcance."
+
+#. [attack], type=pierce, range=ranged
+#: Refumees_Saurian_Pack/images/units/unused/Darker_Dreams/unit-cfgs/Observer.cfg:63
+#: Refumees_Saurian_Pack/images/units/unused/Darker_Dreams/unit-cfgs/Vigilant.cfg:66
+msgid "poison darts"
+msgstr "dardos envenenados"
+
+#. [unit_type], id=Saurian Observer, race=lizard
+#: Refumees_Saurian_Pack/images/units/unused/Darker_Dreams/unit-cfgs/Vigilant.cfg:21
+msgid ""
+"Living in shadows and darkness, those Saurians who excell at stealth and "
+"trechery become fearsome legends among the tribes and are the source of many "
+"horrific stories among nearby communities of non-Saurians."
+msgstr ""
+"Viviendo entre sombras y oscuridad, los saurios que sobresalen en el sigilo "
+"y la traición se convierten en leyendas temibles entre las tribus y son el "
+"origen de numerosas historias aterradoras entre las comunidades cercanas de "
+"no-saurios."
+
+#. [unit_type], id=Saurian Watcher, race=lizard
+#: Refumees_Saurian_Pack/images/units/unused/Darker_Dreams/unit-cfgs/Watcher.cfg:4
+msgid "Saurian Watcher"
+msgstr "Vigilante Saurio"
+
+#. [unit_type], id=Saurian Watcher, race=lizard
+#: Refumees_Saurian_Pack/images/units/unused/Darker_Dreams/unit-cfgs/Watcher.cfg:20
+msgid ""
+"The best weapon the Saurians posess is stealth, their ability to slide past "
+"their enemies guards and find ways to assault the weakest links of their "
+"foes. Some saurians choose to cultivate their gifts of stealth and surprise "
+"which flow from their natural litheness rather than work towards more "
+"powerful blows. Rarely seen, watchers are the forward scouts of Saurian "
+"hunting bands. Among a race which values those traits inherant to a scout, "
+"the abilities of Watchers would terrify outsiders if they were better known. "
+"These Saurians travel lightly, wearing no armor or equipment aside from a "
+"knife and a dart-blower. Because they carry no gear, even rations, their "
+"life relies on constantly leading their party on successful hunts or "
+"scavanging."
+msgstr ""
+"La mejor arma que poseen los saurios es el sigilo: su capacidad para "
+"escabullirse ante las guardias enemigas y encontrar la manera de atacar los "
+"eslabones más débiles de sus rivales. Algunos saurios eligen cultivar sus "
+"dones de sigilo y sorpresa, que emanan de su agilidad natural, en lugar de "
+"aspirar a golpes más poderosos. Raramente vistos, los Vigilantes son los "
+"exploradores de vanguardia de las bandas de caza saurias. Entre una raza que "
+"valora los rasgos propios de un explorador, las capacidades de los "
+"Vigilantes aterrorizarían a los forasteros si fueran más conocidas. Estos "
+"saurios viajan ligeros, sin armadura ni equipo salvo un cuchillo y una "
+"cerbatana. Como no cargan con provisiones, ni siquiera raciones, su vida "
+"depende de liderar constantemente a su grupo en cacerías exitosas o en la "
+"carroña."
+
+#. [unit_type], id=Saurian Spearmaster, race=lizard
+#: Refumees_Saurian_Pack/images/units/unused/Evelangos/Spearmaster.cfg:4
+msgid "Saurian Spearmaster"
+msgstr "Maestro de Lanza Saurio"
+
+#. [unit_type], id=Saurian Spearmaster, race=lizard
+#: Refumees_Saurian_Pack/images/units/unused/Evelangos/Spearmaster.cfg:20
+msgid ""
+"Saurian warriors are generally weaker in frame than their elven, or human "
+"counterparts. This is of course a relative term, and they can still become "
+"considerably powerful, whilst losing none of their natural mobility. This is "
+"an elite rank of feminine Saurians who have gone throughout a load of "
+"trouble with the ideals of gender to use their strength and have even come "
+"to use dance as a weapon, but as all know, the dance of any serpent is "
+"almost assuredly fatal if one gives in."
+msgstr ""
+"Los guerreros saurios son en general más débiles de complexión que sus "
+"contrapartes elfas o humanas. Esto es, por supuesto, un término relativo, y "
+"aun así pueden llegar a ser considerablemente poderosos sin perder nada de "
+"su movilidad natural. Este es un rango de élite de saurias femeninas que han "
+"superado grandes obstáculos relacionados con los ideales de género para "
+"emplear su fuerza, e incluso han llegado a usar la danza como arma; pero "
+"como todos saben, la danza de cualquier serpiente es casi con certeza fatal "
+"para quien cede ante ella."
+
+#. [attack], type=blade, range=ranged
+#: Refumees_Saurian_Pack/images/units/unused/Evelangos/Spearmaster.cfg:73
+msgid "Disc"
+msgstr "Disco"
+
+#. [unit_type], id=Z Shaman2, race=zaxal2
+#: Refumees_Saurian_Pack/images/units/unused/The_Dark_Master/saurians-zaxalis/a1_Z_Shaman.cfg:5
+msgid "Zaxali Shaman"
+msgstr "Chamán Zaxali"
+
+#. [unit_type], id=Z Shaman2, race=zaxal2
+#: Refumees_Saurian_Pack/images/units/unused/The_Dark_Master/saurians-zaxalis/a1_Z_Shaman.cfg:20
+msgid ""
+"The few Zaxali that have power over water are trained from a young age as "
+"Shamans."
+msgstr ""
+"Los pocos Zaxali que tienen poder sobre el agua son entrenados desde jóvenes "
+"como Chamanes."
+
+#. [attack], type=impact, range=ranged
+#: Refumees_Saurian_Pack/images/units/unused/The_Dark_Master/saurians-zaxalis/a1_Z_Shaman.cfg:48
+#: Refumees_Saurian_Pack/images/units/unused/The_Dark_Master/saurians-zaxalis/a2_Z_Witch_Doctor.cfg:49
+#: Refumees_Saurian_Pack/images/units/unused/The_Dark_Master/saurians-zaxalis/a3_Z_Master_Shaman.cfg:50
+msgid "swamp strike"
+msgstr "golpe pantanoso"
+
+#. [unit_type], id=Z Witch Doctor2, race=zaxal2, gender=male
+#: Refumees_Saurian_Pack/images/units/unused/The_Dark_Master/saurians-zaxalis/a2_Z_Witch_Doctor.cfg:5
+msgid "Zaxali Witch Doctor"
+msgstr "Médico Brujo Zaxali"
+
+#. [unit_type], id=Z Witch Doctor2, race=zaxal2, gender=male
+#: Refumees_Saurian_Pack/images/units/unused/The_Dark_Master/saurians-zaxalis/a2_Z_Witch_Doctor.cfg:21
+msgid ""
+"More skilled Shamans become Witch Doctors, who take care of the sick and "
+"dead."
+msgstr ""
+"Los Chamanes más hábiles se convierten en Médicos Brujos, que se ocupan de "
+"los enfermos y los muertos."
+
+#. [unit_type], id=Z Master Shaman2, race=zaxal2, gender=male
+#: Refumees_Saurian_Pack/images/units/unused/The_Dark_Master/saurians-zaxalis/a3_Z_Master_Shaman.cfg:5
+msgid "Zaxali Master Shaman"
+msgstr "Gran Chamán Zaxali"
+
+#. [unit_type], id=Z Master Shaman2, race=zaxal2, gender=male
+#: Refumees_Saurian_Pack/images/units/unused/The_Dark_Master/saurians-zaxalis/a3_Z_Master_Shaman.cfg:22
+msgid ""
+"Few Master Shamans are to be found on Kraman, most of them never made the "
+"crossing from Rashi."
+msgstr ""
+"Pocos Grandes Chamanes se encuentran en Kraman; la mayoría nunca realizó la "
+"travesía desde Rashi."
+
+#. [unit_type], id=Z Feldrix2, race=zaxal2, gender=male
+#: Refumees_Saurian_Pack/images/units/unused/The_Dark_Master/saurians-zaxalis/b1_Z_Feldrix.cfg:5
+msgid "Zaxali Feldrix"
+msgstr "Feldrix Zaxali"
+
+#. [unit_type], id=Z Feldrix2, race=zaxal2, gender=male
+#: Refumees_Saurian_Pack/images/units/unused/The_Dark_Master/saurians-zaxalis/b1_Z_Feldrix.cfg:21
+msgid ""
+"The fighting caste of the Zaxali society. The Feldrix are those completely "
+"unnattuned to magic, as the weapons they carry, either brought over from "
+"Rashi or gained by way of pillage or trade from the Zaxali's neighbors, are "
+"rare, and so can only to be given to those who truly have no other calling."
+msgstr ""
+"La casta guerrera de la sociedad Zaxali. Los Feldrix son aquellos "
+"completamente desconectados de la magia; las armas que portan, traídas de "
+"Rashi o conseguidas mediante el pillaje o el comercio con los vecinos de los "
+"Zaxali, son escasas y por ello solo pueden darse a quienes verdaderamente no "
+"tienen otro destino."
+
+#. [unit_type], id=Z Warrior2, race=zaxal2, gender=male
+#: Refumees_Saurian_Pack/images/units/unused/The_Dark_Master/saurians-zaxalis/b2_Z_Warrior.cfg:5
+msgid "Zaxali Warrior"
+msgstr "Guerrero Zaxali"
+
+#. [unit_type], id=Z Warrior2, race=zaxal2, gender=male
+#: Refumees_Saurian_Pack/images/units/unused/The_Dark_Master/saurians-zaxalis/b2_Z_Warrior.cfg:21
+msgid ""
+"Though there is no real title difference between the Feldrix and the "
+"warriors, the warriors have had more chance to lift weapons and armour from "
+"fallen opponents, and to return victorious from the battlefield."
+msgstr ""
+"Aunque no hay una diferencia real de título entre los Feldrix y los "
+"guerreros, estos últimos han tenido más oportunidades de tomar armas y "
+"armaduras de enemigos caídos y de regresar victoriosamente del campo de "
+"batalla."
+
+#. [unit_type], id=Z Eternal2, race=zaxal2, gender=male
+#: Refumees_Saurian_Pack/images/units/unused/The_Dark_Master/saurians-zaxalis/b3_Z_Eternal.cfg:5
+msgid "Zaxali Eternal"
+msgstr "Eterno Zaxali"
+
+#. [unit_type], id=Z Eternal2, race=zaxal2, gender=male
+#: Refumees_Saurian_Pack/images/units/unused/The_Dark_Master/saurians-zaxalis/b3_Z_Eternal.cfg:22
+msgid ""
+"The Eternals are rarer still than the Master Shamans on Kraman, they are "
+"truly masters of their art and can hold their own against Kuandigin "
+"Guardians."
+msgstr ""
+"Los Eternos son aún más raros que los Grandes Chamanes en Kraman; son "
+"verdaderos maestros de su arte y pueden mantenerse en pie frente a los "
+"Guardianes Kuandigin."
+
+#. [unit_type], id=Z Hunter2, race=zaxal2
+#: Refumees_Saurian_Pack/images/units/unused/The_Dark_Master/saurians-zaxalis/c1_Z_Hunter.cfg:5
+msgid "Zaxali Hunter"
+msgstr "Cazador Zaxali"
+
+#. [unit_type], id=Z Hunter2, race=zaxal2
+#: Refumees_Saurian_Pack/images/units/unused/The_Dark_Master/saurians-zaxalis/c1_Z_Hunter.cfg:20
+msgid ""
+"The bulk of the Zaxali society, these lizards gather food and scout out the "
+"swamps."
+msgstr ""
+"La mayoría de la sociedad Zaxali, estos lagartos recolectan alimento y "
+"exploran los pantanos."
+
+#. [attack], type=pierce, range=ranged
+#: Refumees_Saurian_Pack/images/units/unused/The_Dark_Master/saurians-zaxalis/c1_Z_Hunter.cfg:49
+#: Refumees_Saurian_Pack/images/units/unused/The_Dark_Master/saurians-zaxalis/c2_Z_Stalker.cfg:50
+msgid "blowpipe"
+msgstr "cerbatana"
+
+#. [unit_type], id=Z Stalker2, race=zaxal2
+#: Refumees_Saurian_Pack/images/units/unused/The_Dark_Master/saurians-zaxalis/c2_Z_Stalker.cfg:5
+msgid "Zaxali Stalker"
+msgstr "Acechador Zaxali"
+
+#. [unit_type], id=Z Stalker2, race=zaxal2
+#: Refumees_Saurian_Pack/images/units/unused/The_Dark_Master/saurians-zaxalis/c2_Z_Stalker.cfg:21
+msgid ""
+"More skilled hunters are also delegated to the task of shadowing outsiders "
+"that enter the swamps."
+msgstr ""
+"Los cazadores más hábiles también son designados para la tarea de seguir a "
+"los forasteros que se adentran en los pantanos."
+
+#. [unit_type], id=Z Reefthrower2, race=zaxal2
+#: Refumees_Saurian_Pack/images/units/unused/The_Dark_Master/saurians-zaxalis/e1_Z_Reefthrower.cfg:5
+msgid "Zaxali Reefthrower"
+msgstr "Lanzarrecifes Zaxali"
+
+#. [unit_type], id=Z Reefthrower2, race=zaxal2
+#: Refumees_Saurian_Pack/images/units/unused/The_Dark_Master/saurians-zaxalis/e1_Z_Reefthrower.cfg:21
+msgid ""
+"The Reefthrowers are not true Zaxali, but are welcomed intot he society. "
+"They, like the Zaxali, came from Rashi."
+msgstr ""
+"Los Lanzarrecifes no son Zaxali de pura cepa, pero son bienvenidos en la "
+"sociedad. Ellos, al igual que los Zaxali, vinieron de Rashi."
+
+#. [attack], type=impact, range=ranged
+#: Refumees_Saurian_Pack/images/units/unused/The_Dark_Master/saurians-zaxalis/e1_Z_Reefthrower.cfg:35
+msgid "boulder"
+msgstr "peñasco"
+
+#. [unit_type], id=IQ Saurian Blind Seer, race=lizard
+#: Refumees_Saurian_Pack/images/units/unused/inkys_quest/IQ_Blind_Seer.cfg:6
+msgid "Saurian Blind Seer"
+msgstr "Vidente Ciego Saurio"
+
+#. [unit_type], id=IQ Saurian Blind Seer, race=lizard
+#: Refumees_Saurian_Pack/images/units/unused/inkys_quest/IQ_Blind_Seer.cfg:27
+msgid ""
+"This Saurian shaman has lost his eyesight, but this traumatic experience has "
+"given him an insight normally unheard in his kin. Both his healing and "
+"destructive magic have improved as a result of this."
+msgstr ""
+"Este chamán saurio ha perdido la vista, pero esta experiencia traumática le "
+"ha otorgado una perspicacia inusual entre los de su especie. Tanto su magia "
+"curativa como la destructiva han mejorado como resultado de ello."
+
+#. [unit_type], id=IQ Saurian Concoctionist, race=lizard
+#: Refumees_Saurian_Pack/images/units/unused/inkys_quest/IQ_Saurian_Concoctionist.cfg:7
+msgid "Saurian Concoctionist"
+msgstr "Preparador Saurio"
+
+#. [unit_type], id=IQ Saurian Concoctionist, race=lizard
+#: Refumees_Saurian_Pack/images/units/unused/inkys_quest/IQ_Saurian_Concoctionist.cfg:35
+msgid ""
+"This saurian shaman always carries a large cauldron where he cooks various "
+"magical concoctions, such as healing potions, deadly posions or blinding "
+"mist."
+msgstr ""
+"Este chamán saurio siempre carga con un gran caldero en el que prepara "
+"diversas pociones mágicas, como brebajes curativos, venenos mortales o "
+"niebla cegadora."
+
+#. [attack], type=impact, range=melee
+#: Refumees_Saurian_Pack/images/units/unused/inkys_quest/IQ_Saurian_Concoctionist.cfg:73
+msgid "poisonous touch"
+msgstr "toque venenoso"
+
+#. [attack], type=impact, range=ranged
+#: Refumees_Saurian_Pack/images/units/unused/inkys_quest/IQ_Saurian_Concoctionist.cfg:97
+msgid "poisonous vapors"
+msgstr "vapores venenosos"
+
+#. [unit_type], id=IQ Saurian Thunderer, race=lizard
+#: Refumees_Saurian_Pack/images/units/unused/inkys_quest/IQ_Saurian_Thunderer.cfg:4
+msgid "Saurian Thunderer"
+msgstr "Atronador Saurio"
+
+#. [unit_type], id=IQ Saurian Thunderer, race=lizard
+#: Refumees_Saurian_Pack/images/units/unused/inkys_quest/IQ_Saurian_Thunderer.cfg:19
+msgid ""
+"This Saurian has stolen a dwarvish thunderstick and learned how to use it. "
+"However, he lacks the skill of trained dwarvish thunderers."
+msgstr ""
+"Este saurio ha robado una atronadora enana y ha aprendido a usarla. Sin "
+"embargo, le falta la destreza de los atronadores enanos entrenados."
+
+#. [unit_type], id=Exi Saurian Armorer, race=exi_lizard
+#. [unit_type], id=Deep Saurian Armorer, race=deep-lizard
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Armor_Armorer.cfg:4
+#: Refumees_Saurian_Pack/units/deep-saurians/S2-Armorer.cfg:4
+msgid "Saurian Armorer"
+msgstr "Armero Saurio"
+
+#. [unit_type], id=Exi Saurian Armorer, race=exi_lizard
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Armor_Armorer.cfg:18
+msgid ""
+"Saurian recruits are aspiring to become skilled in the use of the spear. "
+"Despite their lethargic cold blooded heritage, and their relative frailty, "
+"recruits are highly valued as they can navigate through rough terrain and "
+"around opponents. The best recruits go on to become Saurian Guards."
+msgstr ""
+"Los reclutas saurios aspiran a perfeccionarse en el uso de la lanza. A pesar "
+"de su lánguida herencia de sangre fría y su relativa fragilidad, los "
+"reclutas son muy valorados por su capacidad para moverse por terreno difícil "
+"y sortear a los enemigos. Los mejores reclutas llegan a convertirse en "
+"Guardias Saurios."
+
+#. [unit_type], id=Exi Saurian Guardian, race=exi_lizard, gender=male
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Armor_Guard.cfg:4
+msgid "Saurian Guardian"
+msgstr "Guardián Saurio"
+
+#. [unit_type], id=Exi Saurian Guardian, race=exi_lizard, gender=male
+#. [unit_type], id=Exi Saurian Protector, race=exi_lizard, gender=male
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Armor_Guard.cfg:20
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Armor_Protector.cfg:21
+msgid ""
+"Saurian guards are clad in heavy armor and use an spear that cuts aswell as "
+"it pierces. They are fiercely loyal to their tribe and fight alongside their "
+"chieftain at every opportunity."
+msgstr ""
+"Los guardias saurios van enfundados en armadura pesada y usan una lanza que "
+"tanto corta como atraviesa. Son ferozmente leales a su tribu y combaten "
+"junto a su jefe en toda ocasión."
+
+#. [unit_type], id=Exi Saurian Protector, race=exi_lizard, gender=male
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Armor_Protector.cfg:4
+msgid "Saurian Protector"
+msgstr "Protector Saurio"
+
+#. [unit_type], id=Exi Saurian Necrolyte, race=exi_lizard
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Dark_Necrolyte.cfg:4
+msgid "Saurian Necrolyte"
+msgstr "Necrólito Saurio"
+
+#. [unit_type], id=Exi Saurian Necrolyte, race=exi_lizard
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Dark_Necrolyte.cfg:19
+msgid ""
+"The dark ritualist lives at the fringes of saurian society, despite being "
+"seen as an heretic and living as an outcast for dabbling in truely black "
+"magic, his service becomes necessary for when the rite of passage into the "
+"otherworld has to occur for an recently dead saurian."
+msgstr ""
+"El ritualista oscuro vive en los márgenes de la sociedad sauria; aunque es "
+"visto como un hereje y vive como un paria por adentrarse en la magia "
+"verdaderamente negra, sus servicios se vuelven necesarios cuando debe "
+"realizarse el rito de paso al más allá para un saurio recién fallecido."
+
+#. [unit_type], id=Exi Saurian Ritualist, race=exi_lizard
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Dark_Ritualist.cfg:4
+msgid "Saurian Ritualist"
+msgstr "Ritualista Saurio"
+
+#. [unit_type], id=Exi Saurian Ritualist, race=exi_lizard
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Dark_Ritualist.cfg:18
+msgid ""
+"The dark ritualist lives at the fringes of saurian society,despite being "
+"seen as an heretic and living as an outcast for dabbling in truely black "
+"magic, his service becomes necessary for when the rite of passage into the "
+"otherworld has to occur for an recently dead saurian."
+msgstr ""
+"El ritualista oscuro vive en los márgenes de la sociedad sauria; aunque es "
+"visto como un hereje y vive como un paria por adentrarse en la magia "
+"verdaderamente negra, sus servicios se vuelven necesarios cuando debe "
+"realizarse el rito de paso al más allá para un saurio recién fallecido."
+
+#. [unit_type], id=Exi Saurian Beastmaster, race=exi_lizard
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Drakeling_Beastmaster.cfg:4
+msgid "Saurian Beastmaster"
+msgstr "Domador de Bestias Saurio"
+
+#. [unit_type], id=Exi Saurian Beastmaster, race=exi_lizard
+#. [unit_type], id=Exi Saurian Tamer, race=exi_lizard
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Drakeling_Beastmaster.cfg:19
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Drakeling_Tamer.cfg:18
+msgid ""
+"The Saurian tamers are an vicious bunch. They get themselves an drake egg, "
+"often through less desireable methods such as theft, and watch over it until "
+"an drakeling hatches. Then they enslave the young drake and goad it into "
+"battle as if its an war-dog."
+msgstr ""
+"Los domadores saurios son una pandilla despiadada. Se consiguen un huevo de "
+"draco, a menudo por métodos poco deseables como el robo, y lo vigilan hasta "
+"que eclosiona una cría de draco. Luego esclavizan al joven draco y lo "
+"incitan a la batalla como si fuera un perro de guerra."
+
+#. [unit_type], id=Exi Saurian Tamer, race=exi_lizard
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Drakeling_Tamer.cfg:4
+msgid "Saurian Tamer"
+msgstr "Domador Saurio"
+
+#. [unit_type], id=Exi Hill Saurian, race=exi_lizard
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Hammer_Hill.cfg:4
+msgid "Hill Saurian"
+msgstr "Saurio de las Colinas"
+
+#. [unit_type], id=Exi Hill Saurian, race=exi_lizard
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Hammer_Hill.cfg:18
+msgid ""
+"Hill Saurian are named such for spending their time searching and extracting "
+"the ore for they are the tribe's blacksmiths. They forge themselves an "
+"chainmail armor to wear with pride, at times of war they like to bash heads "
+"of opponents with the heavy hammer they work with."
+msgstr ""
+"Los Saurios de las Colinas reciben ese nombre por pasar su tiempo buscando y "
+"extrayendo mineral, pues son los herreros de la tribu. Se forjan una "
+"armadura de cota de malla que lucen con orgullo; en tiempos de guerra les "
+"gusta aplastar cabezas enemigas con el pesado martillo con el que trabajan."
+
+#. [unit_type], id=Exi Mountain Saurian, race=exi_lizard
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Hammer_Mountain.cfg:4
+msgid "Mountain Saurian"
+msgstr "Saurio de las Montañas"
+
+#. [unit_type], id=Exi Mountain Saurian, race=exi_lizard
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Hammer_Mountain.cfg:19
+msgid ""
+"The more experienced of the saurian smiths have gained the ability to travel "
+"through mountain and hills with ease in their search for precious rare ore "
+"to work with."
+msgstr ""
+"Los herreros saurios más experimentados han adquirido la capacidad de "
+"recorrer montañas y colinas con facilidad en su búsqueda de mineral raro y "
+"precioso con el que trabajar."
+
+#. [unit_type], id=Exi Saurian Trainee, race=exi_lizard, gender=male
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Knife_Trainee.cfg:4
+msgid "Saurian Trainee"
+msgstr "Aprendiz Saurio"
+
+#. [unit_type], id=Exi Saurian Trainee, race=exi_lizard, gender=male
+#. [unit_type], id=Ref Saurian Knifethrower Thief, race=thief-lizard
+#. [unit_type], id=Ref Saurian Knifethrower, race=thief-lizard
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Knife_Trainee.cfg:19
+#: Refumees_Saurian_Pack/units/thief-saurians/S1-Knifethrower-thief.cfg:17
+#: Refumees_Saurian_Pack/units/thief-saurians/S1-Knifethrower.cfg:17
+msgid ""
+"Some saurians take up the path of stealth, those practice fighting with "
+"daggers and throwing knives."
+msgstr ""
+"Algunos saurios emprenden el camino del sigilo; estos se ejercitan en el "
+"combate con dagas y cuchillos arrojadizos."
+
+#. [attack], type=blade, range=short
+#. [attack], type=blade, range=ranged
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Knife_Trainee.cfg:45
+#: Refumees_Saurian_Pack/units/desert-saurians/S1-Milita.cfg:46
+#: Refumees_Saurian_Pack/units/desert-saurians/S2-Soldier.cfg:47
+#: Refumees_Saurian_Pack/units/desert-saurians/S3-Knight.cfg:48
+#: Refumees_Saurian_Pack/units/thief-saurians/S1-Knifethrower-thief.cfg:44
+#: Refumees_Saurian_Pack/units/thief-saurians/S1-Knifethrower.cfg:44
+#: Refumees_Saurian_Pack/units/thief-saurians/S2-Seeker-thief.cfg:49
+#: Refumees_Saurian_Pack/units/thief-saurians/S2-Seeker.cfg:49
+#: Refumees_Saurian_Pack/units/thief-saurians/S3-Slayer-thief.cfg:51
+#: Refumees_Saurian_Pack/units/thief-saurians/S3-Slayer.cfg:51
+msgid "throwing knife"
+msgstr "cuchillo arrojadizo"
+
+#. [unit_type], id=Exi Lizard Master, race=exi_lizard, gender=male
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Lizard_Master.cfg:4
+msgid "Saurian Chieftain"
+msgstr "Jefe Saurio"
+
+#. [unit_type], id=Exi Lizard Master, race=exi_lizard, gender=male
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Lizard_Master.cfg:21
+msgid ""
+"The larger, beastly reptiles dwelling in the swamp are tamed and then got to "
+"be ridden by the saurian chieftains, who lead their tribe into battle "
+"wearing the best armor."
+msgstr ""
+"Los reptiles más grandes y bestiales que habitan en el pantano son domados y "
+"luego montados por los jefes saurios, quienes conducen a su tribu a la "
+"batalla luciendo la mejor armadura."
+
+#. [unit_type], id=Exi Lizard Rider, race=exi_lizard, gender=male
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Lizard_Rider.cfg:4
+msgid "Lizard Rider"
+msgstr "Jinete de Lagarto"
+
+#. [unit_type], id=Exi Lizard Rider, race=exi_lizard, gender=male
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Lizard_Rider.cfg:20
+msgid ""
+"The larger, beastly reptiles dwelling in the swamp are tamed and then get "
+"ridden by Saurian warriors, who goad them on to find prey suitable for "
+"dinner."
+msgstr ""
+"Los reptiles más grandes y bestiales que habitan en el pantano son domados y "
+"luego montados por guerreros saurios, que los incitan a buscar presas "
+"adecuadas para la cena."
+
+#. [unit_type], id=Exi Saurian Despoiler, race=exi_lizard
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Magic_Despoiler.cfg:4
+msgid "Saurian Despoiler"
+msgstr "Devastador Saurio"
+
+#. [unit_type], id=Exi Saurian Despoiler, race=exi_lizard
+#. [unit_type], id=Exi Saurian Elementalist, race=exi_lizard
+#. [unit_type], id=Exi Saurian Profaner, race=exi_lizard
+#. [unit_type], id=Exi Saurian Sorceror, race=exi_lizard
+#. [unit_type], id=Exi Saurian Summoner, race=exi_lizard
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Magic_Despoiler.cfg:19
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Magic_Elementalist.cfg:19
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Magic_Profaner.cfg:18
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Magic_Sorceror.cfg:18
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Magic_Summoner.cfg:18
+msgid "Description pending."
+msgstr "Descripción pendiente."
+
+#. [attack], type=impact, range=melee
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Magic_Despoiler.cfg:31
+msgid "cursed staff"
+msgstr "bastón maldito"
+
+#. [attack], type=unholy, range=short
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Magic_Despoiler.cfg:45
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Magic_Profaner.cfg:45
+msgid "blight"
+msgstr "plaga"
+
+#. [unit_type], id=Exi Saurian Elementalist, race=exi_lizard
+#. [unit_type], id=Ref Saurian Elementalist, race=lizard, gender=male
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Magic_Elementalist.cfg:4
+#: Refumees_Saurian_Pack/units/saurians/S2-Elementalist.cfg:4
+msgid "Saurian Elementalist"
+msgstr "Elementalista Saurio"
+
+#. [attack], type=fire, range=ranged
+#. [attack], type=fire, range=short
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Magic_Elementalist.cfg:31
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Magic_Elementalist.cfg:43
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Magic_Summoner.cfg:30
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Magic_Summoner.cfg:42
+msgid "fire ball"
+msgstr "bola de fuego"
+
+#. [attack], type=cold, range=ranged
+#. [attack], type=cold, range=short
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Magic_Elementalist.cfg:56
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Magic_Elementalist.cfg:69
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Magic_Summoner.cfg:55
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Magic_Summoner.cfg:68
+msgid "ice ball"
+msgstr "bola de hielo"
+
+#. [unit_type], id=Exi Saurian Profaner, race=exi_lizard
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Magic_Profaner.cfg:4
+msgid "Saurian Profaner"
+msgstr "Profanador Saurio"
+
+#. [unit_type], id=Exi Saurian Sorceror, race=exi_lizard
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Magic_Sorceror.cfg:4
+msgid "Saurian Sorceror"
+msgstr "Hechicero Saurio"
+
+#. [attack], type=cold, range=short
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Magic_Sorceror.cfg:42
+msgid "cold wave"
+msgstr "ola de frío"
+
+#. [unit_type], id=Exi Saurian Summoner, race=exi_lizard
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Magic_Summoner.cfg:4
+msgid "Saurian Summoner"
+msgstr "Invocador Saurio"
+
+#. [unit_type], id=Exi Skald, race=exi_lizard
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Skald.cfg:4
+msgid "Skald"
+msgstr "Skald"
+
+#. [unit_type], id=Exi Skald, race=exi_lizard
+#. [unit_type], id=Exi Skald Frenzy, race=exi_lizard
+#. [unit_type], id=Exi Skald Youth, race=exi_lizard
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Skald.cfg:17
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Skald_Frenzy.cfg:17
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Skald_Youth.cfg:17
+msgid ""
+"The Skalds are an different, some would say flawed, breed of saurians which "
+"can grow to monstrous sizes, and thus are considerably tougher, but move "
+"slower. They are defined by their poisonous bite which they use as a last "
+"resort, as their poison containers swell and bloat at continued use, "
+"negatively effecting the mental health of the creature."
+msgstr ""
+"Los Skalds son una raza diferente, algunos dirían defectuosa, de saurios que "
+"pueden crecer hasta tamaños monstruosos y son considerablemente más "
+"resistentes, aunque se mueven más lentamente. Se distinguen por su mordedura "
+"venenosa, que usan como último recurso, ya que sus glándulas de veneno se "
+"hinchan y dilatan con el uso continuado, afectando negativamente la salud "
+"mental de la criatura."
+
+#. [attack], type=pierce, range=melee
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Skald.cfg:35
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Skald_Frenzy.cfg:38
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Skald_Maniac.cfg:39
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Skald_Youth.cfg:35
+msgid "poisonous bite"
+msgstr "mordedura venenosa"
+
+#. [unit_type], id=Exi Skald Frenzy, race=exi_lizard
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Skald_Frenzy.cfg:4
+msgid "Skald Frenzy"
+msgstr "Skald Frenético"
+
+#. [unit_type], id=Exi Skald Maniac, race=exi_lizard
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Skald_Maniac.cfg:4
+msgid "Skald Maniac"
+msgstr "Skald Maníaco"
+
+#. [unit_type], id=Exi Skald Maniac, race=exi_lizard
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Skald_Maniac.cfg:18
+msgid ""
+"The poison of the Skalds sometimes affects their mind in a nasty way. Those "
+"skalds that have a high concentration of it are driven insane from the pain, "
+"they are called maniacs by their kind because they enter battle with a "
+"frenzy unmatched by any other, wrestling their opponent to the ground and "
+"then ripping him to pieces with dagger and claw."
+msgstr ""
+"El veneno de los Skalds a veces afecta su mente de forma terrible. Aquellos "
+"Skalds con una alta concentración de veneno enloquecen a causa del dolor; "
+"sus congéneres los llaman maníacos porque entran en batalla con un frenesí "
+"sin igual, derribando a su adversario al suelo para luego despedazarlo con "
+"daga y garra."
+
+#. [attack], type=impact, range=melee
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Skald_Maniac.cfg:52
+msgid "wrestle"
+msgstr "forcejeo"
+
+#. [unit_type], id=Exi Skald Youth, race=exi_lizard
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Skald_Youth.cfg:4
+msgid "Young Skald"
+msgstr "Skald Joven"
+
+#. [unit_type], id=Exi Saurian Champion, race=exi_lizard
+#. [unit_type], id=Saurian Champion, race=black-marshes-saurians
+#. [unit_type], id=Deep Saurian Champion, race=deep-lizard
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Sword_Champion.cfg:4
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S3-Champion.cfg:4
+#: Refumees_Saurian_Pack/units/campaign-saurians/S3-Champion(Refumee).cfg:4
+msgid "Saurian Champion"
+msgstr "Campeón Saurio"
+
+#. [unit_type], id=Exi Saurian Champion, race=exi_lizard
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Sword_Champion.cfg:19
+msgid ""
+"If a saurian gladiator survives enough battles he is declared a champion "
+"among lizards."
+msgstr ""
+"Si un gladiador saurio sobrevive suficientes batallas, es declarado campeón "
+"entre los lagartos."
+
+#. [attack], type=blade, range=melee
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Sword_Champion.cfg:33
+msgid "long sword"
+msgstr "espada larga"
+
+#. [unit_type], id=Exi Saurian Duelist, race=exi_lizard
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Sword_Duelist.cfg:4
+msgid "Saurian Duelist"
+msgstr "Duelista Saurio"
+
+#. [unit_type], id=Exi Saurian Duelist, race=exi_lizard
+#. [unit_type], id=Exi Saurian Gladiator, race=exi_lizard
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Sword_Duelist.cfg:18
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Sword_Gladiator.cfg:18
+msgid ""
+"Saurians are as a whole primitive savages, lacking both the technology and "
+"the discipline to produce truly effective soldiers. Ocasionally however a "
+"saurian is given equipment and training by more advanced races, often "
+"captives taken from their tribe and groomed as contestants in blood sport or "
+"as conscript soldiers. The combination of their superior agility with "
+"advanced weaponry and combat technique makes them skilled and deadly "
+"opponents; those that manage to escape their fate and rejoin their tribe are "
+"inevitably destined to become great champions among their people."
+msgstr ""
+"Los saurios son en general salvajes primitivos, carentes tanto de la "
+"tecnología como de la disciplina para producir soldados verdaderamente "
+"eficaces. Sin embargo, en ocasiones un saurio recibe equipamiento y "
+"entrenamiento de razas más avanzadas, a menudo como cautivo arrancado de su "
+"tribu y preparado como contendiente en deportes de sangre o como soldado de "
+"leva. La combinación de su agilidad superior con armamento avanzado y "
+"técnica de combate los convierte en adversarios hábiles y letales; quienes "
+"logran escapar a su destino y reunirse con su tribu están inevitablemente "
+"destinados a convertirse en grandes campeones entre los suyos."
+
+#. [unit_type], id=Exi Saurian Gladiator, race=exi_lizard
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Sword_Gladiator.cfg:4
+msgid "Saurian Gladiator"
+msgstr "Gladiador Saurio"
+
+#. [attack], type=blade, range=melee
+#: Refumees_Saurian_Pack/images/units/unused/saurian-swamp/Sword_Gladiator.cfg:28
+msgid "gladius"
+msgstr "gladius"
+
+#. [+heals]
+#: Refumees_Saurian_Pack/macros/abilities.cfg:32
+msgid ""
+"This unit is capable of healing those around it and curing them of poison."
+msgstr ""
+"Esta unidad es capaz de sanar a las unidades cercanas y curarlas del veneno."
+
+#. [leadership], id=sorrow
+#: Refumees_Saurian_Pack/macros/abilities.cfg:47
+msgid "sorrow"
+msgstr "aflicción"
+
+#. [leadership], id=sorrow
+#: Refumees_Saurian_Pack/macros/abilities.cfg:48
+msgid "Adjacent enemy units do 25% less damage."
+msgstr "Las unidades enemigas adyacentes causan un 25% menos de daño."
+
+#. [skirmisher], id=distract
+#: Refumees_Saurian_Pack/macros/abilities.cfg:62
+msgid "distract"
+msgstr "distraer"
+
+#. [skirmisher], id=distract
+#: Refumees_Saurian_Pack/macros/abilities.cfg:63
+msgid "female^distract"
+msgstr "distraer"
+
+#. [skirmisher], id=distract
+#: Refumees_Saurian_Pack/macros/abilities.cfg:64
+msgid ""
+"This unit negates enemy Zones of Control around itself for allied units (but "
+"not for itself)."
+msgstr ""
+"Esta unidad anula las Zonas de Control enemigas a su alrededor para las "
+"unidades aliadas (pero no para sí misma)."
+
+#. [skirmisher], id=distract
+#: Refumees_Saurian_Pack/macros/abilities.cfg:65
+msgid ""
+"This unit is capable of distracting opponents, allowing allied units to "
+"trespass their Zones of Control and move unhindered around them."
+msgstr ""
+"Esta unidad es capaz de distraer a los rivales, lo que permite a las "
+"unidades aliadas traspasar sus Zonas de Control y moverse libremente a su "
+"alrededor."
+
+#. [resistance], id=steadfast_armor
+#. [resistance], id=steadfast_armor2
+#: Refumees_Saurian_Pack/macros/abilities.cfg:81
+#: Refumees_Saurian_Pack/macros/abilities.cfg:105
+msgid "armor up"
+msgstr "refuerzo de armadura"
+
+#. [resistance], id=steadfast_armor
+#. [resistance], id=steadfast_armor2
+#: Refumees_Saurian_Pack/macros/abilities.cfg:82
+#: Refumees_Saurian_Pack/macros/abilities.cfg:106
+msgid "female^armor up"
+msgstr "refuerzo de armadura"
+
+#. [resistance], id=steadfast_armor
+#: Refumees_Saurian_Pack/macros/abilities.cfg:83
+msgid ""
+"This unit adds 10 to the resistances of all adjacent ally units, up to a "
+"maximum of 40%."
+msgstr ""
+"Esta unidad añade 10 a las resistencias de todas las unidades aliadas "
+"adyacentes, hasta un máximo del 40%."
+
+#. [resistance], id=steadfast_armor2
+#: Refumees_Saurian_Pack/macros/abilities.cfg:107
+msgid ""
+"This unit adds 20 to the resistances of all adjacent ally units, up to a "
+"maximum of 40%."
+msgstr ""
+"Esta unidad añade 20 a las resistencias de todas las unidades aliadas "
+"adyacentes, hasta un máximo del 40%."
+
+#. [hides], id=stalking
+#: Refumees_Saurian_Pack/macros/abilities.cfg:143
+msgid "stalking"
+msgstr "sigilo pantanoso"
+
+#. [hides], id=stalking
+#: Refumees_Saurian_Pack/macros/abilities.cfg:144
+msgid "female^swamp stalking"
+msgstr "sigilo pantanoso"
+
+#. [hides], id=stalking
+#: Refumees_Saurian_Pack/macros/abilities.cfg:145
+msgid ""
+"This unit can hide in swamp, deep water, sand, underground, and remain "
+"undetected by its enemies.\n"
+"\n"
+"Enemy units cannot see this unit while it is in swamp, except if they have "
+"units next to it. Any enemy unit that first discovers this unit immediately "
+"loses all its remaining movement."
+msgstr ""
+"Esta unidad puede ocultarse en pantanos, aguas profundas, arena y bajo "
+"tierra, y pasar desapercibida para sus enemigos.\n"
+"\n"
+"Las unidades enemigas no pueden ver a esta unidad mientras esté en un "
+"pantano, a menos que tengan unidades adyacentes a ella. Cualquier unidad "
+"enemiga que descubra a esta unidad por primera vez pierde de inmediato todo "
+"su movimiento restante."
+
+#. [regenerate], id=regenerates_swamp
+#: Refumees_Saurian_Pack/macros/abilities.cfg:161
+msgid "mud bath"
+msgstr "baño de barro"
+
+#. [regenerate], id=regenerates_swamp
+#: Refumees_Saurian_Pack/macros/abilities.cfg:162
+msgid "female^mud bath"
+msgstr "baño de barro"
+
+#. [regenerate], id=regenerates_swamp
+#: Refumees_Saurian_Pack/macros/abilities.cfg:163
+msgid ""
+"The unit will heal itself 4 HP per turn, if it sits in a swamp tile. If it "
+"is poisoned, it will remove the poison instead of healing."
+msgstr ""
+"La unidad se sanará 4 PS por turno si se encuentra en una casilla de "
+"pantano. Si está envenenada, eliminará el veneno en lugar de sanar."
+
+#. [regenerate], id=regenerates_swamp
+#: Refumees_Saurian_Pack/macros/abilities.cfg:164
+msgid ""
+"This unit heals itself each turn, though not as much as if stationed in a "
+"village."
+msgstr ""
+"Esta unidad se sana cada turno, aunque no tanto como si estuviera en una "
+"aldea."
+
+#. [leadership], id=terror
+#: Refumees_Saurian_Pack/macros/abilities.cfg:181
+#: Refumees_Saurian_Pack/macros/abilities.cfg:216
+#: Refumees_Saurian_Pack/macros/abilities.cfg:265
+msgid "terror"
+msgstr "terror"
+
+#. [leadership], id=terror
+#: Refumees_Saurian_Pack/macros/abilities.cfg:182
+#: Refumees_Saurian_Pack/macros/abilities.cfg:217
+#: Refumees_Saurian_Pack/macros/abilities.cfg:266
+msgid ""
+"This unit can frighten enemy units that are next to it, making them fight "
+"worse.\n"
+"\n"
+"Adjacent enemy units of lower level will do less damage in battle. When a "
+"unit adjacent to, of the same level, or a lower level than, and is an enemy "
+"of the unit with Terror engages in combat, its attacks do 15% less damage "
+"times the difference in their levels + 15%."
+msgstr ""
+"Esta unidad puede aterrorizar a las unidades enemigas adyacentes, haciendo "
+"que combatan peor.\n"
+"\n"
+"Las unidades enemigas adyacentes de nivel inferior causarán menos daño en "
+"batalla. Cuando una unidad adyacente, del mismo nivel o de nivel inferior, "
+"que sea enemiga de la unidad con Terror trabe combate, sus ataques causan un "
+"15% menos de daño multiplicado por la diferencia de niveles más un 15%."
+
+#. [plague], id=plague_mud
+#: Refumees_Saurian_Pack/macros/abilities.cfg:328
+msgid "mud revival"
+msgstr "revivir con lodo"
+
+#. [plague], id=plague_mud
+#: Refumees_Saurian_Pack/macros/abilities.cfg:329
+msgid ""
+"When killing an opponent, turns into a mudcrawler. This doesn’t work on "
+"Undead or units in villages."
+msgstr ""
+"Al matar a un oponente, este se convierte en un reptador de lodo. Esto no "
+"funciona en no-muertos ni en unidades que estén en aldeas."
+
+#. [plague], id=plague_mud
+#: Refumees_Saurian_Pack/macros/abilities.cfg:339
+msgid "greater mud revival"
+msgstr "revivir con lodo gigante"
+
+#. [plague], id=plague_mud
+#: Refumees_Saurian_Pack/macros/abilities.cfg:340
+msgid ""
+"When killing an opponent, turns into a giant mudcrawler. This doesn’t work "
+"on Undead or units in villages."
+msgstr ""
+"Al matar a un oponente, este se convierte en un reptador de lodo gigante. "
+"Esto no funciona en no-muertos ni en unidades que estén en aldeas."
+
+#. [heal_on_hit]
+#: Refumees_Saurian_Pack/macros/abilities.cfg:348
+msgid "feasts"
+msgstr "se alimenta"
+
+#. [heal_on_hit]
+#: Refumees_Saurian_Pack/macros/abilities.cfg:349
+msgid "This unit heals {X} HP on hit."
+msgstr "Esta unidad sana {X} PV al impactar."
+
+#. [firststrike], id=initiative
+#: Refumees_Saurian_Pack/macros/abilities.cfg:358
+msgid "initiative"
+msgstr "iniciativa"
+
+#. [firststrike], id=initiative
+#: Refumees_Saurian_Pack/macros/abilities.cfg:359
+msgid ""
+"All adjacent friendly units will strike first in melee combat, even when "
+"defending."
+msgstr ""
+"Todas las unidades aliadas adyacentes atacan primero en combate cuerpo a "
+"cuerpo, incluso cuando se defienden."
+
+#. [firststrike], id=initiative
+#: Refumees_Saurian_Pack/macros/abilities.cfg:360
+msgid ""
+"This unit’s grasp of melee tactics allows adjacent allies to strike the "
+"first blow even when defending."
+msgstr ""
+"El dominio de las tácticas cuerpo a cuerpo de esta unidad permite que sus "
+"aliados adyacentes asesten el primer golpe incluso cuando se defienden."
+
+#. [hides], id=ambush_still
+#: Refumees_Saurian_Pack/macros/abilities.cfg:405
+msgid "weaker ambush"
+msgstr "emboscada débil"
+
+#. [hides], id=ambush_still
+#: Refumees_Saurian_Pack/macros/abilities.cfg:406
+msgid "female^weaker ambush"
+msgstr "emboscada débil"
+
+#. [hides], id=ambush_still
+#: Refumees_Saurian_Pack/macros/abilities.cfg:407
+msgid ""
+"This unit can hide in forest if it is resting (has not moved for a turn), "
+"and remain undetected by its enemies.\n"
+"\n"
+"Enemy units cannot see this unit while it is in forest, except if they have "
+"units next to it. Any enemy unit that first discovers this unit immediately "
+"loses all its remaining movement."
+msgstr ""
+"Esta unidad puede ocultarse en el bosque si está descansando (no se ha "
+"movido durante un turno) y permanecer sin ser detectada por sus enemigos.\n"
+"\n"
+"Las unidades enemigas no pueden ver a esta unidad mientras esté en el "
+"bosque, excepto si tienen unidades a su lado. Cualquier unidad enemiga que "
+"descubra primero a esta unidad pierde inmediatamente todo su movimiento "
+"restante."
+
+#. [resistance], id=steadfast_armor_talisman
+#: Refumees_Saurian_Pack/macros/abilities.cfg:429
+msgid "steadfast talisman"
+msgstr "talismán de firmeza"
+
+#. [resistance], id=steadfast_armor_talisman
+#: Refumees_Saurian_Pack/macros/abilities.cfg:430
+msgid "female^steadfast talisman"
+msgstr "talismán de firmeza"
+
+#. [resistance], id=steadfast_armor_talisman
+#: Refumees_Saurian_Pack/macros/abilities.cfg:431
+#: Refumees_Saurian_Pack/macros/items.cfg:998
+msgid ""
+"This unit’s resistances is increased by 20%, up to a maximum of 50%, when "
+"defending."
+msgstr ""
+"Las resistencias de esta unidad aumentan un 20 %, hasta un máximo del 50 %, "
+"cuando se defiende."
+
+#. [dummy], id=bola_weapon
+#. [unstore_unit]
+#: Refumees_Saurian_Pack/macros/abilities_events.cfg:6
+#: Refumees_Saurian_Pack/macros/abilities_events.cfg:282
+#: Refumees_Saurian_Pack/macros/abilities_events.cfg:392
+msgid "bola"
+msgstr "bola"
+
+#. [dummy], id=bola_weapon
+#: Refumees_Saurian_Pack/macros/abilities_events.cfg:7
+msgid ""
+"When hit with this attack, an enemy suffers a 10% penalty to their defence "
+"and 50% of movement for one turn."
+msgstr ""
+"Cuando se impacta con este ataque, el enemigo sufre una penalización del 10 "
+"% a su defensa y del 50 % a su movimiento durante un turno."
+
+#. [dummy], id=smoke_bomb
+#. [attack], type=impact, range=ranged
+#: Refumees_Saurian_Pack/macros/abilities_events.cfg:14
+#: Refumees_Saurian_Pack/units/saurians/S2-Mireblade.cfg:65
+#: Refumees_Saurian_Pack/units/saurians/S3-Stillwater.cfg:66
+#: Refumees_Saurian_Pack/units/thief-saurians/S2-Seeker-thief.cfg:61
+#: Refumees_Saurian_Pack/units/thief-saurians/S2-Seeker.cfg:61
+#: Refumees_Saurian_Pack/units/thief-saurians/S3-Slayer-thief.cfg:64
+#: Refumees_Saurian_Pack/units/thief-saurians/S3-Slayer.cfg:64
+msgid "smoke bomb"
+msgstr "bomba de humo"
+
+#. [dummy], id=smoke_bomb
+#: Refumees_Saurian_Pack/macros/abilities_events.cfg:15
+msgid ""
+"When hit with this attack, an enemy suffers a 10% penalty to their defence, "
+"attack, zone of control, -2 movement and -2 vision for one turn."
+msgstr ""
+"Cuando se impacta con este ataque, el enemigo sufre una penalización del 10 "
+"% a su defensa, ataque, zona de control, -2 de movimiento y -2 de visión "
+"durante un turno."
+
+#. [dummy], id=poison_skin
+#: Refumees_Saurian_Pack/macros/abilities_events.cfg:22
+msgid "poison skin"
+msgstr "piel venenosa"
+
+#. [dummy], id=poison_skin
+#: Refumees_Saurian_Pack/macros/abilities_events.cfg:23
+msgid "When an enemy hits this unit in melee it is getting poisoned."
+msgstr ""
+"Cuando un enemigo impacta a esta unidad en combate cuerpo a cuerpo, esta "
+"queda envenenada."
+
+#. [dummy], id=barrier
+#: Refumees_Saurian_Pack/macros/abilities_events.cfg:30
+msgid "magical barrier"
+msgstr "barrera mágica"
+
+#. [dummy], id=barrier
+#: Refumees_Saurian_Pack/macros/abilities_events.cfg:31
+msgid "female^magical barrier"
+msgstr "barrera mágica"
+
+#. [dummy], id=barrier
+#: Refumees_Saurian_Pack/macros/abilities_events.cfg:32
+msgid "This unit is immune to slow, drain, and plague."
+msgstr "Esta unidad es inmune a ralentizar, drenaje y plaga."
+
+#. [unstore_unit]
+#: Refumees_Saurian_Pack/macros/abilities_events.cfg:283
+#: Refumees_Saurian_Pack/macros/abilities_events.cfg:393
+msgid "female^bola"
+msgstr "bola"
+
+#. [unstore_unit]
+#: Refumees_Saurian_Pack/macros/abilities_events.cfg:533
+#: Refumees_Saurian_Pack/macros/abilities_events.cfg:699
+msgid "smoked"
+msgstr "ahumado"
+
+#. [unstore_unit]
+#: Refumees_Saurian_Pack/macros/abilities_events.cfg:534
+#: Refumees_Saurian_Pack/macros/abilities_events.cfg:700
+msgid "female^smoked"
+msgstr "ahumada"
+
+#. [dummy], id=disengage
+#: Refumees_Saurian_Pack/macros/abilities_events.cfg:873
+msgid "disengage"
+msgstr "desenganchar"
+
+#. [dummy], id=disengage
+#: Refumees_Saurian_Pack/macros/abilities_events.cfg:874
+msgid "female^disengage"
+msgstr "desenganchar"
+
+#. [dummy], id=disengage
+#: Refumees_Saurian_Pack/macros/abilities_events.cfg:875
+msgid ""
+"If this unit doesn’t move before attacking, it will retain its movement "
+"points after the attack."
+msgstr ""
+"Si esta unidad no se mueve antes de atacar, conservará sus puntos de "
+"movimiento después del ataque."
+
+#. [dummy], id=disengage
+#: Refumees_Saurian_Pack/macros/abilities_events.cfg:876
+msgid "This unit can move either before or after attacking."
+msgstr "Esta unidad puede moverse antes o después de atacar."
+
+#. [dummy], id=teaching_saurian
+#: Refumees_Saurian_Pack/macros/abilities_events.cfg:907
+msgid "teaching"
+msgstr "enseñanza"
+
+#. [dummy], id=teaching_saurian
+#: Refumees_Saurian_Pack/macros/abilities_events.cfg:908
+msgid "female^teaching"
+msgstr "enseñanza"
+
+#. [dummy], id=teaching_saurian
+#: Refumees_Saurian_Pack/macros/abilities_events.cfg:909
+msgid ""
+"At the start of every turn, this unit grants 3 experience points to all the "
+"units of the same side adjacent to it."
+msgstr ""
+"Al comienzo de cada turno, esta unidad otorga 3 puntos de experiencia a "
+"todas las unidades del mismo bando que estén adyacentes a ella."
+
+#. [advancement], id=amla_default_vp
+#: Refumees_Saurian_Pack/macros/amla-heroes.cfg:46
+msgid "Max HP bonus +5, Max XP +20%"
+msgstr "Bonificación máxima de PV +5, experiencia máxima +20 %"
+
+#. [unstore_unit]
+#: Refumees_Saurian_Pack/macros/battlecry.cfg:20
+msgid "Skalith Hyksa!"
+msgstr "¡Skalith Hyksa!"
+
+#. [unstore_unit]
+#: Refumees_Saurian_Pack/macros/battlecry.cfg:21
+msgid "female^Skalith Hyksa!"
+msgstr "¡Skalith Hyksa!"
+
+#. [unstore_unit]
+#: Refumees_Saurian_Pack/macros/battlecry.cfg:34
+msgid "Ksssh!"
+msgstr "¡Ksssh!"
+
+#. [unstore_unit]
+#: Refumees_Saurian_Pack/macros/battlecry.cfg:35
+msgid "female^Ksssh!"
+msgstr "¡Ksssh!"
+
+#. [unstore_unit]
+#: Refumees_Saurian_Pack/macros/battlecry.cfg:49
+msgid "Shasss!"
+msgstr "¡Shasss!"
+
+#. [unstore_unit]
+#: Refumees_Saurian_Pack/macros/battlecry.cfg:50
+msgid "female^Shasss!"
+msgstr "¡Shasss!"
+
+#. [damage_type]
+#: Refumees_Saurian_Pack/macros/items.cfg:54
+msgid ""
+"This attack combines the fire type with the type of weapon used so that "
+"resistance to the fire type does not penalize the user."
+msgstr ""
+"Este ataque combina el tipo fuego con el tipo de arma utilizada, de modo que "
+"la resistencia al fuego no penaliza al usuario."
+
+#. [damage_type]
+#: Refumees_Saurian_Pack/macros/items.cfg:55
+msgid ""
+"This unit can use the fire type when the opponent is particularly sensitive "
+"to it in relation to the weapon on which it is applied."
+msgstr ""
+"Esta unidad puede usar el tipo fuego cuando el oponente es especialmente "
+"sensible a él en relación con el arma a la que se aplica."
+
+#. [damage_type]
+#: Refumees_Saurian_Pack/macros/items.cfg:66
+msgid ""
+"This attack combines the cold type with the type of weapon used so that "
+"resistance to the cold type does not penalize the user."
+msgstr ""
+"Este ataque combina el tipo frío con el tipo de arma utilizada, de modo que "
+"la resistencia al frío no penaliza al usuario."
+
+#. [damage_type]
+#: Refumees_Saurian_Pack/macros/items.cfg:67
+msgid ""
+"This unit can use the cold type when the opponent is particularly sensitive "
+"to it in relation to the weapon on which it is applied."
+msgstr ""
+"Esta unidad puede usar el tipo frío cuando el oponente es especialmente "
+"sensible a él en relación con el arma a la que se aplica."
+
+#. [object]
+#: Refumees_Saurian_Pack/macros/items.cfg:75
+msgid "Fire Stone"
+msgstr "Piedra de fuego"
+
+#. [object]
+#: Refumees_Saurian_Pack/macros/items.cfg:110
+msgid "Cold Stone"
+msgstr "Piedra de frío"
+
+#. [object]
+#: Refumees_Saurian_Pack/macros/items.cfg:154
+msgid "Target Stone"
+msgstr "Piedra de objetivo"
+
+#. [object]
+#: Refumees_Saurian_Pack/macros/items.cfg:198
+msgid "Poison Potion"
+msgstr "Poción de veneno"
+
+#. [object]
+#: Refumees_Saurian_Pack/macros/items.cfg:233
+msgid "Troll Potion"
+msgstr "Poción de trol"
+
+#. [object]
+#: Refumees_Saurian_Pack/macros/items.cfg:306
+msgid "urn"
+msgstr "urna"
+
+#. [message], speaker=unit
+#: Refumees_Saurian_Pack/macros/items.cfg:347
+msgid ""
+"This looks like a truly ancient sarcofagus. I can barely make the "
+"inscription on it's base."
+msgstr ""
+"Esto parece un sarcófago realmente antiguo. Apenas puedo distinguir la "
+"inscripción en su base."
+
+#. [message], speaker=narrator
+#: Refumees_Saurian_Pack/macros/items.cfg:352
+msgid ""
+"<span size='large'>Let it be known that here lies Karandil, the best of us "
+"and a true champion of light. He who defeated the accursed lich Damarcius "
+"was treacherously poisoned in his sleep by his nemesis' final henchman. His "
+"Assasin will now eternaly guard him in his final rest.</span>"
+msgstr ""
+"<span size='large'>Que se sepa que aquí yace Karandil, el mejor de nosotros "
+"y un verdadero campeón de la luz. Aquel que derrotó al maldito liche "
+"Damarcius fue traicioneramente envenenado mientras dormía por el último "
+"esbirro de su némesis. Su asesino ahora lo guardará eternamente en su "
+"descanso final.</span>"
+
+#. [then]
+#: Refumees_Saurian_Pack/macros/items.cfg:359
+msgid "Let $item_taker_name take it"
+msgstr "Dejar que $item_taker_name lo tome"
+
+#. [message], speaker=unit
+#: Refumees_Saurian_Pack/macros/items.cfg:363
+msgid ""
+"There seems to be a mace resting atop this tomb. Shall I take it? I'll need "
+"to smash the sarcophagus to retrieve it."
+msgstr ""
+"Parece que hay una maza descansando sobre esta tumba. ¿Debo tomarla? Tendré "
+"que romper el sarcófago para recuperarla."
+
+#. [command]
+#: Refumees_Saurian_Pack/macros/items.cfg:369
+msgid "Take it"
+msgstr "Tomarla"
+
+#. [object]
+#: Refumees_Saurian_Pack/macros/items.cfg:371
+msgid "Karandil's mace"
+msgstr "Maza de Karandil"
+
+#. [object]
+#: Refumees_Saurian_Pack/macros/items.cfg:372
+msgid ""
+"The mace seems to glow with an inner light. It was meant to dispose of the "
+"undead."
+msgstr ""
+"La maza parece brillar con una luz interior. Fue creada para acabar con los "
+"no-muertos."
+
+#. [effect], apply_to=new_attack, type=arcane, range=melee
+#: Refumees_Saurian_Pack/macros/items.cfg:388
+msgid "Karandil's Mace"
+msgstr "Maza de Karandil"
+
+#. [option]
+#: Refumees_Saurian_Pack/macros/items.cfg:413
+msgid "Leave it"
+msgstr "Dejarla"
+
+#. [object]
+#: Refumees_Saurian_Pack/macros/items.cfg:432
+msgid "Boots of Celerity"
+msgstr "Botas de celeridad"
+
+#: Refumees_Saurian_Pack/macros/items.cfg:468
+msgid ""
+"Grants +1 Movement Point, increases sand defense by 10%, and reduces the "
+"unit's movement cost on sand by 1."
+msgstr ""
+"Otorga +1 punto de movimiento, aumenta la defensa en arena un 10 % y reduce "
+"el costo de movimiento en arena en 1."
+
+#. [object]
+#: Refumees_Saurian_Pack/macros/items.cfg:473
+msgid "Minor Health Potion"
+msgstr "Poción menor de salud"
+
+#: Refumees_Saurian_Pack/macros/items.cfg:497
+msgid "This potion grants the Unit +6 Hitpoints."
+msgstr "Esta poción otorga a la unidad +6 puntos de vida."
+
+#. [object]
+#: Refumees_Saurian_Pack/macros/items.cfg:502
+msgid "Saurian Paralysis Potion"
+msgstr "Poción de parálisis sauria"
+
+#: Refumees_Saurian_Pack/macros/items.cfg:550
+msgid ""
+"This potion reduces hitpoints by 3 and movement points by 1, but grants the "
+"ability to cure poison on oneself and increases resistances by 30% to blade "
+"and cold damage, and by 10% to arcane damage."
+msgstr ""
+"Esta poción reduce los puntos de vida en 3 y los puntos de movimiento en 1, "
+"pero otorga la habilidad de curar veneno en uno mismo y aumenta las "
+"resistencias un 30 % al daño de corte y frío, y un 10 % al daño arcano."
+
+#. [object]
+#: Refumees_Saurian_Pack/macros/items.cfg:555
+msgid "Minor Strength Potion"
+msgstr "Poción menor de fuerza"
+
+#: Refumees_Saurian_Pack/macros/items.cfg:578
+msgid "This potion grants attacks +1 damage."
+msgstr "Esta poción otorga +1 de daño a los ataques."
+
+#. [object]
+#: Refumees_Saurian_Pack/macros/items.cfg:583
+msgid "Laughing Potion"
+msgstr "Poción de risa"
+
+#: Refumees_Saurian_Pack/macros/items.cfg:612
+msgid "This potion reduces hitpoints by 3, but increases movement points by 1."
+msgstr ""
+"Esta poción reduce los puntos de vida en 3, pero aumenta los puntos de "
+"movimiento en 1."
+
+#. [object]
+#: Refumees_Saurian_Pack/macros/items.cfg:617
+msgid "Standard Crossbow"
+msgstr "Ballesta estándar"
+
+#: Refumees_Saurian_Pack/macros/items.cfg:673
+msgid "Grants a ranged pierce attack (9 damage, 3 strikes)."
+msgstr "Otorga un ataque a distancia de penetración (9 de daño, 3 golpes)."
+
+#. [object]
+#: Refumees_Saurian_Pack/macros/items.cfg:678
+msgid "Spear of Aetheodd Esari"
+msgstr "Lanza de Aetheodd Esari"
+
+#: Refumees_Saurian_Pack/macros/items.cfg:720
+msgid ""
+"Grants melee attacks +2 damage and the magical weapon special. Also grants "
+"+30% fire resistance."
+msgstr ""
+"Otorga +2 de daño a los ataques cuerpo a cuerpo y la especialidad de arma "
+"mágica. También otorga +30 % de resistencia al fuego."
+
+#. [object]
+#: Refumees_Saurian_Pack/macros/items.cfg:725
+msgid "Ring of the Chaos Champion"
+msgstr "Anillo del Campeón del Caos"
+
+#: Refumees_Saurian_Pack/macros/items.cfg:771
+msgid "Grants +1 Movement Point,+20 hitpoints and +2 damage on all attacks."
+msgstr ""
+"Otorga +1 punto de movimiento, +20 puntos de vida y +2 de daño en todos los "
+"ataques."
+
+#. [object]
+#: Refumees_Saurian_Pack/macros/items.cfg:776
+msgid "Pendant of Fortunate Light"
+msgstr "Colgante de la luz afortunada"
+
+#: Refumees_Saurian_Pack/macros/items.cfg:815
+msgid ""
+"Grants +30% impact resistance and +20% arcane resistance. Also allows the "
+"wearer to cure themselves of poison."
+msgstr ""
+"Otorga +30 % de resistencia al impacto y +20 % de resistencia arcana. Además "
+"permite al portador curarse del veneno."
+
+#. [object]
+#: Refumees_Saurian_Pack/macros/items.cfg:820
+msgid "Aura of Stone Skin"
+msgstr "Aura de piel de piedra"
+
+#. [object]
+#: Refumees_Saurian_Pack/macros/items.cfg:823
+msgid ""
+"As a sign of his appreciation for your diplomacy and gratitude for allowing "
+"him to accompany you, Tohg Shur Nah, shaman of the Northern hill trolls, has "
+"blessed Devanar. The Aura of Stone Skin is an ancient troll enchantment "
+"bestowed upon the rare outsider deemed worthy, as a gift. Tohg's magic "
+"bolsters Devanar's blade, pierce, and cold resistance, and improves his "
+"overall health by a small amount. It may seem meager compared to other, "
+"grander spells - but a costly battle awaits, and your heroes will need every "
+"advantage they can get."
+msgstr ""
+"Como muestra de su aprecio por tu diplomacia y gratitud por permitirle "
+"acompañarte, Tohg Shur Nah, chamán de los trolls de las colinas del norte, "
+"ha bendecido a Devanar. El aura de piel de piedra es un antiguo "
+"encantamiento trol otorgado como regalo al raro forastero considerado digno. "
+"La magia de Tohg refuerza la resistencia de Devanar al corte, penetración y "
+"frío, y mejora ligeramente su salud general. Puede parecer poco comparado "
+"con otros hechizos más grandiosos, pero una batalla costosa se avecina y tus "
+"héroes necesitarán todas las ventajas posibles."
+
+#. [object]
+#: Refumees_Saurian_Pack/macros/items.cfg:857
+msgid "Drake Clasher Armour"
+msgstr "Armadura de aplastador draco"
+
+#: Refumees_Saurian_Pack/macros/items.cfg:889
+msgid "Grants +10% blade, pierce and impact resistance."
+msgstr "Otorga +10 % de resistencia a corte, penetración e impacto."
+
+#. [object]
+#: Refumees_Saurian_Pack/macros/items.cfg:894
+msgid "Drake Arbiter Halberd"
+msgstr "Alabarda de árbitro draco"
+
+#: Refumees_Saurian_Pack/macros/items.cfg:964
+msgid ""
+"Grants +7 damage and -1 attack for pierce weapons, +6 damage and -1 attack "
+"for blade weapons, and the First Strike ability for pierce weapons. The -1 "
+"attack lasts until the wielder reaches level 3."
+msgstr ""
+"Otorga +7 de daño y -1 ataque para armas de penetración, +6 de daño y -1 "
+"ataque para armas de corte, y la habilidad de primer golpe para armas de "
+"penetración. El -1 ataque dura hasta que el portador alcance el nivel 3."
+
+#. [object]
+#: Refumees_Saurian_Pack/macros/items.cfg:969
+msgid "Drake Warrior Talisman"
+msgstr "Talismán de guerrero draco"
+
+#. [trait], id=quick_zanza
+#: Refumees_Saurian_Pack/macros/traits_ref.cfg:11
+msgid ""
+"<italic>text='Quick'</italic> units have 1 extra movement point, but only "
+"for units of the first scenario."
+msgstr ""
+"Las unidades <italic>text='Rápidas'</italic> tienen 1 punto de movimiento "
+"extra, pero solo para unidades del primer escenario."
+
+#. [trait], id=quick_zanza
+#: Refumees_Saurian_Pack/macros/traits_ref.cfg:11
+msgid ""
+"\n"
+"\n"
+"Quick is the most noticeable trait, particularly in slower moving units such "
+"as trolls or heavy infantry. Units with the quick trait often have greatly "
+"increased mobility in rough terrain, which can be important to consider when "
+"deploying your forces. Also, quick units aren’t quite as tough as units "
+"without this trait and are subsequently less good at holding contested "
+"positions."
+msgstr ""
+"\n"
+"\n"
+"Rápido es el rasgo más notable, especialmente en unidades de movimiento "
+"lento como trolls o infantería pesada. Las unidades con el rasgo rápido "
+"suelen tener una movilidad muy aumentada en terreno difícil, lo que puede "
+"ser importante al desplegar tus fuerzas. Además, las unidades rápidas no son "
+"tan resistentes como las unidades sin este rasgo y por lo tanto son menos "
+"buenas para mantener posiciones disputadas."
+
+#. [trait], id=one_blessed
+#: Refumees_Saurian_Pack/macros/traits_ref.cfg:24
+msgid "blessing of the one"
+msgstr "bendición del uno"
+
+#. [trait], id=one_blessed
+#: Refumees_Saurian_Pack/macros/traits_ref.cfg:25
+msgid "female^blessing of the one"
+msgstr "bendición del uno"
+
+#. [trait], id=one_blessed
+#: Refumees_Saurian_Pack/macros/traits_ref.cfg:26
+msgid ""
+"<italic>text='Blessing of the One'</italic>  units have 2 additional "
+"hitpoint, do 1 more damage for every successful strike in ranged and melee "
+"combat, and gain 1 more hitpoint per level. They will also heal 2 hitpoints "
+"each turn, regardless of whether they engaged in combat the turn before."
+msgstr ""
+"Las unidades con <italic>text='Bendición del Uno'</italic> tienen 2 puntos "
+"de vida adicionales, hacen 1 más de daño por cada golpe exitoso en combate a "
+"distancia y cuerpo a cuerpo, y ganan 1 punto de vida más por nivel. Además "
+"sanan 2 puntos de vida cada turno, independientemente de si combatieron en "
+"el turno anterior."
+
+#. [trait], id=one_blessed
+#: Refumees_Saurian_Pack/macros/traits_ref.cfg:26
+msgid ""
+"\n"
+"\n"
+"The blessing of the One lays on this saurian. It makes it stronger and "
+"sturdier."
+msgstr ""
+"\n"
+"\n"
+"La bendición del Uno recae sobre este saurio. Lo hace más fuerte y "
+"resistente."
+
+#. [trait], id=loyal
+#: Refumees_Saurian_Pack/macros/traits_ref.cfg:62
+msgid ""
+"<italic>text='Loyal'</italic> units don’t incur upkeep. Most units incur an "
+"upkeep cost at the end of every turn, which is equal to their level. Loyal "
+"units do not incur this cost."
+msgstr ""
+"Las unidades <italic>text='Leales'</italic> no generan costo de "
+"mantenimiento. La mayoría de las unidades generan un costo de mantenimiento "
+"al final de cada turno igual a su nivel. Las unidades leales no generan este "
+"costo."
+
+#. [trait], id=loyal
+#: Refumees_Saurian_Pack/macros/traits_ref.cfg:62
+msgid ""
+"\n"
+"\n"
+"During campaigns, certain units may opt to join the player’s forces of their "
+"own volition. These units are marked with the loyal trait. Although they may "
+"require payment to be recalled, they never incur any upkeep costs. This can "
+"make them invaluable during a long campaign, when gold is in short supply. "
+"This trait is never given to recruited units, so it may be unwise to dismiss "
+"such units or to send them to a foolish death."
+msgstr ""
+"\n"
+"\n"
+"Durante las campañas, ciertas unidades pueden decidir unirse a las fuerzas "
+"del jugador por su propia voluntad. Estas unidades se marcan con el rasgo "
+"leal. Aunque pueden requerir pago para ser reincorporadas, nunca generan "
+"costos de mantenimiento. Esto puede hacerlas muy valiosas durante una "
+"campaña larga cuando el oro escasea. Este rasgo nunca se da a unidades "
+"reclutadas, por lo que puede ser imprudente despedirlas o enviarlas a una "
+"muerte tonta."
+
+#. [trait], id=strong
+#: Refumees_Saurian_Pack/macros/traits_ref.cfg:84
+msgid ""
+"<italic>text='Strong'</italic> units do 1 more damage for every successful "
+"strike in melee combat, and have 1 additional hitpoint."
+msgstr ""
+"Las unidades <italic>text='Fuertes'</italic> hacen 1 más de daño por cada "
+"golpe exitoso en combate cuerpo a cuerpo y tienen 1 punto de vida adicional."
+
+#. [trait], id=strong
+#: Refumees_Saurian_Pack/macros/traits_ref.cfg:84
+msgid ""
+"\n"
+"\n"
+"While useful for any close-combat unit, strong is most effective for units "
+"who have a high number of swings such as the elvish fighter. Strong units "
+"can be very useful when a tiny bit of extra damage is all that is needed to "
+"turn a damaging stroke into a killing blow."
+msgstr ""
+"\n"
+"\n"
+"Aunque es útil para cualquier unidad de combate cercano, fuerte es más "
+"efectivo en unidades que tienen un alto número de golpes, como el luchador "
+"elfo. Las unidades fuertes pueden ser muy útiles cuando un poco de daño "
+"extra es todo lo que se necesita para convertir un golpe dañino en un golpe "
+"mortal."
+
+#. [trait], id=elite
+#: Refumees_Saurian_Pack/macros/traits_ref.cfg:103
+msgid "Elite Guard"
+msgstr "Guardia de élite"
+
+#. [message], speaker=narrator
+#: Refumees_Saurian_Pack/macros/unit-utils.cfg:199
+msgid "You may choose the next action."
+msgstr "Puedes elegir la siguiente acción."
+
+#. [option]
+#: Refumees_Saurian_Pack/macros/unit-utils.cfg:202
+msgid "I prefer random trait modifications."
+msgstr "Prefiero modificaciones de rasgos aleatorias."
+
+#. [option]
+#: Refumees_Saurian_Pack/macros/unit-utils.cfg:207
+msgid ""
+"I need a unit with a pair of trait modifications as <i>quick</i> and "
+"<i>resilient</i>."
+msgstr ""
+"Necesito una unidad con un par de modificaciones de rasgos como <i>rápido</"
+"i> y <i>resistente</i>."
+
+#. [option]
+#: Refumees_Saurian_Pack/macros/unit-utils.cfg:227
+msgid ""
+"I need a unit with a pair of trait modifications as <i>quick</i> and "
+"<i>strong</i>."
+msgstr ""
+"Necesito una unidad con un par de modificaciones de rasgos como <i>rápido</"
+"i> y <i>fuerte</i>."
+
+#. [option]
+#: Refumees_Saurian_Pack/macros/unit-utils.cfg:247
+msgid ""
+"I need a unit with a pair of trait modifications as <i>quick</i> and "
+"<i>intelligent</i>."
+msgstr ""
+"Necesito una unidad con un par de modificaciones de rasgos como <i>rápido</"
+"i> y <i>inteligente</i>."
+
+#. [option]
+#: Refumees_Saurian_Pack/macros/unit-utils.cfg:267
+msgid ""
+"I need a unit with a pair of trait modifications as <i>strong</i> and "
+"<i>intelligent</i>."
+msgstr ""
+"Necesito una unidad con un par de modificaciones de rasgos como <i>fuerte</"
+"i> y <i>inteligente</i>."
+
+#. [option]
+#: Refumees_Saurian_Pack/macros/unit-utils.cfg:287
+msgid ""
+"I need a unit with a pair of trait modifications as <i>strong</i> and "
+"<i>resilient</i>."
+msgstr ""
+"Necesito una unidad con un par de modificaciones de rasgos como <i>fuerte</"
+"i> y <i>resistente</i>."
+
+#. [option]
+#: Refumees_Saurian_Pack/macros/unit-utils.cfg:307
+msgid ""
+"I need a unit with a pair of trait modifications as <i>intelligent</i> and "
+"<i>resilient</i>."
+msgstr ""
+"Necesito una unidad con un par de modificaciones de rasgos como "
+"<i>inteligente</i> y <i>resistente</i>."
+
+#. [option]
+#: Refumees_Saurian_Pack/macros/unit-utils.cfg:327
+msgid "Please, dont ask me any more."
+msgstr "Por favor, no me preguntes más."
+
+#. [unstore_unit]
+#: Refumees_Saurian_Pack/macros/utils_campaign.cfg:225
+msgid "2"
+msgstr "2"
+
+#. [unstore_unit]
+#: Refumees_Saurian_Pack/macros/utils_campaign.cfg:295
+msgid "$SWAMPRUNE"
+msgstr "$SWAMPRUNE"
+
+#. [note]
+#: Refumees_Saurian_Pack/macros/utils_objectives.cfg:84
+msgid "Anexir can recruit level 0 units."
+msgstr "Anexir puede reclutar unidades de nivel 0."
+
+#. [note]
+#: Refumees_Saurian_Pack/macros/utils_objectives.cfg:87
+msgid "Tarex can recruit Bandit units."
+msgstr "Tarex puede reclutar unidades de bandidos."
+
+#. [note]
+#: Refumees_Saurian_Pack/macros/utils_objectives.cfg:95
+msgid "Salanix can recruit Deep Saurian units and level 0 units."
+msgstr ""
+"Salanix puede reclutar unidades saurias profundas y unidades de nivel 0."
+
+#. [note]
+#: Refumees_Saurian_Pack/macros/utils_objectives.cfg:103
+msgid "Arnatrax can recruit Desert Saurian units and level 0 units."
+msgstr ""
+"Arnatrax puede reclutar unidades saurias del desierto y unidades de nivel 0."
+
+#. [note]
+#: Refumees_Saurian_Pack/macros/utils_objectives.cfg:114
+msgid "This is the last scenario. Feedback would be really appreciated."
+msgstr "Este es el último escenario. Se agradecería mucho tu opinión."
+
+#. [trait], id=chamaeleon_trait
+#: Refumees_Saurian_Pack/macros/zodiac_traits.cfg:22
+msgid "the chameleon"
+msgstr "el camaleón"
+
+#. [trait], id=chamaeleon_trait
+#: Refumees_Saurian_Pack/macros/zodiac_traits.cfg:23
+msgid "female^the chameleon"
+msgstr "el camaleón"
+
+#. [trait], id=chamaeleon_trait
+#: Refumees_Saurian_Pack/macros/zodiac_traits.cfg:24
+msgid ""
+"This unit’s defence is increased about 10%, up to a maximum of 60% and "
+"requires 20% less experience than usual to advance."
+msgstr ""
+"La defensa de esta unidad aumenta alrededor de un 10 %, hasta un máximo del "
+"60 %, y requiere un 20 % menos de experiencia de lo habitual para avanzar."
+
+#. [trait], id=chamaeleon_trait
+#: Refumees_Saurian_Pack/macros/zodiac_traits.cfg:25
+msgid ""
+"<italic>text='The Chameleon'</italic> is the ancestor of cunning and "
+"adaptability. It is said to have blessed the Saurians with their sharp minds "
+"and agility."
+msgstr ""
+"<italic>text='El Camaleón'</italic> es el ancestro de la astucia y la "
+"adaptabilidad. Se dice que bendijo a los saurios con sus mentes agudas y su "
+"agilidad."
+
+#. [chance_to_hit], id=chamaeleon_trait_ability
+#: Refumees_Saurian_Pack/macros/zodiac_traits.cfg:33
+msgid ""
+"When used defensively, this attack reduces the opponent’s chance to hit by "
+"10%, but not more than 40%."
+msgstr ""
+"Cuando se usa de forma defensiva, este ataque reduce la probabilidad de "
+"golpear del oponente en un 10 %, pero no más del 40 %."
+
+#. [chance_to_hit], id=chamaeleon_trait_ability
+#: Refumees_Saurian_Pack/macros/zodiac_traits.cfg:36
+msgid "chamaeleon"
+msgstr "camaleón"
+
+#. [chance_to_hit], id=chamaeleon_trait_ability
+#: Refumees_Saurian_Pack/macros/zodiac_traits.cfg:37
+msgid "female^chamaeleon"
+msgstr "camaleón"
+
+#. [trait], id=draco_trait
+#: Refumees_Saurian_Pack/macros/zodiac_traits.cfg:54
+msgid "the dragon"
+msgstr "el dragón"
+
+#. [trait], id=draco_trait
+#: Refumees_Saurian_Pack/macros/zodiac_traits.cfg:55
+msgid "female^the dragon"
+msgstr "el dragón"
+
+#. [trait], id=draco_trait
+#: Refumees_Saurian_Pack/macros/zodiac_traits.cfg:56
+msgid ""
+"This unit’s resistances to fire and cold is increased by 20%, arcane is "
+"decreased by 20% and always rest heals."
+msgstr ""
+"Las resistencias de esta unidad al fuego y al frío aumentan un 20 %, la "
+"resistencia arcana disminuye un 20 % y siempre sana al descansar."
+
+#. [trait], id=draco_trait
+#: Refumees_Saurian_Pack/macros/zodiac_traits.cfg:57
+msgid ""
+"<italic>text='The Dragon'</italic> is the protector of the Saurians, "
+"representing strength and inner fire. It shields them from elemental forces "
+"and inspires resilience."
+msgstr ""
+"<italic>text='El Dragón'</italic> es el protector de los saurios, representa "
+"la fuerza y el fuego interior. Los protege de las fuerzas elementales e "
+"inspira resistencia."
+
+#. [trait], id=serpens_trait
+#: Refumees_Saurian_Pack/macros/zodiac_traits.cfg:81
+msgid "the snake"
+msgstr "la serpiente"
+
+#. [trait], id=serpens_trait
+#: Refumees_Saurian_Pack/macros/zodiac_traits.cfg:82
+msgid "female^the snake"
+msgstr "la serpiente"
+
+#. [trait], id=serpens_trait
+#: Refumees_Saurian_Pack/macros/zodiac_traits.cfg:83
+msgid ""
+"Immune to poison and poison enemies on enemy melee hits, but 5% less "
+"hitpoints than usual."
+msgstr ""
+"Inmune al veneno y envenena a los enemigos al recibir impactos cuerpo a "
+"cuerpo, pero tiene un 5 % menos de puntos de vida de lo habitual."
+
+#. [trait], id=serpens_trait
+#: Refumees_Saurian_Pack/macros/zodiac_traits.cfg:84
+msgid ""
+"<italic>text='The Snake'</italic> symbolizes survival and cunning but is "
+"also seen as a harbinger of misfortune. The venomous skin prevents the Snake-"
+"born from bonding with others, leading to isolation."
+msgstr ""
+"<italic>text='La Serpiente'</italic> simboliza la supervivencia y la "
+"astucia, pero también se ve como un presagio de desgracia. La piel venenosa "
+"impide que los nacidos de la serpiente se vinculen con otros, lo que lleva "
+"al aislamiento."
+
+#. [trait], id=wyvern_trait
+#: Refumees_Saurian_Pack/macros/zodiac_traits.cfg:105
+msgid "the wyvern"
+msgstr "el wyvern"
+
+#. [trait], id=wyvern_trait
+#: Refumees_Saurian_Pack/macros/zodiac_traits.cfg:106
+msgid "female^the wyvern"
+msgstr "el wyvern"
+
+#. [trait], id=wyvern_trait
+#: Refumees_Saurian_Pack/macros/zodiac_traits.cfg:107
+msgid ""
+"Units do 1 more damage for every successful strike in range combat and have "
+"1 extra movement point."
+msgstr ""
+"Las unidades hacen 1 más de daño por cada golpe exitoso en combate a "
+"distancia y tienen 1 punto de movimiento extra."
+
+#. [trait], id=wyvern_trait
+#: Refumees_Saurian_Pack/macros/zodiac_traits.cfg:108
+msgid ""
+"<italic>text='The Wyvern'</italic> is a majestic and fierce aerial hunter, "
+"revered as a symbol of grace and precision. It is believed to bestow its "
+"descendants with the ability to dominate from afar."
+msgstr ""
+"<italic>text='El Wyvern'</italic> es un cazador aéreo majestuoso y feroz, "
+"reverenciado como símbolo de gracia y precisión. Se cree que otorga a sus "
+"descendientes la capacidad de dominar desde lejos."
+
+#. [trait], id=moloch_trait
+#: Refumees_Saurian_Pack/macros/zodiac_traits.cfg:124
+msgid "The moloch"
+msgstr "El moloch"
+
+#. [trait], id=moloch_trait
+#: Refumees_Saurian_Pack/macros/zodiac_traits.cfg:125
+msgid "female^The moloch"
+msgstr "El moloch"
+
+#. [trait], id=moloch_trait
+#: Refumees_Saurian_Pack/macros/zodiac_traits.cfg:126
+msgid ""
+"This unit’s attacks gain 1 additional strike, but require 30% more "
+"experience than usual to advance"
+msgstr ""
+"Los ataques de esta unidad ganan 1 golpe adicional, pero requieren un 30 % "
+"más de experiencia de lo habitual para avanzar"
+
+#. [trait], id=moloch_trait
+#: Refumees_Saurian_Pack/macros/zodiac_traits.cfg:127
+msgid ""
+"<italic>text='The Moloch'</italic> is the ancestral spirit of raw aggression "
+"and unthinking fury. While fearsome in battle, its descendants struggle with "
+"learning and patience."
+msgstr ""
+"<italic>text='El Moloch'</italic> es el espíritu ancestral de la agresión "
+"pura y la furia irreflexiva. Aunque es temible en batalla, sus descendientes "
+"tienen dificultades con el aprendizaje y la paciencia."
+
+#. [trait], id=luna_trait
+#: Refumees_Saurian_Pack/macros/zodiac_traits.cfg:148
+msgid "the tortoise"
+msgstr "la tortuga"
+
+#. [trait], id=luna_trait
+#: Refumees_Saurian_Pack/macros/zodiac_traits.cfg:149
+msgid "female^the tortoise"
+msgstr "la tortuga"
+
+#. [trait], id=luna_trait
+#: Refumees_Saurian_Pack/macros/zodiac_traits.cfg:150
+msgid ""
+"Fights normally during unfavorable times of day/night, gains 3 HP, and 1 HP "
+"per level."
+msgstr ""
+"Combate normalmente durante los momentos del día/noche desfavorables, gana 3 "
+"PV y 1 PV por nivel."
+
+#. [trait], id=luna_trait
+#: Refumees_Saurian_Pack/macros/zodiac_traits.cfg:151
+msgid ""
+"<italic>text='The Tortoise'</italic> symbolizes stability and calm. It is "
+"said to guide Saurians through the darkness, offering protection and "
+"steadfastness."
+msgstr ""
+"<italic>text='La Tortuga'</italic> simboliza la estabilidad y la calma. Se "
+"dice que guía a los saurios a través de la oscuridad, ofreciendo protección "
+"y firmeza."
+
+#. [trait], id=terranus_trait
+#: Refumees_Saurian_Pack/macros/zodiac_traits.cfg:170
+msgid "the salamander"
+msgstr "la salamandra"
+
+#. [trait], id=terranus_trait
+#: Refumees_Saurian_Pack/macros/zodiac_traits.cfg:171
+msgid "female^the salamander"
+msgstr "la salamandra"
+
+#. [trait], id=terranus_trait
+#: Refumees_Saurian_Pack/macros/zodiac_traits.cfg:172
+msgid ""
+"This units physical resistances are increased about 10%, gains 4 HP, and 2 "
+"HP per level, but looses 1 movement point."
+msgstr ""
+"Las resistencias físicas de esta unidad aumentan alrededor de un 10 %, gana "
+"4 PV y 2 PV por nivel, pero pierde 1 punto de movimiento."
+
+#. [trait], id=terranus_trait
+#: Refumees_Saurian_Pack/macros/zodiac_traits.cfg:173
+msgid ""
+"<italic>text='The Salamander'</italic>, born from the depths of the earth, "
+"is the unyielding guardian of the Saurians."
+msgstr ""
+"<italic>text='La Salamandra'</italic>, nacida de las profundidades de la "
+"tierra, es la guardiana inquebrantable de los saurios."
+
+#. [trait], id=crocodilus_trait
+#: Refumees_Saurian_Pack/macros/zodiac_traits.cfg:203
+msgid "the crocodile"
+msgstr "el cocodrilo"
+
+#. [trait], id=crocodilus_trait
+#: Refumees_Saurian_Pack/macros/zodiac_traits.cfg:204
+msgid "female^the crocodile"
+msgstr "el cocodrilo"
+
+#. [trait], id=crocodilus_trait
+#: Refumees_Saurian_Pack/macros/zodiac_traits.cfg:205
+msgid ""
+"Units do 1 more damage for every successful strike in melee combat, gains 4 "
+"HP, and 1 HP per level."
+msgstr ""
+"Las unidades hacen 1 más de daño por cada golpe exitoso en combate cuerpo a "
+"cuerpo, ganan 4 PV y 1 PV por nivel."
+
+#. [trait], id=crocodilus_trait
+#: Refumees_Saurian_Pack/macros/zodiac_traits.cfg:206
+msgid ""
+"<italic>text='The Crocodile'</italic> represents strength and survival in "
+"water and marshes. Revered as a merciless hunter, it grants its descendants "
+"endurance and raw power."
+msgstr ""
+"<italic>text='El Cocodrilo'</italic> representa la fuerza y la supervivencia "
+"en el agua y los pantanos. Reverenciado como un cazador despiadado, otorga a "
+"sus descendientes resistencia y poder bruto."
+
+#. [modification], id=zodiac_traits_changer
+#: Refumees_Saurian_Pack/macros/zodiac_traits_changer.cfg:6
+msgid "Saurian Zodiacs (Beta)"
+msgstr "Zodíacos Saurios (Beta)"
+
+#. [modification], id=zodiac_traits_changer
+#: Refumees_Saurian_Pack/macros/zodiac_traits_changer.cfg:8
+msgid ""
+"Assigning saurian recruits one of eight zodiac signs:\n"
+"\t\t\n"
+"\t- the chameleon\n"
+"\t- the dragon\n"
+"\t- the snake\n"
+"\t- the wyvern\n"
+"\t- the moloch\n"
+"\t- the tortoise\n"
+"\t- the salamander\n"
+"\t- the crocodile\n"
+"\n"
+"Leaders, heroes and placed units are not affected."
+msgstr ""
+"Asigna a los reclutas saurios uno de ocho signos del zodíaco:\n"
+"\t\t\n"
+"\t- el camaleón\n"
+"\t- el dragón\n"
+"\t- la serpiente\n"
+"\t- el wyvern\n"
+"\t- el moloch\n"
+"\t- la tortuga\n"
+"\t- la salamandra\n"
+"\t- el cocodrilo\n"
+"\n"
+"Los líderes, héroes y unidades colocadas no se ven afectados."
+
+#. [race], id=deep-lizard
+#: Refumees_Saurian_Pack/units/units.cfg:5
+msgid "race^Deep Saurian"
+msgstr "Saurio profundo"
+
+#. [race], id=deep-lizard
+#: Refumees_Saurian_Pack/units/units.cfg:6
+msgid "race+female^Deep Saurian"
+msgstr "Sauria profunda"
+
+#. [race], id=deep-lizard
+#: Refumees_Saurian_Pack/units/units.cfg:7
+msgid "race^Deep Saurians"
+msgstr "Saurios profundos"
+
+#. [race], id=deep-lizard
+#: Refumees_Saurian_Pack/units/units.cfg:8
+msgid ""
+"<header>text='Biology'</header>\n"
+"Ah, the Deep Saurians. A sturdier breed than their surface cousins, I’ll "
+"give them that. These scaly wretches live where no proper folk dare tread—"
+"underground, near rivers of molten rock, scrabbling for survival. You’d "
+"think the heat would cook their brains, but somehow, they’ve managed to "
+"craft metal and even cobble together some rudimentary firearms. Rudimentary, "
+"I say, because if they weren’t strapped to their backs, the recoil would "
+"launch them halfway across their cavern like a drunk dwarf at a feast.\n"
+"\n"
+"<header>text='Geography'</header>\n"
+"Their homes, if you can call them that, are pits lit by glowing fungi and "
+"pools of stagnant water. They farm those fungi like it’s some grand "
+"achievement, but we dwarves know better—there’s no proper ale to be found in "
+"their pits, just more of that slimy muck they call food. And their fire "
+"ants! Imagine using a creature so foul-tempered as a mount. Taming them is "
+"probably the only impressive thing these lizards have managed, though "
+"they’re liable to get thrown off the moment the beast gets spooked.\n"
+"\n"
+"<header>text='Society'</header>\n"
+"Their society? Strange, I’ll admit. No kings, no queens—just the strongest "
+"brute lording over the rest. Male, female, it makes no difference to them, "
+"which is just as well. You can’t tell them apart anyway. Still, there’s a "
+"certain rough practicality to it. They’re equal in their misery, I suppose.\n"
+"\n"
+"<header>text='Warfare'</header>\n"
+"But don’t let their barbarism fool you—these saurians are clever in their "
+"own way. They’ve learned to survive in the harshest conditions, and they’ll "
+"fight tooth and claw to protect their fiery nests. Cross them at your peril, "
+"for they’re as tenacious as they are ugly. Just don’t expect a dwarf to "
+"respect them for it.\n"
+"— Grimfoot Hammerhead"
+msgstr ""
+"<header>text='Biología'</header>\n"
+"Ah, los saurios profundos. Una raza más robusta que sus primos de la "
+"superficie, eso se los concedo. Estos miserables escamosos viven donde "
+"ningún pueblo decente se atreve a pisar: bajo tierra, cerca de ríos de roca "
+"fundida, arañando para sobrevivir. Uno pensaría que el calor les cocinaría "
+"el cerebro, pero de alguna manera han logrado forjar metal e incluso armar "
+"algunas armas de fuego rudimentarias. Rudimentarias, digo, porque si no "
+"estuvieran atadas a sus espaldas, el retroceso los lanzaría hasta la mitad "
+"de su caverna como un enano borracho en un banquete.\n"
+"\n"
+"<header>text='Geografía'</header>\n"
+"Sus hogares, si se les puede llamar así, son pozos iluminados por hongos "
+"luminosos y charcos de agua estancada. Cultivan esos hongos como si fuera un "
+"gran logro, pero nosotros los enanos sabemos mejor: no hay cerveza decente "
+"en sus pozos, solo más de esa mugre viscosa que llaman comida. ¡Y sus "
+"hormigas de fuego! Imaginen usar una criatura de tan mal temperamento como "
+"montura. Domesticarlas es probablemente lo único impresionante que estos "
+"lagartos han logrado, aunque es probable que los tiren al suelo en cuanto la "
+"bestia se asuste.\n"
+"\n"
+"<header>text='Sociedad'</header>\n"
+"¿Su sociedad? Extraña, lo admito. Sin reyes, sin reinas, solo el bruto más "
+"fuerte dominando al resto. Macho, hembra, no les hace diferencia, y menos "
+"mal. De todos modos no se les puede distinguir. Aun así, hay una cierta "
+"practicidad rudimentaria en ello. Son iguales en su miseria, supongo.\n"
+"\n"
+"<header>text='Guerra'</header>\n"
+"Pero no dejen que su barbarie los engañe: estos saurios son astutos a su "
+"manera. Han aprendido a sobrevivir en las condiciones más duras y lucharán "
+"con uñas y dientes para proteger sus nidos ardientes. Cruza su camino bajo "
+"tu propio riesgo, porque son tan tenaces como feos. Solo no esperes que un "
+"enano los respete por ello.\n"
+"— Grimfoot Cabezamartillo"
+
+#. [race], id=desert-lizard
+#: Refumees_Saurian_Pack/units/units.cfg:29
+msgid "race^Desert Saurian"
+msgstr "Saurio del desierto"
+
+#. [race], id=desert-lizard
+#: Refumees_Saurian_Pack/units/units.cfg:30
+msgid "race+female^Desert Saurian"
+msgstr "Sauria del desierto"
+
+#. [race], id=desert-lizard
+#: Refumees_Saurian_Pack/units/units.cfg:31
+msgid "race^Desert Saurians"
+msgstr "Saurios del desierto"
+
+#. [race], id=desert-lizard
+#. [race], id=thief-lizard
+#. [race], id=bitter-swamp-lizard
+#. [race], id=black-marshes-saurians
+#. [race], id=undead-lizard
+#: Refumees_Saurian_Pack/units/units.cfg:32
+#: Refumees_Saurian_Pack/units/units.cfg:45
+#: Refumees_Saurian_Pack/units/units.cfg:57
+#: Refumees_Saurian_Pack/units/units.cfg:69
+#: Refumees_Saurian_Pack/units/units.cfg:81
+msgid "Saurians."
+msgstr "Saurios."
+
+#. [race], id=thief-lizard
+#: Refumees_Saurian_Pack/units/units.cfg:42
+msgid "race^Thief Saurian"
+msgstr "Saurio ladrón"
+
+#. [race], id=thief-lizard
+#: Refumees_Saurian_Pack/units/units.cfg:43
+msgid "race+female^Thief Saurian"
+msgstr "Sauria ladrona"
+
+#. [race], id=thief-lizard
+#: Refumees_Saurian_Pack/units/units.cfg:44
+msgid "race^Thief Saurians"
+msgstr "Saurios ladrones"
+
+#. [race], id=bitter-swamp-lizard
+#: Refumees_Saurian_Pack/units/units.cfg:54
+msgid "race^Bitter Swamp Saurian"
+msgstr "Saurio del pantano amargo"
+
+#. [race], id=bitter-swamp-lizard
+#: Refumees_Saurian_Pack/units/units.cfg:55
+msgid "race+female^Bitter Swamp Saurian"
+msgstr "Sauria del pantano amargo"
+
+#. [race], id=bitter-swamp-lizard
+#: Refumees_Saurian_Pack/units/units.cfg:56
+msgid "race^Bitter Swamp Saurians"
+msgstr "Saurios del pantano amargo"
+
+#. [race], id=black-marshes-saurians
+#: Refumees_Saurian_Pack/units/units.cfg:66
+msgid "race^Black Marshes Saurian"
+msgstr "Saurio de los pantanos negros"
+
+#. [race], id=black-marshes-saurians
+#: Refumees_Saurian_Pack/units/units.cfg:67
+msgid "race+female^Black Marshes Saurian"
+msgstr "Sauria de los pantanos negros"
+
+#. [race], id=black-marshes-saurians
+#: Refumees_Saurian_Pack/units/units.cfg:68
+msgid "race^Black Marshes Saurians"
+msgstr "Saurios de los pantanos negros"
+
+#. [race], id=undead-lizard
+#: Refumees_Saurian_Pack/units/units.cfg:78
+msgid "race^Undead Saurian"
+msgstr "Saurio no-muerto"
+
+#. [race], id=undead-lizard
+#: Refumees_Saurian_Pack/units/units.cfg:79
+msgid "race+female^Undead Saurian"
+msgstr "Sauria no-muerta"
+
+#. [race], id=undead-lizard
+#: Refumees_Saurian_Pack/units/units.cfg:80
+msgid "race^Undead Saurians"
+msgstr "Saurios no-muertos"
+
+#. [unit_type], id=Witch Doctor Hero, race=bitter-swamp-lizard
+#. [unit_type], id=Witch Doctor, race=bitter-swamp-lizard
+#: Refumees_Saurian_Pack/units/bitter-swamp-saurians/Hero-Ikta_Tosh.cfg:4
+#: Refumees_Saurian_Pack/units/bitter-swamp-saurians/Witch_Doctor.cfg:4
+msgid "Witch Doctor"
+msgstr "Médico brujo"
+
+#. [unit_type], id=Witch Doctor Hero, race=bitter-swamp-lizard
+#. [unit_type], id=Witch Doctor, race=bitter-swamp-lizard
+#: Refumees_Saurian_Pack/units/bitter-swamp-saurians/Hero-Ikta_Tosh.cfg:19
+#: Refumees_Saurian_Pack/units/bitter-swamp-saurians/Witch_Doctor.cfg:18
+msgid ""
+"Despite their lethargic cold blooded heritage, and their relative frailty, "
+"Witch doctors are nevertheless valued in the battlefield for the aid they "
+"provide to wounded allies as well as feared for their ability to turn normal "
+"swamp water to a dreaded acid. Every saurian tribe has at least one witch "
+"doctor who is revered and protected."
+msgstr ""
+"A pesar de su herencia de sangre fría y su relativa fragilidad, los médicos "
+"brujos son valorados en el campo de batalla por la ayuda que brindan a sus "
+"aliados heridos y temidos por su capacidad de convertir el agua normal del "
+"pantano en un ácido temible. Cada tribu sauria tiene al menos un médico "
+"brujo que es reverenciado y protegido."
+
+#. [attack], type=fire, range=melee
+#: Refumees_Saurian_Pack/units/bitter-swamp-saurians/Hero-Ikta_Tosh.cfg:53
+#: Refumees_Saurian_Pack/units/bitter-swamp-saurians/Witch_Doctor.cfg:37
+msgid "acid spray"
+msgstr "rociada de ácido"
+
+#. [unit_type], id=Swamp Alchemist Hero, race=bitter-swamp-lizard
+#. [unit_type], id=Swamp Alchemist, race=bitter-swamp-lizard
+#: Refumees_Saurian_Pack/units/bitter-swamp-saurians/Hero-Ikta_Tosh.cfg:113
+#: Refumees_Saurian_Pack/units/bitter-swamp-saurians/Swamp_Alchemist.cfg:4
+msgid "Swamp Alchemist"
+msgstr "Alquimista del pantano"
+
+#. [unit_type], id=Swamp Alchemist Hero, race=bitter-swamp-lizard
+#. [unit_type], id=Swamp Alchemist, race=bitter-swamp-lizard
+#: Refumees_Saurian_Pack/units/bitter-swamp-saurians/Hero-Ikta_Tosh.cfg:128
+#: Refumees_Saurian_Pack/units/bitter-swamp-saurians/Swamp_Alchemist.cfg:18
+msgid ""
+"Some witch doctors are so in tune with their environment that after a while "
+"they take a long journey into the swamps alone. No-one knows what they do "
+"but when they return their mastery of the secret recipes hidden in the murky "
+"waters is unparalleled. Many a warrior has seen his ally turn into melting "
+"bones inside his armor from their powerful acid attacks."
+msgstr ""
+"Algunos médicos brujos están tan en sintonía con su entorno que después de "
+"un tiempo emprenden un largo viaje solos hacia los pantanos. Nadie sabe qué "
+"hacen, pero cuando regresan su dominio de las recetas secretas ocultas en "
+"las aguas turbias es inigualable. Muchos guerreros han visto a su aliado "
+"convertirse en huesos derretidos dentro de su armadura por sus poderosos "
+"ataques de ácido."
+
+#. [attack], type=fire, range=melee
+#: Refumees_Saurian_Pack/units/bitter-swamp-saurians/Hero-Ikta_Tosh.cfg:162
+#: Refumees_Saurian_Pack/units/bitter-swamp-saurians/Hero-Ikta_Tosh.cfg:295
+#: Refumees_Saurian_Pack/units/bitter-swamp-saurians/Swamp_Alchemist.cfg:37
+#: Refumees_Saurian_Pack/units/bitter-swamp-saurians/Swamp_Lord.cfg:40
+msgid "acid shower"
+msgstr "lluvia de ácido"
+
+#. [attack], type=fire, range=ranged
+#: Refumees_Saurian_Pack/units/bitter-swamp-saurians/Hero-Ikta_Tosh.cfg:174
+#: Refumees_Saurian_Pack/units/bitter-swamp-saurians/Hero-Ikta_Tosh.cfg:307
+#: Refumees_Saurian_Pack/units/bitter-swamp-saurians/Swamp_Alchemist.cfg:49
+#: Refumees_Saurian_Pack/units/bitter-swamp-saurians/Swamp_Lord.cfg:52
+msgid "acid bolt"
+msgstr "proyectil de ácido"
+
+#. [unit_type], id=Swamp Lord Hero, race=bitter-swamp-lizard
+#. [unit_type], id=Swamp Lord, race=bitter-swamp-lizard
+#: Refumees_Saurian_Pack/units/bitter-swamp-saurians/Hero-Ikta_Tosh.cfg:245
+#: Refumees_Saurian_Pack/units/bitter-swamp-saurians/Swamp_Lord.cfg:4
+msgid "Swamp Lord"
+msgstr "Señor del pantano"
+
+#. [unit_type], id=Swamp Lord Hero, race=bitter-swamp-lizard
+#. [unit_type], id=Swamp Lord, race=bitter-swamp-lizard
+#: Refumees_Saurian_Pack/units/bitter-swamp-saurians/Hero-Ikta_Tosh.cfg:261
+#: Refumees_Saurian_Pack/units/bitter-swamp-saurians/Swamp_Lord.cfg:19
+msgid ""
+"Swamp Lords are masters of the natural home of the saurians. Their knowledge "
+"of the arcane energies and rare herbs hidden within is unparalelled. When a "
+"swamp lord decides to move, the swamp moves with him."
+msgstr ""
+"Los señores del pantano son maestros del hogar natural de los saurios. Su "
+"conocimiento de las energías arcanas y las hierbas raras ocultas en él es "
+"inigualable. Cuando un señor del pantano decide moverse, el pantano se mueve "
+"con él."
+
+#. [unit_type], id=Bloodborn, race=bitter-swamp-lizard
+#: Refumees_Saurian_Pack/units/bitter-swamp-saurians/Hero-S'Saskin.cfg:4
+msgid "Bloodborn"
+msgstr "Nacido de la sangre"
+
+#. [unit_type], id=Bloodborn, race=bitter-swamp-lizard
+#: Refumees_Saurian_Pack/units/bitter-swamp-saurians/Hero-S'Saskin.cfg:17
+msgid ""
+"Bloodborns are considered by the saurians as the sign of a natural leader. "
+"The name comes from the way they come out of their womb. They eat though it, "
+"killing their mother in the process. Considering that saurians are born in "
+"eggs, this is a big difference.\n"
+"Bloodborns are very violent and demanding but also respected and feared by "
+"the rest of the tribe. Their bite is always poisonous but they prefer to "
+"enter battle with the nastiest weapon they can find."
+msgstr ""
+"Los nacidos de la sangre son considerados por los saurios como la señal de "
+"un líder natural. El nombre proviene de la forma en que salen del vientre. "
+"Se comen el camino a través de él, matando a su madre en el proceso. "
+"Considerando que los saurios nacen de huevos, esto es una gran diferencia.\n"
+"Los nacidos de la sangre son muy violentos y exigentes, pero también son "
+"respetados y temidos por el resto de la tribu. Su mordida siempre es "
+"venenosa, pero prefieren entrar en batalla con el arma más desagradable que "
+"puedan encontrar."
+
+#. [attack], type=blade, range=melee
+#: Refumees_Saurian_Pack/units/bitter-swamp-saurians/Hero-S'Saskin.cfg:26
+#: Refumees_Saurian_Pack/units/bitter-swamp-saurians/Hero-S'Saskin.cfg:122
+#: Refumees_Saurian_Pack/units/bitter-swamp-saurians/Hero-S'Saskin.cfg:219
+#: Refumees_Saurian_Pack/units/campaign-saurians/S2-Warrior(Refumee).cfg:45
+#: Refumees_Saurian_Pack/units/campaign-saurians/S3-Champion(Refumee).cfg:46
+#: Refumees_Saurian_Pack/units/deep-saurians/S2-Pikemen.cfg:45
+#: Refumees_Saurian_Pack/units/deep-saurians/S3-Heavy-Pikemen.cfg:46
+msgid "halberd slash"
+msgstr "corte de alabarda"
+
+#. [attack], type=pierce, range=melee
+#: Refumees_Saurian_Pack/units/bitter-swamp-saurians/Hero-S'Saskin.cfg:35
+#: Refumees_Saurian_Pack/units/bitter-swamp-saurians/Hero-S'Saskin.cfg:131
+#: Refumees_Saurian_Pack/units/bitter-swamp-saurians/Hero-S'Saskin.cfg:228
+#: Refumees_Saurian_Pack/units/undead-saurians/S1-Ghoul.cfg:40
+#: Refumees_Saurian_Pack/units/undead-saurians/S2-Runner.cfg:43
+#: Refumees_Saurian_Pack/units/undead-saurians/S3-Sprinter.cfg:45
+msgid "poison bite"
+msgstr "mordida venenosa"
+
+#. [unit_type], id=Bloodborns Chieftain, race=bitter-swamp-lizard
+#: Refumees_Saurian_Pack/units/bitter-swamp-saurians/Hero-S'Saskin.cfg:81
+msgid "Bloodborns Chieftain"
+msgstr "Jefe de los nacidos de la sangre"
+
+#. [unit_type], id=Bloodborns Chieftain, race=bitter-swamp-lizard
+#: Refumees_Saurian_Pack/units/bitter-swamp-saurians/Hero-S'Saskin.cfg:94
+msgid ""
+"When bloodborns have proved themselves in battle the tribe will give them "
+"one last test; They must hunt down the old chief and kill him bare-handed as "
+"a sign of prowess. If they make it out alive, they become the tribe's new "
+"chief. Tribes led by bloodborn are always the most powerful and influential."
+msgstr ""
+"Cuando los nacidos de la sangre se han probado en batalla, la tribu les da "
+"una última prueba: deben cazar al viejo jefe y matarlo con sus propias manos "
+"como muestra de destreza. Si salen vivos, se convierten en el nuevo jefe de "
+"la tribu. Las tribus lideradas por nacidos de la sangre siempre son las más "
+"poderosas e influyentes."
+
+#. [unit_type], id=Bloodchosen, race=bitter-swamp-lizard
+#: Refumees_Saurian_Pack/units/bitter-swamp-saurians/Hero-S'Saskin.cfg:177
+msgid "The Blood Chosen"
+msgstr "El Elegido de la Sangre"
+
+#. [unit_type], id=Bloodchosen, race=bitter-swamp-lizard
+#: Refumees_Saurian_Pack/units/bitter-swamp-saurians/Hero-S'Saskin.cfg:191
+msgid ""
+"When a bloodborn chief manages to subdue many other saurian tribes, the "
+"saurians proclaim him The Blood Chosen. He has proven himself the undisputed "
+"leader of the saurian race, and under his rule they will prosper."
+msgstr ""
+"Cuando un jefe nacido de la sangre logra someter a muchas otras tribus "
+"saurias, los saurios lo proclaman El Elegido de la Sangre. Ha demostrado ser "
+"el líder indiscutible de la raza sauria, y bajo su mando prosperarán."
+
+#. [unit_type], id=Young Saurian, race=black-marshes-saurians
+#. [unit_type], id=Ref Young Saurian, race=lizard, gender=female
+#. [unit_type], id=Deep Young Saurian, race=deep-lizard
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S0-Young.cfg:4
+#: Refumees_Saurian_Pack/units/campaign-saurians/S0-Young.cfg:4
+#: Refumees_Saurian_Pack/units/deep-saurians/S0-Young.cfg:4
+msgid "Young Saurian"
+msgstr "Saurio joven"
+
+#. [unit_type], id=Young Saurian, race=black-marshes-saurians
+#. [unit_type], id=Ref Young Saurian, race=lizard, gender=female
+#. [unit_type], id=Ref Young Saurian Zombie, race=undead-lizard, gender=female
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S0-Young.cfg:17
+#: Refumees_Saurian_Pack/units/campaign-saurians/S0-Young.cfg:24
+#: Refumees_Saurian_Pack/units/undead-saurians/S0-Zombie-Spear.cfg:19
+msgid "Young Saurians work for Drakes, mostly as miners."
+msgstr ""
+"Los saurios jóvenes trabajan para los dracos, principalmente como mineros."
+
+#. [unit_type], id=Saurian Blacksmith, race=black-marshes-saurians
+#. [unit_type], id=Deep Saurian Blacksmith, race=deep-lizard
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S1-Blacksmith.cfg:4
+#: Refumees_Saurian_Pack/units/deep-saurians/S1-Blacksmith.cfg:4
+msgid "Saurian Blacksmith"
+msgstr "Herrero saurio"
+
+#. [unit_type], id=Saurian Blacksmith, race=black-marshes-saurians
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S1-Blacksmith.cfg:17
+msgid ""
+"Some young lizards prefer to keep working for the community, instead of "
+"becoming soldiers. Blacksmith is one of them."
+msgstr ""
+"Algunos lagartos jóvenes prefieren seguir trabajando para la comunidad en "
+"lugar de convertirse en soldados. El herrero es uno de ellos."
+
+#. [unit_type], id=Saurian Fighter, race=black-marshes-saurians
+#. [unit_type], id=Deep Saurian Fighter, race=deep-lizard
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S1-Fighter.cfg:4
+#: Refumees_Saurian_Pack/units/deep-saurians/S1-Fighter.cfg:4
+msgid "Saurian Fighter"
+msgstr "Luchador saurio"
+
+#. [unit_type], id=Saurian Fighter, race=black-marshes-saurians
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S1-Fighter.cfg:17
+msgid "Saurian Fighter is a soldier-type in the race."
+msgstr "El luchador saurio es un tipo de soldado dentro de la raza."
+
+#. [attack], type=pierce, range=ranged
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S1-Fighter.cfg:40
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S2-Guard.cfg:41
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S2-Warrior.cfg:51
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S3-Champion.cfg:43
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S3-Combatant.cfg:52
+#: Refumees_Saurian_Pack/units/campaign-saurians/Hero-Zanza.cfg:496
+#: Refumees_Saurian_Pack/units/campaign-saurians/Hero-Zanza.cfg:598
+#: Refumees_Saurian_Pack/units/campaign-saurians/Hero-Zanza.cfg:720
+#: Refumees_Saurian_Pack/units/campaign-saurians/S0-Young.cfg:43
+#: Refumees_Saurian_Pack/units/campaign-saurians/S2-Warrior(Refumee).cfg:54
+#: Refumees_Saurian_Pack/units/campaign-saurians/S3-Champion(Refumee).cfg:55
+#: Refumees_Saurian_Pack/units/deep-saurians/S1-Fighter.cfg:46
+msgid "throwing spear"
+msgstr "lanza arrojadiza"
+
+#. [unit_type], id=Saurian Craftsman, race=black-marshes-saurians
+#. [unit_type], id=Deep Saurian Craftsman, race=deep-lizard
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S2-Craftsman.cfg:4
+#: Refumees_Saurian_Pack/units/deep-saurians/S2-Craftsman.cfg:4
+msgid "Saurian Craftsman"
+msgstr "Artesano saurio"
+
+#. [unit_type], id=Saurian Craftsman, race=black-marshes-saurians
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S2-Craftsman.cfg:17
+msgid ""
+"Saurian Blacksmiths become Craftsmen who create and develop the weapons for "
+"Saurians. "
+msgstr ""
+"Los herreros saurios se convierten en artesanos que crean y desarrollan las "
+"armas para los saurios."
+
+#. [advancement], id=amla_thunderstick
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S2-Craftsman.cfg:30
+msgid "new powder formula (+2 damage to thunderstick, no heal full)"
+msgstr ""
+"nueva fórmula de pólvora (+2 de daño a la vara de trueno, sin sanación "
+"completa)"
+
+#. [advancement], id=ato_amla_marksman
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S2-Craftsman.cfg:44
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S3-Artist.cfg:28
+msgid "marksman (marksman attack is given to the ranged attack)"
+msgstr "tirador (el ataque de tirador se otorga al ataque a distancia)"
+
+#. [advancement], id=ato_amla_firststrike
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S2-Craftsman.cfg:59
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S3-Artist.cfg:43
+msgid "first strike (firststrike is given to the ranged attack)"
+msgstr "primer golpe (el primer golpe se otorga al ataque a distancia)"
+
+#. [unit_type], id=Saurian Guard, race=black-marshes-saurians
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S2-Guard.cfg:4
+msgid "Saurian Guard"
+msgstr "Guardia saurio"
+
+#. [unit_type], id=Saurian Guard, race=black-marshes-saurians
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S2-Guard.cfg:18
+msgid ""
+"Saurian guards are experts in the use of the spear. They are fiercely loyal "
+"to their commander and fight alongside him at every opportunity. Their "
+"combat style is based upon weakening an enemy with a poisoned throwing "
+"spear, then closing and using their regular spears to finish the battle."
+msgstr ""
+"Los guardias saurios son expertos en el uso de la lanza. Son ferozmente "
+"leales a su comandante y luchan a su lado en cada oportunidad. Su estilo de "
+"combate se basa en debilitar a un enemigo con una lanza arrojadiza "
+"envenenada, luego acercarse y usar sus lanzas normales para terminar la "
+"batalla."
+
+#. [attack], type=pierce, range=melee
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S2-Guard.cfg:32
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S3-Champion.cfg:34
+#: Refumees_Saurian_Pack/units/deep-saurians/S2-Peltast.cfg:35
+#: Refumees_Saurian_Pack/units/deep-saurians/S3-Heavy-Peltast.cfg:36
+msgid "longspear"
+msgstr "lanza larga"
+
+#. [unit_type], id=Saurian Sage, race=black-marshes-saurians
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S2-Sage.cfg:4
+msgid "Saurian Sage"
+msgstr "Sabio saurio"
+
+#. [unit_type], id=Saurian Sage, race=black-marshes-saurians
+#. [unit_type], id=Oracular Master, race=black-marshes-saurians
+#. [unit_type], id=Ref Saurian Elementalist, race=lizard, gender=male
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S2-Sage.cfg:17
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S3-Oracular_Master.cfg:85
+#: Refumees_Saurian_Pack/units/saurians/S2-Elementalist.cfg:18
+msgid ""
+"Certain saurians are seen dressed in arcane regalia and covered head to toe "
+"in horrifying, esoteric shapes and markings, both with paint and tattoo. "
+"Some suspect them to be visionaries, or oracles amongst their ilk. But "
+"whatever ‘societal’ function they may have, they are undeniably powerful in "
+"the strange magics their kind possess, and are beings to be wary of if ever "
+"seen."
+msgstr ""
+"Ciertos saurios se ven vestidos con atuendos arcanos y cubiertos de la "
+"cabeza a los pies con formas y marcas horrendas y esotéricas, tanto con "
+"pintura como con tatuajes. Algunos sospechan que son visionarios u oráculos "
+"entre los suyos. Pero cualquiera que sea su función «social», son "
+"innegablemente poderosos en las extrañas magias que su especie posee y son "
+"seres de los que hay que desconfiar si se los ve."
+
+#. [attack], type=arcane, range=ranged
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S2-Sage.cfg:62
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S3-Oracular_Master.cfg:131
+msgid "crystal flash"
+msgstr "destello de cristal"
+
+#. [unit_type], id=Saurian Warrior, race=black-marshes-saurians
+#. [unit_type], id=Deep Saurian Warrior, race=deep-lizard
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S2-Warrior.cfg:4
+#: Refumees_Saurian_Pack/units/campaign-saurians/S2-Warrior(Refumee).cfg:4
+msgid "Saurian Warrior"
+msgstr "Guerrero saurio"
+
+#. [unit_type], id=Saurian Warrior, race=black-marshes-saurians
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S2-Warrior.cfg:18
+msgid ""
+"Saurian warriors are fiercely loyal to their commander and fight alongside "
+"him at every opportunity."
+msgstr ""
+"Los guerreros saurios son ferozmente leales a su comandante y luchan a su "
+"lado en cada oportunidad."
+
+#. [unit_type], id=Saurian Artist, race=black-marshes-saurians
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S3-Artist.cfg:4
+msgid "Saurian Artist"
+msgstr "Artista saurio"
+
+#. [unit_type], id=Saurian Artist, race=black-marshes-saurians
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S3-Artist.cfg:17
+msgid ""
+"Saurian Artist, Waklex, grew up in Dwarvish Community. His family was victim "
+"of a conflict between Orcs and Dwarves in Mountains of Haag."
+msgstr ""
+"El artista saurio, Waklex, creció en una comunidad enana. Su familia fue "
+"víctima de un conflicto entre orcos y enanos en las Montañas de Haag."
+
+#. [unit_type], id=Saurian Champion, race=black-marshes-saurians
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S3-Champion.cfg:19
+msgid ""
+"If a saurian warrior survives enough battles he is declared a champion among "
+"lizards. From a distance, he throws poisoned spears to weaken a foe before "
+"he approaches, and in melee his skill with the huge spear he wields has "
+"become so great that few enemies ever escape unscathed."
+msgstr ""
+"Si un guerrero saurio sobrevive a suficientes batallas, es declarado campeón "
+"entre los lagartos. A distancia lanza lanzas envenenadas para debilitar a un "
+"enemigo antes de acercarse, y en combate cuerpo a cuerpo su habilidad con la "
+"enorme lanza que maneja se ha vuelto tan grande que pocos enemigos escapan "
+"ilesos."
+
+#. [unit_type], id=Saurian Combatant, race=black-marshes-saurians
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S3-Combatant.cfg:4
+msgid "Saurian Combatant"
+msgstr "Combatiente saurio"
+
+#. [unit_type], id=Saurian Combatant, race=black-marshes-saurians
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S3-Combatant.cfg:19
+msgid ""
+"Saurian Combatant, who is one of the strongest Saurian Fighter, is an expert "
+"in the use of the halberd."
+msgstr ""
+"El combatiente saurio, que es uno de los luchadores saurios más fuertes, es "
+"un experto en el uso de la alabarda."
+
+#. [unit_type], id=Oracular Master, race=black-marshes-saurians
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S3-Oracular_Master.cfg:5
+msgid "Oracular Master"
+msgstr "Maestro oracular"
+
+#. [advancement], id=ato-teleport
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S3-Oracular_Master.cfg:20
+msgid "teleport (new ability, no heal full)"
+msgstr "teletransporte (nueva habilidad, sin sanación completa)"
+
+#. [advancement], id=ato_amla_drain
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S3-Oracular_Master.cfg:34
+msgid "drain (drain attack is given to the melee attack)"
+msgstr "drenaje (el ataque de drenaje se otorga al ataque cuerpo a cuerpo)"
+
+#. [advancement], id=amla_staff
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S3-Oracular_Master.cfg:48
+msgid "staff (+1 damage to staff, no heal full)"
+msgstr "bastón (+1 de daño al bastón, sin sanación completa)"
+
+#. [advancement], id=regenerates
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S3-Oracular_Master.cfg:60
+msgid "regenerates (new ability, no heal full)"
+msgstr "regenera (nueva habilidad, sin sanación completa)"
+
+#. [advancement], id=ato_crystal_flash
+#: Refumees_Saurian_Pack/units/black-marshes-saurians/S3-Oracular_Master.cfg:73
+msgid "crystal flash (+1 damage to crystal flash, no heal full)"
+msgstr ""
+"destello de cristal (+1 de daño al destello de cristal, sin sanación "
+"completa)"
+
+#: Refumees_Saurian_Pack/units/campaign-saurians/Hero-Anexir.cfg:4
+msgid ""
+"Anexir is a young skillfull augur. Chosen to advise Zanza in her upcoming "
+"adventure."
+msgstr ""
+"Anexir es un joven augurio habilidoso. Fue elegido para aconsejar a Zanza en "
+"su próxima aventura."
+
+#. [advancement], id=warrior_1
+#: Refumees_Saurian_Pack/units/campaign-saurians/Hero-Anexir.cfg:9
+msgid "<span color='#9A9A16'><b>Self defence</b></span>\n"
+msgstr "<span color='#9A9A16'><b>Autodefensa</b></span>\n"
+
+#. [advancement], id=hunter_1
+#: Refumees_Saurian_Pack/units/campaign-saurians/Hero-Anexir.cfg:51
+msgid "<span color='#9A009A'><b>Elementalist</b></span>\n"
+msgstr "<span color='#9A009A'><b>Elementalista</b></span>\n"
+
+#. [unit_type], id=Saurian Advisor, race=lizard, gender=male
+#. [unit_type], id=Saurian Advisor 2, race=lizard, gender=male
+#. [unit_type], id=Saurian Advisor 3, race=lizard, gender=male
+#: Refumees_Saurian_Pack/units/campaign-saurians/Hero-Anexir.cfg:436
+#: Refumees_Saurian_Pack/units/campaign-saurians/Hero-Anexir.cfg:536
+#: Refumees_Saurian_Pack/units/campaign-saurians/Hero-Anexir.cfg:692
+msgid "Saurian Advisor"
+msgstr "Asesor saurio"
+
+#: Refumees_Saurian_Pack/units/campaign-saurians/Hero-Zanza.cfg:4
+msgid ""
+"Zanza is still a young saurian of her tribe, on the verge of hatching. She "
+"trained with her mother with the spear and joining her in hunts. Shortly the "
+"elders recognize her great leadership potential."
+msgstr ""
+"Zanza todavía es una sauria joven de su tribu, a punto de salir del huevo. "
+"Se entrenó con su madre usando la lanza y la acompañaba en las cacerías. "
+"Pronto los ancianos reconocieron su gran potencial como líder."
+
+#. [advancement], id=warrior_1
+#: Refumees_Saurian_Pack/units/campaign-saurians/Hero-Zanza.cfg:9
+msgid "<span color='#806051'><b>Warrior</b></span>\n"
+msgstr "<span color='#806051'><b>Guerrera</b></span>\n"
+
+#. [advancement], id=hunter_1
+#: Refumees_Saurian_Pack/units/campaign-saurians/Hero-Zanza.cfg:44
+msgid "<span color='#3F8B34'><b>Hunter</b></span>\n"
+msgstr "<span color='#3F8B34'><b>Cazadora</b></span>\n"
+
+#. [effect], apply_to=new_attack, type=pierce, range=ranged
+#. [attack], type=pierce, range=ranged
+#: Refumees_Saurian_Pack/units/campaign-saurians/Hero-Zanza.cfg:69
+#: Refumees_Saurian_Pack/units/deep-saurians/S2-Peltast.cfg:47
+#: Refumees_Saurian_Pack/units/deep-saurians/S3-Heavy-Peltast.cfg:48
+msgid "slowing-poison spear"
+msgstr "lanza de veneno ralentizante"
+
+#. [advancement], id=leader_1
+#: Refumees_Saurian_Pack/units/campaign-saurians/Hero-Zanza.cfg:111
+msgid "<span color='#71348C'><b>Leader</b></span>\n"
+msgstr "<span color='#71348C'><b>Líder</b></span>\n"
+
+#. [advancement], id=warrior_2_1
+#. [advancement], id=warrior_2_2
+#: Refumees_Saurian_Pack/units/campaign-saurians/Hero-Zanza.cfg:160
+#: Refumees_Saurian_Pack/units/campaign-saurians/Hero-Zanza.cfg:198
+msgid "<span color='#806051'><b>Warrior</b></span> (choose only one)\n"
+msgstr "<span color='#806051'><b>Guerrera</b></span> (elige solo una)\n"
+
+#. [advancement], id=hunter_2_1
+#. [advancement], id=hunter_2_2
+#: Refumees_Saurian_Pack/units/campaign-saurians/Hero-Zanza.cfg:255
+#: Refumees_Saurian_Pack/units/campaign-saurians/Hero-Zanza.cfg:302
+msgid "<span color='#3F8B34'><b>Hunter</b></span> (choose only one)\n"
+msgstr "<span color='#3F8B34'><b>Cazadora</b></span> (elige solo una)\n"
+
+#. [advancement], id=leader_2_1
+#. [advancement], id=leader_2_2
+#: Refumees_Saurian_Pack/units/campaign-saurians/Hero-Zanza.cfg:359
+#: Refumees_Saurian_Pack/units/campaign-saurians/Hero-Zanza.cfg:409
+msgid "<span color='#71348C'><b>Leader</b></span> (choose only one)\n"
+msgstr "<span color='#71348C'><b>Líder</b></span> (elige solo una)\n"
+
+#. [unit_type], id=Saurian Leader, race=lizard, gender=female
+#. [unit_type], id=Saurian Leader 2, race=lizard, gender=female
+#. [unit_type], id=Saurian Leader 3, race=lizard, gender=female
+#: Refumees_Saurian_Pack/units/campaign-saurians/Hero-Zanza.cfg:469
+#: Refumees_Saurian_Pack/units/campaign-saurians/Hero-Zanza.cfg:569
+#: Refumees_Saurian_Pack/units/campaign-saurians/Hero-Zanza.cfg:691
+msgid "Saurian Leader"
+msgstr "Líder sauria"
+
+#. [unit_type], id=Ref Saurian Devotee, race=lizard, gender=male
+#: Refumees_Saurian_Pack/units/campaign-saurians/S0-Devotee.cfg:4
+msgid "Saurian Devotee"
+msgstr "Devoto saurio"
+
+#. [unit_type], id=Ref Saurian Devotee, race=lizard, gender=male
+#. [unit_type], id=Ref Saurian Devotee Zombie, race=undead-lizard
+#: Refumees_Saurian_Pack/units/campaign-saurians/S0-Devotee.cfg:24
+#: Refumees_Saurian_Pack/units/undead-saurians/S0-Zombie-Mage.cfg:18
+msgid ""
+"Saurians have some knowledge of what men call sorcery, but their practice of "
+"it reeks of augury and black magic. It is little understood, but rightly "
+"regarded with fear by those against whom it is used."
+msgstr ""
+"Los saurios tienen cierto conocimiento de lo que los humanos llaman "
+"hechicería, pero su práctica huele a augurios y magia negra. Es poco "
+"comprendida, pero con razón se la teme por parte de aquellos contra quienes "
+"se usa."
+
+#. [unit_type], id=Deep Saurian Warrior, race=deep-lizard
+#: Refumees_Saurian_Pack/units/campaign-saurians/S2-Warrior(Refumee).cfg:23
+msgid ""
+"The mainstay of the saurian army, these lizardfolk have managed to run away "
+"from a proper fight enough times to understand the peril they face. "
+"Bolstered by the belief in their own luck, they tend to get carved up into "
+"chunks due to their reckless charges at the front line. - Grimfoot Hammerhead"
+msgstr ""
+"El pilar del ejército saurio. Estos lagartos han logrado escapar de una "
+"pelea de verdad suficientes veces como para entender el peligro que "
+"enfrentan. Animados por la creencia en su propia suerte, suelen terminar "
+"hechos pedazos debido a sus cargas imprudentes en la primera línea. - "
+"Grimfoot Cabezamartillo"
+
+#. [attack], type=pierce, range=melee
+#: Refumees_Saurian_Pack/units/campaign-saurians/S2-Warrior(Refumee).cfg:36
+#: Refumees_Saurian_Pack/units/campaign-saurians/S3-Champion(Refumee).cfg:37
+#: Refumees_Saurian_Pack/units/deep-saurians/S2-Pikemen.cfg:36
+#: Refumees_Saurian_Pack/units/deep-saurians/S3-Heavy-Pikemen.cfg:37
+msgid "halberd stab"
+msgstr "estocada de alabarda"
+
+#. [unit_type], id=Saurian Artificer, race=lizard
+#. [unit_type], id=Deep Saurian Artificer, race=deep-lizard
+#: Refumees_Saurian_Pack/units/campaign-saurians/S3-Artificer(Greendragon).cfg:4
+#: Refumees_Saurian_Pack/units/deep-saurians/S3-Artificer.cfg:4
+msgid "Saurian Artificer"
+msgstr "Artífice saurio"
+
+#. [unit_type], id=Saurian Artificer, race=lizard
+#. [unit_type], id=Deep Saurian Artificer, race=deep-lizard
+#: Refumees_Saurian_Pack/units/campaign-saurians/S3-Artificer(Greendragon).cfg:18
+#: Refumees_Saurian_Pack/units/deep-saurians/S3-Artificer.cfg:23
+msgid ""
+"Saurians who dabble in fire magic tend to set themselves on fire due to "
+"their ineptitude, which makes for a more romantic setting for the slaughter. "
+"- Grimfoot Hammerhead"
+msgstr ""
+"Los saurios que juegan con la magia de fuego suelen prenderse fuego ellos "
+"mismos debido a su ineptitud, lo que crea un escenario más romántico para la "
+"masacre. - Grimfoot Cabezamartillo"
+
+#. [unit_type], id=Deep Saurian Champion, race=deep-lizard
+#: Refumees_Saurian_Pack/units/campaign-saurians/S3-Champion(Refumee).cfg:24
+msgid ""
+"The best the lizards can offer, the so-called champions make for good boot "
+"leather after careful processing. - Grimfoot Hammerhead"
+msgstr ""
+"Lo mejor que los lagartos pueden ofrecer. Los llamados campeones sirven para "
+"hacer buen cuero de botas después de un procesamiento cuidadoso. - Grimfoot "
+"Cabezamartillo"
+
+#. [unit_type], id=Fizztsars, race=undead-lizard, gender=female
+#. [unit_type], id=Saurian Flanker Zombie, race=undead-lizard, gender=female
+#: Refumees_Saurian_Pack/units/campaign-saurians/S3-Fizztsars.cfg:4
+#: Refumees_Saurian_Pack/units/undead-saurians/S3-Zombie-Flanker.cfg:4
+msgid "female^Saurian Flanker Creeper"
+msgstr "Reptadora flanqueadora sauria"
+
+#. [unit_type], id=Fizztsars, race=undead-lizard, gender=female
+#. [unit_type], id=Saurian Skirmisher Zombie, race=undead-lizard, gender=female
+#. [unit_type], id=Saurian Ambusher Zombie, race=undead-lizard, gender=female
+#. [unit_type], id=Saurian Flanker Zombie, race=undead-lizard, gender=female
+#: Refumees_Saurian_Pack/units/campaign-saurians/S3-Fizztsars.cfg:22
+#: Refumees_Saurian_Pack/units/undead-saurians/S1-Zombie-Skirmisher.cfg:18
+#: Refumees_Saurian_Pack/units/undead-saurians/S2-Zombie-Ambusher.cfg:18
+#: Refumees_Saurian_Pack/units/undead-saurians/S3-Zombie-Flanker.cfg:19
+msgid ""
+"Saurians are very small of frame, and though they are somewhat frail because "
+"of this, they are very, very agile. In combat, their size allows them to "
+"dart past defenses that would hold any grown man at bay, making them a "
+"tricky foe to deal with.\n"
+"\n"
+"Spears are their preferred weapon, as their powerful hind legs can drive a "
+"spear with enough force to do considerable damage, either in hand or thrown."
+msgstr ""
+"Los saurios son muy pequeños de complexión y, aunque son algo frágiles por "
+"eso, son muy, muy ágiles. En combate, su tamaño les permite esquivar "
+"defensas que detendrían a cualquier hombre adulto, lo que los convierte en "
+"un enemigo difícil de manejar.\n"
+"\n"
+"Las lanzas son su arma preferida, ya que sus poderosas patas traseras pueden "
+"impulsar una lanza con suficiente fuerza para causar un daño considerable, "
+"ya sea en mano o arrojada."
+
+#. [attack], type=blade, range=melee
+#: Refumees_Saurian_Pack/units/campaign-saurians/S3-Fizztsars.cfg:57
+msgid "plague bite"
+msgstr "mordida de plaga"
+
+#. [unit_type], id=Ref Saurian Witchdoctor Alive, race=lizard, gender=male
+#. [unit_type], id=Ref Saurian Witchdoctor, race=undead-lizard, gender=male
+#: Refumees_Saurian_Pack/units/campaign-saurians/S3-Vendraxis-alive.cfg:4
+#: Refumees_Saurian_Pack/units/campaign-saurians/S3-Vendraxis.cfg:4
+msgid "Vendraxis"
+msgstr "Vendraxis"
+
+#. [unit_type], id=Ref Saurian Witchdoctor Alive, race=lizard, gender=male
+#. [unit_type], id=Ref Saurian Witchdoctor, race=undead-lizard, gender=male
+#: Refumees_Saurian_Pack/units/campaign-saurians/S3-Vendraxis-alive.cfg:24
+#: Refumees_Saurian_Pack/units/campaign-saurians/S3-Vendraxis.cfg:24
+msgid ""
+"Vendraxis is known for the campaign Secrets of the Ancients. Here he joined "
+"the necromancer Ardonna. Vendraxis told her that Ardonna is not her name "
+"anymore. Later an she changed her name to Ardryn-Na. He learned a lot from "
+"Ardryn-Na and Ras-Tabahn. He spend years to replicate the metamorphosis and "
+"was succesful. He was also succesful with convincing some of his people to "
+"join his quest."
+msgstr ""
+"Vendraxis es conocido por la campaña Secrets of the Ancients. Aquí se unió a "
+"la nigromante Ardonna. Vendraxis le dijo que Ardonna ya no era su nombre. "
+"Más tarde ella cambió su nombre a Ardryn-Na. Él aprendió mucho de Ardryn-Na "
+"y de Ras-Tabahn. Pasó años replicando la metamorfosis y tuvo éxito. También "
+"tuvo éxito convenciendo a algunos de su pueblo para unirse a su búsqueda."
+
+#. [unit_type], id=Ref Saurian Wise, race=lizard, gender=male
+#: Refumees_Saurian_Pack/units/campaign-saurians/S3-Wise.cfg:4
+msgid "Saurian Wise"
+msgstr "Sabio saurio"
+
+#. [unit_type], id=Ref Saurian Wise, race=lizard, gender=male
+#: Refumees_Saurian_Pack/units/campaign-saurians/S3-Wise.cfg:29
+msgid ""
+"Saurians have some knowledge of what men call sorcery, but their practice of "
+"it reeks of wisey and black magic. It is little understood, but rightly "
+"regarded with fear by those against whom it is used."
+msgstr ""
+"Los saurios tienen cierto conocimiento de lo que los humanos llaman "
+"hechicería, pero su práctica huele a adivinación y magia negra. Es poco "
+"comprendida, pero con razón se la teme por parte de aquellos contra quienes "
+"se usa."
+
+#. [unit_type], id=Soulless Carrier, race=undead-lizard
+#: Refumees_Saurian_Pack/units/campaign-saurians/Soulless-Carrier.cfg:85
+msgid "Soulless Carrier"
+msgstr "Portador desalmado"
+
+#. [unit_type], id=Soulless Carrier, race=undead-lizard
+#: Refumees_Saurian_Pack/units/campaign-saurians/Soulless-Carrier.cfg:100
+msgid "This Soulless Saurian seems to carry something important."
+msgstr "Este saurio desalmado parece llevar algo importante."
+
+#. [unit_type], id=Deep Young Saurian, race=deep-lizard
+#: Refumees_Saurian_Pack/units/deep-saurians/S0-Young.cfg:23
+msgid ""
+"These little pests are nothing more than a prelude to the impending "
+"slaughter, warming up the axe hand. - Grimfoot Hammerhead."
+msgstr ""
+"Estas pequeñas plagas no son más que un preludio a la masacre que se "
+"avecina, calentando la mano del hacha. - Grimfoot Cabezamartillo."
+
+#. [unit_type], id=Deep Saurian Augur, race=deep-lizard, gender=male
+#: Refumees_Saurian_Pack/units/deep-saurians/S1-Augur.cfg:26
+msgid ""
+"Due to their annoying and constant use of magic, these augurs tend to glow "
+"with an arcane aura, which just makes them a more visible target for the "
+"thunder squads. - Grimfoot Hammerhead"
+msgstr ""
+"Debido a su molesto y constante uso de la magia, estos augures suelen "
+"brillar con un aura arcana, lo que los convierte en un objetivo más visible "
+"para los escuadrones de trueno. - Grimfoot Cabezamartillo"
+
+#. [unit_type], id=Deep Saurian Blacksmith, race=deep-lizard
+#: Refumees_Saurian_Pack/units/deep-saurians/S1-Blacksmith.cfg:22
+msgid ""
+"Saurian Blacksmiths are usually scorned by the Knalga, due to their craft "
+"being at such a base level of competence. However, where one finds a "
+"blacksmith, one usually finds free metals too. - Grimfoot Hammerhead"
+msgstr ""
+"Los herreros saurios suelen ser despreciados por los Knalga, debido a que su "
+"artesanía está en un nivel tan básico de competencia. Sin embargo, donde se "
+"encuentra un herrero, normalmente también se encuentran metales gratis. - "
+"Grimfoot Cabezamartillo"
+
+#. [unit_type], id=Deep Saurian Fighter, race=deep-lizard
+#: Refumees_Saurian_Pack/units/deep-saurians/S1-Fighter.cfg:23
+msgid ""
+"Try as hard as they might, these spearmen can barely reach over our shields "
+"and make a satisfying splat sound when hit with a hammer over the head. "
+"-Grimfoot Hammerhead"
+msgstr ""
+"Por más que lo intenten, estos lanceros apenas logran pasar por encima de "
+"nuestros escudos y producen un satisfactorio sonido de aplastamiento cuando "
+"les golpean la cabeza con un martillo. - Grimfoot Cabezamartillo"
+
+#. [unit_type], id=Deep Saurian Rider, race=deep-lizard
+#: Refumees_Saurian_Pack/units/deep-saurians/S1-Saurianrider.cfg:4
+msgid "Saurian Rider"
+msgstr "Jinete saurio"
+
+#. [unit_type], id=Deep Saurian Rider, race=deep-lizard
+#: Refumees_Saurian_Pack/units/deep-saurians/S1-Saurianrider.cfg:23
+msgid ""
+"A sight to behold, barely controlling their insectoid mounts, these lizards "
+"spend more time getting dragged through the dirt than actually fighting. "
+"Even the most hardened dwarvish warriors tend to crack a smile at the sight. "
+"- Grimfoot Hammerhead"
+msgstr ""
+"Un espectáculo digno de ver. Apenas controlando sus monturas insectoides, "
+"estos lagartos pasan más tiempo siendo arrastrados por el suelo que luchando "
+"de verdad. Incluso los guerreros enanos más endurecidos suelen sonreír al "
+"verlos. - Grimfoot Cabezamartillo"
+
+#. [unit_type], id=Deep Saurian Armorer, race=deep-lizard
+#: Refumees_Saurian_Pack/units/deep-saurians/S2-Armorer.cfg:22
+msgid ""
+"Some saurian blacksmiths tend to live under the illusion that they are "
+"better than the rest of their miserable lot, but they quickly get "
+"disillusioned by a well-placed hammer blow. - Grimfoot Hammerhead"
+msgstr ""
+"Algunos herreros saurios tienden a vivir bajo la ilusión de que son mejores "
+"que el resto de su miserable grupo, pero rápidamente se desilusionan con un "
+"golpe de martillo bien colocado. - Grimfoot Cabezamartillo"
+
+#. [unit_type], id=Deep Saurian Craftsman, race=deep-lizard
+#: Refumees_Saurian_Pack/units/deep-saurians/S2-Craftsman.cfg:22
+msgid ""
+"These lizards are the sorriest lot of them all, stealing Knalga scraps and "
+"claiming them as their own work. The feebleminded saurians tend to believe "
+"such tall tales, but the dwarves just laugh at these pretenders. - Grimfoot "
+"Hammerhead"
+msgstr ""
+"Estos lagartos son el grupo más lamentable de todos, robando restos de "
+"Knalga y reclamándolos como su propio trabajo. Los saurios de mente débil "
+"tienden a creer tales historias exageradas, pero los enanos solo se ríen de "
+"estos impostores. - Grimfoot Cabezamartillo"
+
+#. [attack], type=impact, range=ranged
+#: Refumees_Saurian_Pack/units/deep-saurians/S2-Craftsman.cfg:58
+#: Refumees_Saurian_Pack/units/deep-saurians/S3-Artisan.cfg:47
+msgid "mortar"
+msgstr "mortero"
+
+#. [unit_type], id=Deep Fire Ant Rider, race=deep-lizard
+#: Refumees_Saurian_Pack/units/deep-saurians/S2-Firerider.cfg:4
+msgid "Fire Ant Rider"
+msgstr "Jinete de hormiga de fuego"
+
+#. [unit_type], id=Deep Fire Ant Rider, race=deep-lizard
+#: Refumees_Saurian_Pack/units/deep-saurians/S2-Firerider.cfg:23
+msgid ""
+"Managing to survive the first months of riding a mindless beast, these "
+"saurians tend to be easily dismounted by hacking a few legs from the ant. - "
+"Grimfoot Hammerhead"
+msgstr ""
+"Logrando sobrevivir los primeros meses montando una bestia sin mente, estos "
+"saurios suelen ser fácilmente desmontados cortando unas cuantas patas de la "
+"hormiga. - Grimfoot Cabezamartillo"
+
+#. [unit_type], id=Ref Deep Saurian Peltast, race=deep-lizard
+#: Refumees_Saurian_Pack/units/deep-saurians/S2-Peltast.cfg:4
+msgid "Saurian Peltast"
+msgstr "Peltasta saurio"
+
+#. [unit_type], id=Ref Deep Saurian Peltast, race=deep-lizard
+#: Refumees_Saurian_Pack/units/deep-saurians/S2-Peltast.cfg:23
+msgid ""
+"Cowardly saurians who understand that there is no chance to fight hand-to-"
+"hand against the might of the Knalga try different, albeit futile, "
+"approaches to combat. They tend to believe that throwing rocks at dwarves "
+"will somehow yield positive results. - Grimfoot Hammerhead"
+msgstr ""
+"Saurios cobardes que entienden que no tienen oportunidad de luchar cuerpo a "
+"cuerpo contra el poder de Knalga intentan diferentes, aunque inútiles, "
+"enfoques de combate. Tienden a creer que lanzar piedras a los enanos de "
+"alguna manera dará resultados positivos. - Grimfoot Cabezamartillo"
+
+#. [unit_type], id=Deep Saurian Pikemen, race=deep-lizard
+#: Refumees_Saurian_Pack/units/deep-saurians/S2-Pikemen.cfg:4
+msgid "Saurian Pikeman"
+msgstr "Piquero saurio"
+
+#. [unit_type], id=Deep Saurian Pikemen, race=deep-lizard
+#: Refumees_Saurian_Pack/units/deep-saurians/S2-Pikemen.cfg:23
+msgid ""
+"Another attempt by the saurians to engage in close combat, using longer "
+"spears and more experienced survivors. However, the best they can do is "
+"scratch the paint on our shields. - Grimfoot Hammerhead"
+msgstr ""
+"Otro intento de los saurios de entrar en combate cercano, usando lanzas más "
+"largas y sobrevivientes más experimentados. Sin embargo, lo mejor que pueden "
+"hacer es rayar la pintura de nuestros escudos. - Grimfoot Cabezamartillo"
+
+#. [unit_type], id=Deep Saurian Soothsayer, race=deep-lizard, gender=male
+#: Refumees_Saurian_Pack/units/deep-saurians/S2-Soothsayer.cfg:26
+msgid ""
+"The saurians who dabble in the healing arts are mostly weaklings who tend to "
+"run at the first approach of a proper dwarvish squad. They tend to make "
+"great prisoners, as other saurians will pay a handsome price for their "
+"return. - Grimfoot Hammerhead"
+msgstr ""
+"Los saurios que se dedican a las artes de la sanación son en su mayoría "
+"débiles que suelen huir al primer acercamiento de un escuadrón enano de "
+"verdad. Suelen ser excelentes prisioneros, ya que otros saurios pagarán un "
+"buen precio por su regreso. - Grimfoot Cabezamartillo"
+
+#. [unit_type], id=Deep Saurian Artisan, race=deep-lizard
+#: Refumees_Saurian_Pack/units/deep-saurians/S3-Artisan.cfg:4
+msgid "Saurian Artisan"
+msgstr "Artesano saurio"
+
+#. [unit_type], id=Deep Saurian Artisan, race=deep-lizard
+#: Refumees_Saurian_Pack/units/deep-saurians/S3-Artisan.cfg:23
+msgid ""
+"The so-called artisans of the saurians only manage to artificially prolong "
+"their lifespans by standing back and throwing pebbles at the enemy. They "
+"still think that rocks can damage a dwarf. It’s like trying to kill a flower "
+"by watering it. - Grimfoot Hammerhead"
+msgstr ""
+"Los llamados artesanos de los saurios solo logran prolongar artificialmente "
+"sus vidas quedándose atrás y lanzando guijarros al enemigo. Todavía creen "
+"que las piedras pueden dañar a un enano. Es como intentar matar una flor "
+"regándola. - Grimfoot Cabezamartillo"
+
+#. [unit_type], id=Deep Banner Fire Ant Rider, race=deep-lizard
+#: Refumees_Saurian_Pack/units/deep-saurians/S3-Banner-Firerider.cfg:4
+msgid "Fire Ant Banner Rider"
+msgstr "Jinete de hormiga de fuego con estandarte"
+
+#. [unit_type], id=Deep Banner Fire Ant Rider, race=deep-lizard
+#: Refumees_Saurian_Pack/units/deep-saurians/S3-Banner-Firerider.cfg:24
+msgid ""
+"The banner-carrying riders are the most eager to please saurians, even "
+"carrying a piece of cloth that they can be buried in. - Grimfoot Hammerhead"
+msgstr ""
+"Los jinetes que portan estandartes son los saurios más ansiosos por "
+"complacer, incluso llevando un trozo de tela en el que pueden ser "
+"enterrados. - Grimfoot Cabezamartillo"
+
+#. [unit_type], id=Deep Fire Baneant Rider, race=deep-lizard
+#: Refumees_Saurian_Pack/units/deep-saurians/S3-Firebanerider.cfg:4
+msgid "Firebane Ant Rider"
+msgstr "Jinete de hormiga matafuegos"
+
+#. [unit_type], id=Deep Fire Baneant Rider, race=deep-lizard
+#: Refumees_Saurian_Pack/units/deep-saurians/S3-Firebanerider.cfg:24
+msgid ""
+"The few lucky riders who realized that making themselves a more noticeable "
+"target on the battlefield train their mounts to assist them in combat. The "
+"rider and the mount working in concert usually mean that the dwarf "
+"encountering them has to use a backswing too. - Grimfoot Hammerhead"
+msgstr ""
+"Los pocos jinetes afortunados que se dieron cuenta de que hacerse un "
+"objetivo más visible en el campo de batalla entrenan a sus monturas para que "
+"los ayuden en combate. El jinete y la montura trabajando en conjunto suele "
+"significar que el enano que los enfrenta también tiene que usar un golpe de "
+"revés. - Grimfoot Cabezamartillo"
+
+#. [unit_type], id=Ref Deep Saurian Heavy Peltast, race=deep-lizard
+#: Refumees_Saurian_Pack/units/deep-saurians/S3-Heavy-Peltast.cfg:4
+msgid "Saurian Heavy Peltast"
+msgstr "Peltasta pesado saurio"
+
+#. [unit_type], id=Ref Deep Saurian Heavy Peltast, race=deep-lizard
+#: Refumees_Saurian_Pack/units/deep-saurians/S3-Heavy-Peltast.cfg:24
+msgid ""
+"The heavy peltast is only called heavy because of the speed at which it "
+"shoots and the amount of ammo it needs. They make great wall decorations if "
+"you can get your hands on one that isn’t too damaged. - Grimfoot Hammerhead"
+msgstr ""
+"El peltasta pesado solo se llama pesado por la velocidad a la que dispara y "
+"la cantidad de munición que necesita. Son excelentes decoraciones de pared "
+"si logras conseguir uno que no esté demasiado dañado. - Grimfoot "
+"Cabezamartillo"
+
+#. [unit_type], id=Deep Saurian Heavy Pikemen, race=deep-lizard
+#: Refumees_Saurian_Pack/units/deep-saurians/S3-Heavy-Pikemen.cfg:4
+msgid "Saurian Heavy Pikeman"
+msgstr "Piquero pesado saurio"
+
+#. [unit_type], id=Deep Saurian Heavy Pikemen, race=deep-lizard
+#: Refumees_Saurian_Pack/units/deep-saurians/S3-Heavy-Pikemen.cfg:24
+msgid ""
+"Finally wielding properly sized weapons, these saurians do tend to lead "
+"charges into our ranks. Although not one has succeeded yet, they still try "
+"and cling to the hope that eventually it might happen. - Grimfoot Hammerhead"
+msgstr ""
+"Finalmente empuñando armas del tamaño adecuado, estos saurios suelen liderar "
+"cargas contra nuestras filas. Aunque ninguno ha tenido éxito todavía, siguen "
+"intentándolo y se aferran a la esperanza de que algún día ocurra. - Grimfoot "
+"Cabezamartillo"
+
+#. [unit_type], id=Deep Saurian Seer, race=deep-lizard, gender=male
+#: Refumees_Saurian_Pack/units/deep-saurians/S3-Seer.cfg:27
+msgid ""
+"A more experienced magic user, these seers are crafty enough not to glow in "
+"the dark, but still pose no real threat. Easily scared by shouting at them. "
+"- Grimfoot Hammerhead"
+msgstr ""
+"Usuarios de magia más experimentados, estos videntes son lo suficientemente "
+"astutos como para no brillar en la oscuridad, pero aún no representan una "
+"amenaza real. Se asustan fácilmente si les gritas. - Grimfoot Cabezamartillo"
+
+#. [unit_type], id=Desert Wyrmlet, race=monster
+#: Refumees_Saurian_Pack/units/desert-saurians/S0-Desert_Wyrmlet.cfg:4
+msgid "Desert Wyrmlet"
+msgstr "Gusano del desierto joven"
+
+#. [unit_type], id=Desert Wyrmlet, race=monster
+#: Refumees_Saurian_Pack/units/desert-saurians/S0-Desert_Wyrmlet.cfg:17
+msgid ""
+"Desert Wyrms are strange beasts, stout serpents with wings, but no legs. "
+"They are relatively rare, and their presence is attributed to some eccentric "
+"wizard or dragon. The young are small, but hungry and aggressive."
+msgstr ""
+"Los gusanos del desierto son bestias extrañas: serpientes robustas con alas "
+"pero sin patas. Son relativamente raros y su presencia se atribuye a algún "
+"mago excéntrico o dragón. Los jóvenes son pequeños, pero hambrientos y "
+"agresivos."
+
+#. [attack], type=fire, range=ranged
+#: Refumees_Saurian_Pack/units/desert-saurians/S0-Desert_Wyrmlet.cfg:86
+#: Refumees_Saurian_Pack/units/desert-saurians/S1-Desert_Wyrm.cfg:88
+msgid "breath"
+msgstr "aliento"
+
+#. [unit_type], id=Desert Saurian Adept, race=desert-lizard
+#: Refumees_Saurian_Pack/units/desert-saurians/S1-Adept.cfg:4
+msgid "Saurian Adept"
+msgstr "Adepto saurio"
+
+#. [unit_type], id=Desert Saurian Adept, race=desert-lizard
+#: Refumees_Saurian_Pack/units/desert-saurians/S1-Adept.cfg:23
+msgid "Only few saurians are taught in ways of the One."
+msgstr "Solo unos pocos saurios son instruidos en los caminos del Uno."
+
+#. [attack], type=impact, range=ranged
+#: Refumees_Saurian_Pack/units/desert-saurians/S1-Adept.cfg:45
+#: Refumees_Saurian_Pack/units/desert-saurians/S2-Priest.cfg:59
+#: Refumees_Saurian_Pack/units/desert-saurians/S3-High_Priest.cfg:58
+msgid "sand"
+msgstr "arena"
+
+#. [unit_type], id=Desert Wyrm, race=monster
+#: Refumees_Saurian_Pack/units/desert-saurians/S1-Desert_Wyrm.cfg:5
+msgid "Desert Wyrm"
+msgstr "Gusano del desierto"
+
+#. [unit_type], id=Desert Wyrm, race=monster
+#: Refumees_Saurian_Pack/units/desert-saurians/S1-Desert_Wyrm.cfg:19
+msgid ""
+"Desert Wyrms are strange beasts, stout serpents with wings, but no legs. "
+"They are relatively rare, and their presence is attributed to some eccentric "
+"wizard or dragon. Mature Wyrms have excellent control of their fire breath "
+"attack, as if they are themselves miniature dragons."
+msgstr ""
+"Los gusanos del desierto son bestias extrañas: serpientes robustas con alas "
+"pero sin patas. Son relativamente raros y su presencia se atribuye a algún "
+"mago excéntrico o dragón. Los gusanos maduros tienen un excelente control de "
+"su ataque de aliento de fuego, como si fueran dragones en miniatura."
+
+#. [unit_type], id=Desert Saurian Milita, race=desert-lizard
+#: Refumees_Saurian_Pack/units/desert-saurians/S1-Milita.cfg:4
+msgid "Saurian Militia"
+msgstr "Milicia sauria"
+
+#. [unit_type], id=Desert Saurian Milita, race=desert-lizard
+#: Refumees_Saurian_Pack/units/desert-saurians/S1-Milita.cfg:23
+msgid "Young saurians take up their weapons to fight for the One."
+msgstr "Los saurios jóvenes toman sus armas para luchar por el Uno."
+
+#. [unit_type], id=Desert Saurian Slinger, race=desert-lizard
+#: Refumees_Saurian_Pack/units/desert-saurians/S1-Slinger.cfg:4
+msgid "Saurian Slinger"
+msgstr "Hondero saurio"
+
+#. [unit_type], id=Desert Saurian Slinger, race=desert-lizard
+#: Refumees_Saurian_Pack/units/desert-saurians/S1-Slinger.cfg:23
+msgid ""
+"Slingers are the skirmishers of the Golden Ones. They hunt with stones and "
+"defend theirselfs with a spear."
+msgstr ""
+"Los honderos son los hostigadores de los Dorados. Cazan con piedras y se "
+"defienden con una lanza."
+
+#. [unit_type], id=Desert Saurian Marksman, race=desert-lizard
+#: Refumees_Saurian_Pack/units/desert-saurians/S2-Marksman.cfg:4
+msgid "Saurian Marksman"
+msgstr "Tirador saurio"
+
+#. [unit_type], id=Desert Saurian Marksman, race=desert-lizard
+#: Refumees_Saurian_Pack/units/desert-saurians/S2-Marksman.cfg:23
+msgid ""
+"Marksman are experienced slingers. They rarely missing their mark and "
+"learned that stones are also useful against skeletons in the dark."
+msgstr ""
+"Los tiradores son honderos experimentados. Rara vez fallan su objetivo y "
+"aprendieron que las piedras también son útiles contra esqueletos en la "
+"oscuridad."
+
+#. [unit_type], id=Desert Saurian Moon Priest, race=desert-lizard
+#: Refumees_Saurian_Pack/units/desert-saurians/S2-Moon-Priest.cfg:4
+msgid "Saurian Moon Priest"
+msgstr "Sacerdote lunar saurio"
+
+#. [unit_type], id=Desert Saurian Moon Priest, race=desert-lizard
+#. [unit_type], id=Desert Saurian Priest, race=desert-lizard
+#: Refumees_Saurian_Pack/units/desert-saurians/S2-Moon-Priest.cfg:23
+#: Refumees_Saurian_Pack/units/desert-saurians/S2-Priest.cfg:23
+msgid ""
+"The saurians who finish their adept exam infront of a High Priest are "
+"allowed enter the priesthood. They will channel the holy light to heal their "
+"allies and to fight the undead."
+msgstr ""
+"Los saurios que terminan su examen de adepto frente a un Sumo Sacerdote "
+"pueden ingresar al sacerdocio. Canalizarán la luz sagrada para sanar a sus "
+"aliados y combatir a los no-muertos."
+
+#. [unit_type], id=Desert Saurian Priest, race=desert-lizard
+#: Refumees_Saurian_Pack/units/desert-saurians/S2-Priest.cfg:4
+msgid "Saurian Priest"
+msgstr "Sacerdote saurio"
+
+#. [unit_type], id=Desert Rider Scorpion, race=desert-lizard
+#: Refumees_Saurian_Pack/units/desert-saurians/S2-Sand_Scuttler_Rider.cfg:4
+msgid "Sand Scuttler Rider"
+msgstr "Jinete de escurridor de arena"
+
+#. [unit_type], id=Desert Rider Scorpion, race=desert-lizard
+#: Refumees_Saurian_Pack/units/desert-saurians/S2-Sand_Scuttler_Rider.cfg:57
+msgid ""
+"Only the bravest soldier can tame a Sand Scuttler and those who do this are "
+"honored by their fellow saurians."
+msgstr ""
+"Solo el soldado más valiente puede domar a un escurridor de arena y aquellos "
+"que lo logran son honrados por sus compañeros saurios."
+
+#. [unit_type], id=Desert Saurian Soldier, race=desert-lizard
+#. [unit_type], id=Ref Saurian Soldier, race=thief-lizard, gender=female
+#: Refumees_Saurian_Pack/units/desert-saurians/S2-Soldier.cfg:4
+#: Refumees_Saurian_Pack/units/thief-saurians/S2-Soldier.cfg:4
+msgid "Saurian Soldier"
+msgstr "Soldado saurio"
+
+#. [unit_type], id=Desert Saurian Soldier, race=desert-lizard
+#. [unit_type], id=Desert Saurian Squire, race=desert-lizard
+#: Refumees_Saurian_Pack/units/desert-saurians/S2-Soldier.cfg:23
+#: Refumees_Saurian_Pack/units/desert-saurians/S2-Squire.cfg:23
+msgid ""
+"Militas who train a lot, gathering experience in fights or rich enough to "
+"buy their equipment, are allowed to reach the rank of a soldier. They are "
+"better fighters in any way."
+msgstr ""
+"Las milicias que entrenan mucho, acumulan experiencia en combates o son lo "
+"suficientemente ricas para comprar su equipo, pueden alcanzar el rango de "
+"soldado. Son mejores luchadores en todos los sentidos."
+
+#. [unit_type], id=Desert Saurian Squire, race=desert-lizard
+#: Refumees_Saurian_Pack/units/desert-saurians/S2-Squire.cfg:4
+msgid "Saurian Squire"
+msgstr "Escudero saurio"
+
+#. [unit_type], id=Desert Saurian High Priest, race=desert-lizard
+#: Refumees_Saurian_Pack/units/desert-saurians/S3-High_Priest.cfg:4
+msgid "Saurian High Priest"
+msgstr "Sumo sacerdote saurio"
+
+#. [unit_type], id=Desert Saurian High Priest, race=desert-lizard
+#: Refumees_Saurian_Pack/units/desert-saurians/S3-High_Priest.cfg:24
+msgid ""
+"Most devoted and skilled priest are allowed to meet the One and receive its "
+"blessing. They will demotivate their enemies and reduces their fighting "
+"strength."
+msgstr ""
+"Los sacerdotes más devotos y hábiles pueden reunirse con el Uno y recibir su "
+"bendición. Desmoralizarán a sus enemigos y reducirán su fuerza de combate."
+
+#. [unit_type], id=Desert Saurian Knight, race=desert-lizard
+#: Refumees_Saurian_Pack/units/desert-saurians/S3-Knight.cfg:4
+msgid "Saurian Knight"
+msgstr "Caballero saurio"
+
+#. [unit_type], id=Desert Saurian Knight, race=desert-lizard
+#: Refumees_Saurian_Pack/units/desert-saurians/S3-Knight.cfg:24
+msgid ""
+"The Knights are the elite soldiers of the Golden Ones. They lead their tribe "
+"to victory. They are not like the knights of a wenothian, because the "
+"saurians of the Golden one are not knowledged enough to smith armour or "
+"steel swords. Besides that they should not be underestimated."
+msgstr ""
+"Los caballeros son los soldados de élite de los Dorados. Lideran a su tribu "
+"hacia la victoria. No son como los caballeros wenothianos, porque los "
+"saurios del Uno Dorado no tienen suficiente conocimiento para forjar "
+"armaduras o espadas de acero. Aun así, no deben ser subestimados."
+
+#. [unit_type], id=Desert Saurian Paladin, race=desert-lizard
+#: Refumees_Saurian_Pack/units/desert-saurians/S3-Paladin.cfg:4
+msgid "Saurian Paladin"
+msgstr "Paladín saurio"
+
+#. [unit_type], id=Desert Saurian Paladin, race=desert-lizard
+#: Refumees_Saurian_Pack/units/desert-saurians/S3-Paladin.cfg:24
+msgid ""
+"Those saurian soldiers who want to follow the teachings of the One and "
+"skilled enough to be a knight, are personally handpicked by the High Priest "
+"to arrange an audience with the One. Here they will receive its blessing of "
+"selfheal and healing others."
+msgstr ""
+"Aquellos soldados saurios que desean seguir las enseñanzas del Uno y tienen "
+"la habilidad suficiente para ser caballeros, son elegidos personalmente por "
+"el Sumo Sacerdote para concertar una audiencia con el Uno. Allí recibirán su "
+"bendición de autosanación y de sanar a otros."
+
+#. [unit_type], id=Desert Saurian Sharpshooter, race=desert-lizard
+#: Refumees_Saurian_Pack/units/desert-saurians/S3-Sharpshooter.cfg:4
+msgid "Saurian Sharpshooter"
+msgstr "Saetero saurio"
+
+#. [unit_type], id=Desert Saurian Sharpshooter, race=desert-lizard
+#: Refumees_Saurian_Pack/units/desert-saurians/S3-Sharpshooter.cfg:24
+msgid ""
+"It seems Sharpshooters are blessed from the One, but that is wrong. The One "
+"tries to teach the saurians its way, an honorable way of meele combat and "
+"blessings. The Sharpshooters are the last bastion of the old culture of the "
+"know called Golden Ones."
+msgstr ""
+"Parece que los saeteros están bendecidos por el Uno, pero eso es incorrecto. "
+"El Uno intenta enseñar a los saurios su camino, una forma honorable de "
+"combate cuerpo a cuerpo y bendiciones. Los tiradores de precisión son el "
+"último bastión de la antigua cultura de los conocidos como los Dorados."
+
+#. [unit_type], id=Ref Saurian Cannibal, race=lizard, gender=female
+#: Refumees_Saurian_Pack/units/saurians/S1-Cannibal.cfg:4
+msgid "Saurian Cannibal"
+msgstr "Caníbal saurio"
+
+#. [unit_type], id=Ref Saurian Cannibal, race=lizard, gender=female
+#: Refumees_Saurian_Pack/units/saurians/S1-Cannibal.cfg:17
+msgid ""
+"Saurians are known for their ability to digest nearly anything – even their "
+"own kind. But the Cannibals take this to the extreme. Driven by an "
+"insatiable hunger, they devour anything in their path, mending their wounds "
+"with every bite."
+msgstr ""
+"Los saurios son conocidos por su capacidad de digerir casi cualquier cosa, "
+"incluso a los de su propia especie. Pero los caníbales llevan esto al "
+"extremo. Impulsados por un hambre insaciable, devoran todo lo que encuentran "
+"en su camino y sanan sus heridas con cada mordisco."
+
+#. [heal_on_hit]
+#: Refumees_Saurian_Pack/units/saurians/S1-Cannibal.cfg:46
+#: Refumees_Saurian_Pack/units/saurians/S2-Maneater.cfg:46
+#: Refumees_Saurian_Pack/units/saurians/S3-Liz'rker.cfg:47
+msgid "omnivore"
+msgstr "omnívoro"
+
+#. [heal_on_hit]
+#: Refumees_Saurian_Pack/units/saurians/S1-Cannibal.cfg:47
+#: Refumees_Saurian_Pack/units/saurians/S1-Cannibal.cfg:48
+msgid "This unit heals itself for 1 hitpoint when it deals damage."
+msgstr "Esta unidad se sana 1 punto de vida cuando causa daño."
+
+#. [unit_type], id=Ref Dragonfly Rider, race=lizard
+#: Refumees_Saurian_Pack/units/saurians/S1-Dragonfly_Rider.cfg:5
+msgid "Dragonfly Rider"
+msgstr "Jinete de libélula"
+
+#. [unit_type], id=Ref Dragonfly Rider, race=lizard
+#: Refumees_Saurian_Pack/units/saurians/S1-Dragonfly_Rider.cfg:27
+msgid ""
+"The giant dragonflies seen in some of the swamps, rivers, and lakes around "
+"Wesnoth enjoy a longer life cycle than the smaller, more common types. The "
+"adult form can live indefinitely, slowly growing to a final moult. They are "
+"generally territorial, but can cooperate in small groups to confront common "
+"foes or large prey. Some saurians tend to tame them as mounts."
+msgstr ""
+"Las libélulas gigantes que se ven en algunos pantanos, ríos y lagos "
+"alrededor de Wesnoth tienen un ciclo de vida más largo que las variedades "
+"más pequeñas y comunes. La forma adulta puede vivir indefinidamente, "
+"creciendo lentamente hasta su muda final. Generalmente son territoriales, "
+"pero pueden cooperar en pequeños grupos para enfrentar enemigos comunes o "
+"presas grandes. Algunos saurios suelen domesticarlas como monturas."
+
+#. [unit_type], id=Ref Saurian Shaman, race=lizard, gender=male
+#: Refumees_Saurian_Pack/units/saurians/S1-Shaman.cfg:4
+msgid "Saurian Shaman"
+msgstr "Chamán saurio"
+
+#. [unit_type], id=Ref Saurian Shaman, race=lizard, gender=male
+#: Refumees_Saurian_Pack/units/saurians/S1-Shaman.cfg:18
+msgid ""
+"Saurians have some knowledge of what men call sorcery, but their practice of "
+"it reeks of augury and black magic. Shamans however practice element magic "
+"like fire and ice."
+msgstr ""
+"Los saurios tienen cierto conocimiento de lo que los humanos llaman "
+"hechicería, pero su práctica huele a augurios y magia negra. Los chamanes, "
+"sin embargo, practican magia elemental como fuego y hielo."
+
+#. [special_note]
+#: Refumees_Saurian_Pack/units/saurians/S1-Shaman.cfg:20
+msgid ""
+"Saurian Shamans' innate magical abilities shield them against arcane, fire, "
+"and cold damage."
+msgstr ""
+"Las habilidades mágicas innatas de los chamanes saurios los protegen contra "
+"daño arcano, de fuego y de frío."
+
+#. [unit_type], id=Saurian Scout, race=lizard
+#: Refumees_Saurian_Pack/units/saurians/S1_Scout.cfg:4
+msgid "Saurian Scout"
+msgstr "Explorador saurio"
+
+#. [unit_type], id=Saurian Scout, race=lizard
+#: Refumees_Saurian_Pack/units/saurians/S1_Scout.cfg:24
+msgid ""
+"Saurian Scouts are swift and nimble, excelling at exploring unknown terrain "
+"and identifying potential dangers or opportunities. Their keen senses and "
+"agility allow them to evade enemies with ease, making them invaluable for "
+"reconnaissance missions. Armed with simple tools and their natural cunning, "
+"they can move through areas that most others would consider impassable."
+msgstr ""
+"Los exploradores saurios son rápidos y ágiles, destacan en explorar terrenos "
+"desconocidos e identificar posibles peligros u oportunidades. Sus sentidos "
+"agudos y su agilidad les permiten evadir enemigos con facilidad, lo que los "
+"hace muy valiosos para misiones de reconocimiento. Armados con herramientas "
+"simples y su astucia natural, pueden moverse por áreas que la mayoría "
+"consideraría intransitables."
+
+#. [unit_type], id=Ref Grand Dragonfly Raider, race=lizard
+#: Refumees_Saurian_Pack/units/saurians/S2-Dragonfly_Raider.cfg:5
+msgid "Grand Dragonfly Raider"
+msgstr "Asaltante de gran libélula"
+
+#. [unit_type], id=Ref Grand Dragonfly Raider, race=lizard
+#: Refumees_Saurian_Pack/units/saurians/S2-Dragonfly_Raider.cfg:27
+msgid ""
+"Some saurian dragonfly rider bond long enough with their dragonfly to see "
+"their grander form."
+msgstr ""
+"Algunos jinetes saurios de libélula se vinculan el tiempo suficiente con su "
+"libélula como para ver su forma más grandiosa."
+
+#. [unit_type], id=Ref Saurian Maneater, race=lizard, gender=female
+#: Refumees_Saurian_Pack/units/saurians/S2-Maneater.cfg:4
+msgid "Saurian Maneater"
+msgstr "Devorador saurio"
+
+#. [unit_type], id=Ref Saurian Maneater, race=lizard, gender=female
+#: Refumees_Saurian_Pack/units/saurians/S2-Maneater.cfg:17
+msgid ""
+"Having feasted on countless foes, the Maneater has grown into a relentless "
+"predator. With each strike, it tears into its enemies, sustaining itself by "
+"feeding on the flesh of the fallen."
+msgstr ""
+"Después de haberse alimentado de innumerables enemigos, el devorador se ha "
+"convertido en un depredador implacable. Con cada golpe desgarra a sus "
+"enemigos y se sustenta alimentándose de la carne de los caídos."
+
+#. [heal_on_hit]
+#: Refumees_Saurian_Pack/units/saurians/S2-Maneater.cfg:47
+#: Refumees_Saurian_Pack/units/saurians/S2-Maneater.cfg:48
+msgid "This unit heals itself for 2 hitpoint when it deals damage."
+msgstr "Esta unidad se sana 2 puntos de vida cuando causa daño."
+
+#. [unit_type], id=Ref Saurian Mireblade, race=thief-lizard
+#: Refumees_Saurian_Pack/units/saurians/S2-Mireblade.cfg:4
+msgid "Saurian Mireblade"
+msgstr "Hoja de pantano saurio"
+
+#. [unit_type], id=Ref Saurian Mireblade, race=thief-lizard
+#: Refumees_Saurian_Pack/units/saurians/S2-Mireblade.cfg:17
+msgid ""
+"Saurian Mireblades refine the agility and stealth of their scouting origins "
+"into a deadly combat style. Experts at nocturnal ambushes, they strike "
+"swiftly and silently, leaving their foes disoriented and vulnerable. Their "
+"blades are often coated with poison, turning even minor wounds into "
+"debilitating threats. To further confound their enemies, they use smoke "
+"bombs to obscure their movements, making it nearly impossible to pin them "
+"down. Mireblades are shadowy figures of the battlefield, thriving in chaos "
+"and confusion."
+msgstr ""
+"Las hojas de pantano saurias refinan la agilidad y el sigilo de sus orígenes "
+"como exploradores en un estilo de combate mortal. Expertos en emboscadas "
+"nocturnas, atacan con rapidez y en silencio, dejando a sus enemigos "
+"desorientados y vulnerables. Sus hojas suelen estar cubiertas de veneno, "
+"convirtiendo incluso heridas menores en amenazas debilitantes. Para "
+"confundir aún más a sus enemigos, usan bombas de humo para ocultar sus "
+"movimientos, haciendo casi imposible fijarlos. Las hojas de pantano son "
+"figuras sombrías en el campo de batalla que prosperan en el caos y la "
+"confusión."
+
+#. [unit_type], id=Saurian Pathfinder, race=lizard
+#: Refumees_Saurian_Pack/units/saurians/S2_Pathfinder.cfg:4
+msgid "Saurian Pathfinder"
+msgstr "Buscador de caminos saurio"
+
+#. [unit_type], id=Saurian Pathfinder, race=lizard
+#: Refumees_Saurian_Pack/units/saurians/S2_Pathfinder.cfg:24
+msgid ""
+"As Saurian Scouts gain experience, they evolve into adept pathfinders. These "
+"warriors combine their natural mobility with sharper instincts and better "
+"equipment, enabling them to navigate even the most challenging terrain with "
+"precision. Whether uncovering hidden threats or tracking prey, Saurian "
+"Pathfinders play a pivotal role in ensuring their kin's survival. Their "
+"ability to strike swiftly and retreat unscathed makes them a thorn in the "
+"side of unprepared foes."
+msgstr ""
+"A medida que los exploradores saurios ganan experiencia, evolucionan hacia "
+"buscadores de caminos hábiles. Estos guerreros combinan su movilidad natural "
+"con instintos más agudos y mejor equipo, lo que les permite navegar con "
+"precisión incluso por los terrenos más difíciles. Ya sea descubriendo "
+"amenazas ocultas o rastreando presas, los buscadores de caminos saurios "
+"juegan un papel clave para garantizar la supervivencia de los suyos. Su "
+"capacidad para atacar con rapidez y retirarse ilesos los convierte en una "
+"espina clavada para los enemigos desprevenidos."
+
+#. [unit_type], id=Ref Grand Dragonfly Chief, race=lizard
+#: Refumees_Saurian_Pack/units/saurians/S3-Dragonfly_Chief.cfg:5
+msgid "Grand Dragonfly Chief"
+msgstr "Jefe de gran libélula"
+
+#. [unit_type], id=Ref Grand Dragonfly Chief, race=lizard
+#: Refumees_Saurian_Pack/units/saurians/S3-Dragonfly_Chief.cfg:28
+msgid ""
+"Saurians who master the grander dragonfly form, are masters of the skys."
+msgstr ""
+"Los saurios que dominan la forma más grandiosa de la libélula son maestros "
+"de los cielos."
+
+#. [unit_type], id=Ref Saurian Lizrker, race=lizard, gender=female
+#: Refumees_Saurian_Pack/units/saurians/S3-Liz'rker.cfg:4
+msgid "Saurian Liz'rker"
+msgstr "Devorador saurio"
+
+#. [unit_type], id=Ref Saurian Lizrker, race=lizard, gender=female
+#: Refumees_Saurian_Pack/units/saurians/S3-Liz'rker.cfg:18
+msgid ""
+"Now a true embodiment of hunger and fury, the Liz'rker is an unstoppable "
+"force of destruction. Tearing through flesh and bone, it fights in a frenzy, "
+"using every kill to fuel its relentless assault."
+msgstr ""
+"Ahora una verdadera encarnación del hambre y la furia, el devorador saurio "
+"es una fuerza imparable de destrucción. Desgarrando carne y hueso, lucha en "
+"un frenesí, usando cada muerte para alimentar su asalto implacable."
+
+#. [heal_on_hit]
+#: Refumees_Saurian_Pack/units/saurians/S3-Liz'rker.cfg:48
+#: Refumees_Saurian_Pack/units/saurians/S3-Liz'rker.cfg:49
+msgid "This unit heals itself for 3 hitpoint when it deals damage."
+msgstr "Esta unidad se sana 3 puntos de vida cuando causa daño."
+
+#. [unit_type], id=Ref Saurian Master of Elements, race=lizard, gender=male
+#: Refumees_Saurian_Pack/units/saurians/S3-Master_of_Elements.cfg:4
+msgid "Saurian Master of Elements"
+msgstr "Maestro de los elementos saurio"
+
+#. [unit_type], id=Ref Saurian Master of Elements, race=lizard, gender=male
+#: Refumees_Saurian_Pack/units/saurians/S3-Master_of_Elements.cfg:19
+msgid ""
+"Master of elements mastered the fire and ice magic of their tribe. Their are "
+"no masters in a human kind of sense, but very skillfull."
+msgstr ""
+"El maestro de los elementos domina la magia de fuego y hielo de su tribu. No "
+"son maestros en el sentido humano, pero son muy hábiles."
+
+#. [unit_type], id=Ref Saurian Stillwater, race=thief-lizard
+#: Refumees_Saurian_Pack/units/saurians/S3-Stillwater.cfg:4
+msgid "Saurian Stillwater"
+msgstr "Aguas quietas saurio"
+
+#. [unit_type], id=Ref Saurian Stillwater, race=thief-lizard
+#: Refumees_Saurian_Pack/units/saurians/S3-Stillwater.cfg:18
+msgid ""
+"The evolution of a Mireblade, Saurian Stillwaters are the epitome of silent "
+"lethality. Masters of deception and ambush, they move like shadows, striking "
+"with poisoned weapons and vanishing before the enemy can react. Their "
+"expertise with smoke bombs allows them to control the battlefield, creating "
+"a veil of confusion that leaves their opponents defenseless. Unpredictable "
+"and unrelenting, Stillwaters embody the deadly calm of a predator lying in "
+"wait, striking fear into those who dare oppose them."
+msgstr ""
+"La evolución de una hoja de pantano, los aguas quietas saurios son el "
+"epítome de la letalidad silenciosa. Maestros del engaño y la emboscada, se "
+"mueven como sombras, atacando con armas envenenadas y desapareciendo antes "
+"de que el enemigo pueda reaccionar. Su pericia con las bombas de humo les "
+"permite controlar el campo de batalla, creando un velo de confusión que deja "
+"a sus oponentes indefensos. Impredecibles e implacables, los aguas quietas "
+"encarnan la calma mortal de un depredador al acecho, infundiendo miedo en "
+"aquellos que se atreven a oponérseles."
+
+#. [unit_type], id=Saurian Explorer, race=lizard
+#: Refumees_Saurian_Pack/units/saurians/S3_Explorer.cfg:4
+msgid "Saurian Explorer"
+msgstr "Explorador saurio"
+
+#. [unit_type], id=Saurian Explorer, race=lizard
+#: Refumees_Saurian_Pack/units/saurians/S3_Explorer.cfg:25
+msgid ""
+"The Saurian Explorer embodies the culmination of their species’ adaptability "
+"and curiosity. These seasoned scouts are unparalleled in charting unknown "
+"lands and uncovering hidden opportunities. With their unmatched agility and "
+"deep knowledge of the terrain, they are capable of venturing into the most "
+"treacherous regions and returning unscathed.\n"
+"\n"
+"Whether mapping uncharted paths, locating hidden resources, or identifying "
+"potential threats, the Saurian Explorer ensures their kin are always one "
+"step ahead. Their ability to outmaneuver foes and operate independently "
+"makes them a true asset in both strategy and survival."
+msgstr ""
+"El explorador saurio encarna la culminación de la adaptabilidad y curiosidad "
+"de su especie. Estos exploradores experimentados no tienen igual para trazar "
+"tierras desconocidas y descubrir oportunidades ocultas. Con su agilidad "
+"inigualable y su profundo conocimiento del terreno, son capaces de "
+"aventurarse en las regiones más traicioneras y regresar ilesos.\n"
+"\n"
+"Ya sea trazando caminos inexplorados, localizando recursos ocultos o "
+"identificando amenazas potenciales, el explorador saurio asegura que los "
+"suyos siempre estén un paso adelante. Su capacidad para superar a los "
+"enemigos y operar de forma independiente los convierte en un verdadero "
+"activo tanto en estrategia como en supervivencia."
+
+#. [unit_type], id=Ref Saurian Brawler Thief, race=thief-lizard, gender=female
+#: Refumees_Saurian_Pack/units/thief-saurians/S1-Brawler-thief.cfg:4
+msgid "Saurian Brawler Thief"
+msgstr "Luchador ladrón saurio"
+
+#. [unit_type], id=Ref Saurian Brawler Thief, race=thief-lizard, gender=female
+#. [unit_type], id=Ref Saurian Brawler, race=thief-lizard, gender=female
+#: Refumees_Saurian_Pack/units/thief-saurians/S1-Brawler-thief.cfg:18
+#: Refumees_Saurian_Pack/units/thief-saurians/S1-Brawler.cfg:18
+msgid ""
+"Saurian tribes rarely maintain anything resembling a standing army, fighting "
+"primarily with hit-and-run raiding tactics by the tribe's hunters and "
+"scouts. The largest and strongest saurians are often designated to defend "
+"the village and serve as shock troops in time of war. Being the closest "
+"thing the tribe has to dedicated soldiers, they generally prefer the club "
+"over the traditional saurian hunting spear, making them all the more "
+"effective in battles against rival tribes."
+msgstr ""
+"Las tribus saurias rara vez mantienen algo parecido a un ejército permanente "
+"y luchan principalmente con tácticas de ataque rápido y huida por parte de "
+"los cazadores y exploradores de la tribu. Los saurios más grandes y fuertes "
+"suelen ser designados para defender la aldea y servir como tropas de choque "
+"en tiempos de guerra. Al ser lo más cercano que tiene la tribu a soldados "
+"dedicados, generalmente prefieren la porra sobre la lanza de caza "
+"tradicional sauria, lo que los hace aún más efectivos en batallas contra "
+"tribus rivales."
+
+#. [unit_type], id=Ref Saurian Brawler, race=thief-lizard, gender=female
+#: Refumees_Saurian_Pack/units/thief-saurians/S1-Brawler.cfg:4
+msgid "Saurian Brawler"
+msgstr "Luchador saurio"
+
+#. [unit_type], id=Saurian Hunter Thief, race=thief-lizard, gender=female
+#: Refumees_Saurian_Pack/units/thief-saurians/S1-Hunter-thief.cfg:5
+msgid "Saurian Hunter Thief"
+msgstr "Cazador ladrón saurio"
+
+#. [unit_type], id=Saurian Hunter Thief, race=thief-lizard, gender=female
+#. [unit_type], id=Saurian Hunter, race=lizard, gender=female
+#. [unit_type], id=Saurian Lurker Thief, race=thief-lizard, gender=female
+#. [unit_type], id=Saurian Lurker, race=lizard, gender=female
+#. [unit_type], id=Saurian Stalker Thief, race=thief-lizard, gender=female
+#. [unit_type], id=Saurian Stalker, race=lizard, gender=female
+#: Refumees_Saurian_Pack/units/thief-saurians/S1-Hunter-thief.cfg:30
+#: Refumees_Saurian_Pack/units/thief-saurians/S1-Hunter.cfg:30
+#: Refumees_Saurian_Pack/units/thief-saurians/S2-Lurker-thief.cfg:30
+#: Refumees_Saurian_Pack/units/thief-saurians/S2-Lurker.cfg:30
+#: Refumees_Saurian_Pack/units/thief-saurians/S3-Stalker-thief.cfg:31
+#: Refumees_Saurian_Pack/units/thief-saurians/S3-Stalker.cfg:31
+msgid ""
+"While saurians are known for their speed, their cold blodded nature allows "
+"them to hold their breath for long periods of time. With practice, a saurian "
+"can remain underwater, lurking just below the surface to ambush those who "
+"come too near the water's edge."
+msgstr ""
+"Aunque los saurios son conocidos por su velocidad, su naturaleza de sangre "
+"fría les permite contener la respiración durante largos periodos. Con "
+"práctica, un saurio puede permanecer bajo el agua, acechando justo debajo de "
+"la superficie para emboscar a aquellos que se acercan demasiado al borde del "
+"agua."
+
+#. [unit_type], id=Ref Saurian Knifethrower Thief, race=thief-lizard
+#: Refumees_Saurian_Pack/units/thief-saurians/S1-Knifethrower-thief.cfg:4
+msgid "Saurian Knifethrower Thief"
+msgstr "Lanzacuchillos ladrón saurio"
+
+#. [unit_type], id=Ref Saurian Knifethrower, race=thief-lizard
+#: Refumees_Saurian_Pack/units/thief-saurians/S1-Knifethrower.cfg:4
+msgid "Saurian Knifethrower"
+msgstr "Lanzacuchillos saurio"
+
+#. [unit_type], id=Saurian Lurker Thief, race=thief-lizard, gender=female
+#: Refumees_Saurian_Pack/units/thief-saurians/S2-Lurker-thief.cfg:5
+msgid "Saurian Lurker Thief"
+msgstr "Acechador ladrón saurio"
+
+#. [unit_type], id=Saurian Lurker, race=lizard, gender=female
+#: Refumees_Saurian_Pack/units/thief-saurians/S2-Lurker.cfg:5
+msgid "Saurian Lurker"
+msgstr "Acechador saurio"
+
+#. [unit_type], id=Ref Saurian Seeker Thief, race=thief-lizard
+#: Refumees_Saurian_Pack/units/thief-saurians/S2-Seeker-thief.cfg:4
+msgid "Saurian Seeker Thief"
+msgstr "Buscador ladrón saurio"
+
+#. [unit_type], id=Ref Saurian Seeker Thief, race=thief-lizard
+#. [unit_type], id=Ref Saurian Seeker, race=thief-lizard
+#. [unit_type], id=GSaurian Ambusher, race=undead-lizard, gender=female
+#: Refumees_Saurian_Pack/units/thief-saurians/S2-Seeker-thief.cfg:17
+#: Refumees_Saurian_Pack/units/thief-saurians/S2-Seeker.cfg:17
+#: Refumees_Saurian_Pack/units/undead-saurians/S2-Ghost-Ambusher.cfg:20
+msgid ""
+"Saurians are light on their feet, and able at navigating terrain that often "
+"confounds their enemies. When this natural mobility is combined with "
+"experience, strength, and proper equipment, their warriors can become "
+"particularly threatening in battle — if only because they are so much more "
+"difficult to confine than other foes. Even in armor, saurian warriors can "
+"take advantage of the smallest gap in an enemy line, and have the prowess to "
+"make the enemy regret tactical mistakes."
+msgstr ""
+"Los saurios son ligeros de pies y capaces de navegar por terrenos que suelen "
+"confundir a sus enemigos. Cuando esta movilidad natural se combina con "
+"experiencia, fuerza y equipo adecuado, sus guerreros pueden volverse "
+"particularmente amenazantes en batalla, aunque solo sea porque son mucho más "
+"difíciles de contener que otros enemigos. Incluso con armadura, los "
+"guerreros saurios pueden aprovechar el más pequeño hueco en la línea enemiga "
+"y tienen la destreza para hacer que el enemigo se arrepienta de sus errores "
+"tácticos."
+
+#. [unit_type], id=Ref Saurian Seeker, race=thief-lizard
+#: Refumees_Saurian_Pack/units/thief-saurians/S2-Seeker.cfg:4
+msgid "Saurian Seeker"
+msgstr "Buscador saurio"
+
+#. [unit_type], id=Ref Saurian Soldier Thief, race=thief-lizard, gender=female
+#: Refumees_Saurian_Pack/units/thief-saurians/S2-Soldier-thief.cfg:4
+msgid "Saurian Soldier Thief"
+msgstr "Soldado ladrón saurio"
+
+#. [unit_type], id=Ref Saurian Soldier Thief, race=thief-lizard, gender=female
+#. [unit_type], id=Ref Saurian Soldier, race=thief-lizard, gender=female
+#: Refumees_Saurian_Pack/units/thief-saurians/S2-Soldier-thief.cfg:18
+#: Refumees_Saurian_Pack/units/thief-saurians/S2-Soldier.cfg:18
+msgid ""
+"Saurian Brawlers are experts in the use of the club. They are fiercely loyal "
+"to their tribe and fight alongside their champions at every opportunity."
+msgstr ""
+"Los luchadores saurios son expertos en el uso de la porra. Son ferozmente "
+"leales a su tribu y luchan junto a sus campeones en cada oportunidad."
+
+#. [unit_type], id=Swamp Rider Thief, race=thief-lizard
+#: Refumees_Saurian_Pack/units/thief-saurians/S2-Swamp-rider-thief.cfg:13
+msgid "Swamp Rider Thief"
+msgstr "Jinete del pantano ladrón"
+
+#. [unit_type], id=Swamp Rider Thief, race=thief-lizard
+#. [unit_type], id=Swamp Rider, race=lizard
+#. [unit_type], id=Great Swamp Rider Thief, race=thief-lizard
+#. [unit_type], id=Great Swamp Rider, race=lizard
+#: Refumees_Saurian_Pack/units/thief-saurians/S2-Swamp-rider-thief.cfg:121
+#: Refumees_Saurian_Pack/units/thief-saurians/S2-Swamp-rider.cfg:121
+#: Refumees_Saurian_Pack/units/thief-saurians/S3-Great-Swamp-rider-thief.cfg:122
+#: Refumees_Saurian_Pack/units/thief-saurians/S3-Great-Swamp-rider.cfg:122
+msgid ""
+"Swamps are vibrant environments, but often not friendly to humans or orcs. "
+"Swamp Lizards are one of the more notable hazards, with their powerful jaws "
+"and armored hide. Despite their primitive appearance, these lizards are not "
+"stupid, and after generations of being hunted for their hides, they have "
+"adopted a ‘two legs bad’ outlook and do not hesitate to avenge their "
+"ancestors."
+msgstr ""
+"Los pantanos son entornos vibrantes, pero a menudo no son amigables para "
+"humanos u orcos. Los lagartos de pantano son uno de los peligros más "
+"notables, con sus poderosas mandíbulas y su piel blindada. A pesar de su "
+"apariencia primitiva, estos lagartos no son tontos y, después de "
+"generaciones de ser cazados por sus pieles, han adoptado la visión de que "
+"«dos piernas son malas» y no dudan en vengar a sus ancestros."
+
+#. [unit_type], id=Swamp Rider, race=lizard
+#: Refumees_Saurian_Pack/units/thief-saurians/S2-Swamp-rider.cfg:13
+msgid "Swamp Rider"
+msgstr "Jinete del pantano"
+
+#. [unit_type], id=Great Swamp Rider Thief, race=thief-lizard
+#: Refumees_Saurian_Pack/units/thief-saurians/S3-Great-Swamp-rider-thief.cfg:13
+msgid "Great Swamp Rider Thief"
+msgstr "Gran jinete de pantano ladrón"
+
+#. [unit_type], id=Great Swamp Rider, race=lizard
+#: Refumees_Saurian_Pack/units/thief-saurians/S3-Great-Swamp-rider.cfg:13
+msgid "Great Swamp Rider"
+msgstr "Gran jinete de pantano"
+
+#. [unit_type], id=Ref Saurian Slayer Thief, race=thief-lizard
+#: Refumees_Saurian_Pack/units/thief-saurians/S3-Slayer-thief.cfg:4
+msgid "Saurian Slayer Thief"
+msgstr "Asesino ladrón saurio"
+
+#. [unit_type], id=Ref Saurian Slayer Thief, race=thief-lizard
+#. [unit_type], id=Ref Saurian Slayer, race=thief-lizard
+#: Refumees_Saurian_Pack/units/thief-saurians/S3-Slayer-thief.cfg:18
+#: Refumees_Saurian_Pack/units/thief-saurians/S3-Slayer.cfg:18
+msgid ""
+"The saurian slayer coats the dagger in poison, and has mastered the act of "
+"throwing knives at the distance."
+msgstr ""
+"El asesino saurio cubre la daga con veneno y ha dominado el arte de lanzar "
+"cuchillos a distancia."
+
+#. [unit_type], id=Ref Saurian Slayer, race=thief-lizard
+#: Refumees_Saurian_Pack/units/thief-saurians/S3-Slayer.cfg:4
+msgid "Saurian Slayer"
+msgstr "Asesino saurio"
+
+#. [unit_type], id=Saurian Stalker Thief, race=thief-lizard, gender=female
+#: Refumees_Saurian_Pack/units/thief-saurians/S3-Stalker-thief.cfg:5
+msgid "Saurian Stalker Thief"
+msgstr "Acechador ladrón saurio"
+
+#. [unit_type], id=Saurian Stalker, race=lizard, gender=female
+#. [unit_type], id=Saurian Undead Stalker, race=undead-lizard
+#: Refumees_Saurian_Pack/units/thief-saurians/S3-Stalker.cfg:5
+#: Refumees_Saurian_Pack/units/undead-saurians/S3-Stalker.cfg:4
+msgid "Saurian Stalker"
+msgstr "Acechador saurio"
+
+#. [unit_type], id=Ref Saurian Veteran Thief, race=thief-lizard, gender=female
+#: Refumees_Saurian_Pack/units/thief-saurians/S3-Veteran-thief.cfg:4
+msgid "Saurian Veteran Thief"
+msgstr "Veterano ladrón saurio"
+
+#. [unit_type], id=Ref Saurian Veteran Thief, race=thief-lizard, gender=female
+#. [unit_type], id=Ref Saurian Veteran, race=thief-lizard, gender=female
+#: Refumees_Saurian_Pack/units/thief-saurians/S3-Veteran-thief.cfg:19
+#: Refumees_Saurian_Pack/units/thief-saurians/S3-Veteran.cfg:19
+msgid ""
+"The strongest of their tribe, each combatant is an seasoned veteran who has "
+"enjoyed shattering the bones of countless opponents and cracking their "
+"skulls as an offering after the battles."
+msgstr ""
+"Los más fuertes de su tribu, cada combatiente es un veterano experimentado "
+"que ha disfrutado rompiendo los huesos de innumerables oponentes y "
+"abriéndoles el cráneo como ofrenda después de las batallas."
+
+#. [unit_type], id=Ref Saurian Veteran, race=thief-lizard, gender=female
+#: Refumees_Saurian_Pack/units/thief-saurians/S3-Veteran.cfg:4
+msgid "Saurian Veteran"
+msgstr "Veterano saurio"
+
+#. [unit_type], id=Ref Saurian Devotee Zombie, race=undead-lizard
+#: Refumees_Saurian_Pack/units/undead-saurians/S0-Zombie-Mage.cfg:4
+msgid "Mage Walking Corpse"
+msgstr "Cadáver andante mago"
+
+#. [unit_type], id=Deep Young Saurian Zombie, race=undead-lizard
+#: Refumees_Saurian_Pack/units/undead-saurians/S0-Zombie-Pick.cfg:4
+msgid "Pick Walking Corpse"
+msgstr "Cadáver andante con pico"
+
+#. [unit_type], id=Deep Young Saurian Zombie, race=undead-lizard
+#: Refumees_Saurian_Pack/units/undead-saurians/S0-Zombie-Pick.cfg:18
+msgid "Young Saurians work mostly as miners."
+msgstr "Los saurios jóvenes trabajan principalmente como mineros."
+
+#. [unit_type], id=Ref Young Saurian Zombie, race=undead-lizard, gender=female
+#: Refumees_Saurian_Pack/units/undead-saurians/S0-Zombie-Spear.cfg:4
+msgid "Spear Walking Corpse"
+msgstr "Cadáver andante con lanza"
+
+#. [unit_type], id=Lich Saurian Augur, race=undead-lizard, gender=male
+#: Refumees_Saurian_Pack/units/undead-saurians/S1-Augur-Lich.cfg:4
+msgid "Saurian Dark Augur"
+msgstr "Augur oscuro saurio"
+
+#. [unit_type], id=Lich Saurian Augur, race=undead-lizard, gender=male
+#. [unit_type], id=Saurian Dark Adept, race=undead-lizard, gender=male
+#: Refumees_Saurian_Pack/units/undead-saurians/S1-Augur-Lich.cfg:22
+#: Refumees_Saurian_Pack/units/undead-saurians/S1-Saurian-Dark-Adept.cfg:22
+msgid ""
+"These saurians follow Vendraxis and his teachings of the ways of necromancy."
+msgstr ""
+"Estos saurios siguen a Vendraxis y sus enseñanzas sobre los caminos de la "
+"nigromancia."
+
+#. [unit_type], id=Saurian Ghoul, race=undead-lizard
+#: Refumees_Saurian_Pack/units/undead-saurians/S1-Ghoul.cfg:4
+msgid "Saurian Ghoul"
+msgstr "Ghoul saurio"
+
+#. [unit_type], id=Saurian Ghoul, race=undead-lizard
+#: Refumees_Saurian_Pack/units/undead-saurians/S1-Ghoul.cfg:18
+msgid ""
+"Vendraxis’ first attempt at creating a ghoul went terribly wrong. Following "
+"the methods taught by Ardryn-Na, he failed to anticipate the unique bone "
+"structure of saurians, which caused the flesh to decay and refuse to bond "
+"properly. What remained was a poisonous, lumbering mass of saurian flesh — a "
+"failed experiment, but a dangerous one nonetheless."
+msgstr ""
+"El primer intento de Vendraxis de crear un ghoul salió terriblemente mal. "
+"Siguiendo los métodos enseñados por Ardryn-Na, no anticipó la estructura "
+"ósea única de los saurios, lo que hizo que la carne se pudriera y se negara "
+"a unirse correctamente. Lo que quedó fue una masa venenosa y torpe de carne "
+"sauria: un experimento fallido, pero peligroso de todos modos."
+
+#. [unit_type], id=Saurian Dark Adept, race=undead-lizard, gender=male
+#: Refumees_Saurian_Pack/units/undead-saurians/S1-Saurian-Dark-Adept.cfg:4
+msgid "Saurian Dark Adept"
+msgstr "Adepto oscuro saurio"
+
+#. [attack], type=arcane, range=ranged
+#: Refumees_Saurian_Pack/units/undead-saurians/S1-Saurian-Dark-Adept.cfg:41
+#: Refumees_Saurian_Pack/units/undead-saurians/S2-Saurian-Dark-Sorcerer.cfg:53
+#: Refumees_Saurian_Pack/units/undead-saurians/S3-Saurian-Necromancer.cfg:64
+msgid "shadow blast"
+msgstr "explosión de sombras"
+
+#. [unit_type], id=Saurian Husk, race=undead-lizard
+#: Refumees_Saurian_Pack/units/undead-saurians/S1-Saurian_Husk.cfg:4
+msgid "Saurian Husk"
+msgstr "Cáscara sauria"
+
+#. [unit_type], id=Saurian Husk, race=undead-lizard
+#: Refumees_Saurian_Pack/units/undead-saurians/S1-Saurian_Husk.cfg:24
+msgid ""
+"The practice of necromancy is unknown among the saurians, but their augurs "
+"practice other arts, older and equally vile. The most terrible of these uses "
+"an elixir of rare herbs and dark rituals to induce a deathlike trance in "
+"their still-living brethren; in this state the lifeless husks act as barely-"
+"sentient slaves, commanded by their creators' dark magics. It is speculated "
+"by some loremasters that these creatures are a precursor to the vile ghoul, "
+"and that human necromancers learned such craft from the saurians. Few have a "
+"chance to study these unliving abominations in detail, however; while alone "
+"these shambling forms may seem slow and clumsy, they retain a deadly pack "
+"instinct and once they have their prey surrounded they rip into it with "
+"astonishing speed and viciousness."
+msgstr ""
+"La práctica de la nigromancia es desconocida entre los saurios, pero sus "
+"augures practican otras artes más antiguas e igualmente viles. La más "
+"terrible de estas usa un elixir de hierbas raras y rituales oscuros para "
+"inducir un trance similar a la muerte en sus hermanos aún vivos; en este "
+"estado las cáscaras sin vida actúan como esclavos apenas conscientes, "
+"comandados por las magias oscuras de sus creadores. Algunos sabios especulan "
+"que estas criaturas son un precursor del vil ghoul y que los nigromantes "
+"humanos aprendieron tal arte de los saurios. Sin embargo, pocos tienen la "
+"oportunidad de estudiar estas abominaciones no vivas en detalle; aunque "
+"solas estas formas tambaleantes pueden parecer lentas y torpes, conservan un "
+"instinto de manada mortal y una vez que rodean a su presa la desgarran con "
+"una velocidad y ferocidad asombrosas."
+
+#. [unit_type], id=Deep Saurian Blacksmith Zombie, race=undead-lizard
+#: Refumees_Saurian_Pack/units/undead-saurians/S1-Zombie-Blacksmith.cfg:4
+msgid "Soulless Saurian Blacksmith"
+msgstr "Herrero saurio desalmado"
+
+#. [unit_type], id=Deep Saurian Blacksmith Zombie, race=undead-lizard
+#: Refumees_Saurian_Pack/units/undead-saurians/S1-Zombie-Blacksmith.cfg:19
+msgid ""
+"Some lizards prefer to keep working for the community, instead of becoming "
+"warriors. The novice blacksmith is one of such, their crude craft helps the "
+"tribe as they create new armor and weapons."
+msgstr ""
+"Algunos lagartos prefieren seguir trabajando para la comunidad en lugar de "
+"convertirse en guerreros. El herrero novato es uno de ellos; su artesanía "
+"rudimentaria ayuda a la tribu al crear nuevas armaduras y armas."
+
+#. [unit_type], id=Saurian Skirmisher Zombie, race=undead-lizard, gender=female
+#: Refumees_Saurian_Pack/units/undead-saurians/S1-Zombie-Skirmisher.cfg:4
+msgid "female^Soulless Saurian Skirmisher"
+msgstr "Hostigadora sauria desalmada"
+
+#. [unit_type], id=Saurian Flayer, race=undead-lizard
+#: Refumees_Saurian_Pack/units/undead-saurians/S2-Flayer.cfg:4
+msgid "Saurian Flayer"
+msgstr "Desollador saurio"
+
+#. [unit_type], id=Saurian Flayer, race=undead-lizard
+#: Refumees_Saurian_Pack/units/undead-saurians/S2-Flayer.cfg:18
+msgid ""
+"An odd twist of fate turned the Saurian Flayer into what it is today. "
+"Vendraxis accidentally left several Ghouls abandoned in a toxic swamp. Over "
+"time, they adapted, learning to hide and to transform their saliva into a "
+"burning, poisonous acid. Why this mutation occurred remains a mystery, but "
+"it has become one of Vendraxis' most dangerous successes."
+msgstr ""
+"Un giro extraño del destino convirtió al desollador saurio en lo que es hoy. "
+"Vendraxis dejó accidentalmente varios guls abandonados en un pantano tóxico. "
+"Con el tiempo se adaptaron, aprendiendo a esconderse y a transformar su "
+"saliva en un ácido ardiente y venenoso. Por qué ocurrió esta mutación sigue "
+"siendo un misterio, pero se ha convertido en uno de los éxitos más "
+"peligrosos de Vendraxis."
+
+#. [unit_type], id=Saurian Runner, race=undead-lizard
+#: Refumees_Saurian_Pack/units/undead-saurians/S2-Runner.cfg:4
+msgid "Saurian Runner"
+msgstr "Corredor saurio"
+
+#. [unit_type], id=Saurian Runner, race=undead-lizard
+#: Refumees_Saurian_Pack/units/undead-saurians/S2-Runner.cfg:18
+msgid ""
+"The Saurian Runner is what happens when a Saurian Ghoul undergoes intense "
+"muscle training. It has developed incredible speed, but at the cost of "
+"control. These creatures charge into battle at blinding velocity, often "
+"unable to stop before slamming into their targets, making them both "
+"unpredictable and deadly."
+msgstr ""
+"El corredor saurio es lo que ocurre cuando un ghoul saurio se somete a un "
+"intenso entrenamiento muscular. Ha desarrollado una velocidad increíble, "
+"pero a costa del control. Estas criaturas cargan en batalla a una velocidad "
+"cegadora, a menudo sin poder detenerse antes de estrellarse contra sus "
+"objetivos, lo que las hace impredecibles y mortales."
+
+#. [unit_type], id=Saurian Dark Sorcerer, race=undead-lizard, gender=male
+#: Refumees_Saurian_Pack/units/undead-saurians/S2-Saurian-Dark-Sorcerer.cfg:4
+msgid "Saurian Dark Sorcerer"
+msgstr "Hechicero oscuro saurio"
+
+#. [unit_type], id=Saurian Dark Sorcerer, race=undead-lizard, gender=male
+#. [unit_type], id=Lich Saurian Soothsayer, race=undead-lizard, gender=male
+#: Refumees_Saurian_Pack/units/undead-saurians/S2-Saurian-Dark-Sorcerer.cfg:22
+#: Refumees_Saurian_Pack/units/undead-saurians/S2-Soothsayer-Lich.cfg:22
+msgid ""
+"Saurian Sorcerer are skilled Adepts of Vendraxis. They learned to force "
+"their will on the dead."
+msgstr ""
+"Los hechiceros saurios son adeptos hábiles de Vendraxis. Aprendieron a "
+"imponer su voluntad sobre los muertos."
+
+#. [unit_type], id=Saurian Wretch, race=undead-lizard
+#: Refumees_Saurian_Pack/units/undead-saurians/S2-Saurian_Wretch.cfg:4
+msgid "Saurian Wretch"
+msgstr "Miserable saurio"
+
+#. [unit_type], id=Saurian Wretch, race=undead-lizard
+#: Refumees_Saurian_Pack/units/undead-saurians/S2-Saurian_Wretch.cfg:24
+msgid ""
+"Some Saurian Husks begin to show a disturbing evolution. As their bodies "
+"adapt to the unnatural magic animating them, they grow more agile and "
+"ruthless. No longer mere lifeless puppets, they develop a predatory cunning "
+"and a savage instinct to hunt their prey. These wretches, though grotesque "
+"and broken, are a terrifying step towards a darker, more destructive form."
+msgstr ""
+"Algunas cáscaras saurias comienzan a mostrar una evolución inquietante. A "
+"medida que sus cuerpos se adaptan a la magia antinatural que los anima, se "
+"vuelven más ágiles y despiadados. Ya no son simples marionetas sin vida, "
+"desarrollan una astucia depredadora y un instinto salvaje para cazar a su "
+"presa. Estos miserables, aunque grotescos y rotos, son un paso aterrador "
+"hacia una forma más oscura y destructiva."
+
+#. [unit_type], id=Lich Saurian Soothsayer, race=undead-lizard, gender=male
+#: Refumees_Saurian_Pack/units/undead-saurians/S2-Soothsayer-Lich.cfg:4
+msgid "Saurian Dark Soothsayer"
+msgstr "Adivino oscuro saurio"
+
+#. [unit_type], id=Saurian Ambusher Zombie, race=undead-lizard, gender=female
+#: Refumees_Saurian_Pack/units/undead-saurians/S2-Zombie-Ambusher.cfg:4
+msgid "female^Saurian Ambusher Zombie"
+msgstr "Emboscadora zombi sauria"
+
+#. [unit_type], id=GSaurian Flanker, race=undead-lizard, gender=female
+#: Refumees_Saurian_Pack/units/undead-saurians/S3-Ghost-Flanker.cfg:21
+msgid ""
+"Saurian warriors are generally weaker in frame than their elven or human "
+"counterparts. This is of course a relative term, and they can still become "
+"considerably powerful, whilst losing none of their natural mobility. This is "
+"very dangerous in combat, as a careless enemy can soon find their support "
+"troops flanked by these creatures."
+msgstr ""
+"Los guerreros saurios generalmente tienen un cuerpo más débil que sus "
+"contrapartes elfas o humanas. Esto es, por supuesto, un término relativo, y "
+"aún pueden volverse considerablemente poderosos sin perder su movilidad "
+"natural. Esto es muy peligroso en combate, ya que un enemigo descuidado "
+"pronto puede encontrarse con que sus tropas de apoyo están flanqueadas por "
+"estas criaturas."
+
+#. [unit_type], id=Saurian Necromancer, race=undead-lizard, gender=male
+#: Refumees_Saurian_Pack/units/undead-saurians/S3-Saurian-Necromancer.cfg:4
+msgid "Saurian Necromancer"
+msgstr "Nigromante saurio"
+
+#. [unit_type], id=Saurian Necromancer, race=undead-lizard, gender=male
+#. [unit_type], id=Lich Saurian Seer, race=undead-lizard, gender=male
+#: Refumees_Saurian_Pack/units/undead-saurians/S3-Saurian-Necromancer.cfg:23
+#: Refumees_Saurian_Pack/units/undead-saurians/S3-Seer-Lich.cfg:23
+msgid ""
+"Saurian Necromancers are close to Vendraxis power. They are able to lead "
+"whole armies of undead against their foes."
+msgstr ""
+"Los nigromantes saurios están cerca del poder de Vendraxis. Son capaces de "
+"liderar ejércitos enteros de no-muertos contra sus enemigos."
+
+#. [unit_type], id=Saurian Blight, race=undead-lizard
+#: Refumees_Saurian_Pack/units/undead-saurians/S3-Saurian_Blight.cfg:4
+msgid "Saurian Blight"
+msgstr "Plaga sauria"
+
+#. [unit_type], id=Saurian Blight, race=undead-lizard
+#: Refumees_Saurian_Pack/units/undead-saurians/S3-Saurian_Blight.cfg:25
+msgid ""
+"The final and most horrifying form of a Saurian Wretch is the Saurian "
+"Blight. What was once a living being is now a walking embodiment of decay "
+"and death. Its rotting form emits a foul aura, poisoning and corrupting "
+"everything in its path. With immense strength and an insatiable hunger for "
+"destruction, these abominations are the ultimate expression of their "
+"creators' dark rituals, leaving only devastation in their wake."
+msgstr ""
+"La forma final y más horrible de un miserable saurio es la plaga sauria. Lo "
+"que alguna vez fue un ser vivo ahora es una encarnación andante de la "
+"decadencia y la muerte. Su forma putrefacta emite un aura repugnante que "
+"envenena y corrompe todo a su paso. Con una fuerza inmensa y un hambre "
+"insaciable de destrucción, estas abominaciones son la expresión definitiva "
+"de los rituales oscuros de sus creadores, dejando solo devastación a su paso."
+
+#. [attack], type=pierce, range=melee
+#: Refumees_Saurian_Pack/units/undead-saurians/S3-Saurian_Blight.cfg:48
+msgid "charging bite"
+msgstr "mordida en carga"
+
+#. [unit_type], id=Lich Saurian Seer, race=undead-lizard, gender=male
+#: Refumees_Saurian_Pack/units/undead-saurians/S3-Seer-Lich.cfg:4
+msgid "Saurian Dark Seer"
+msgstr "Vidente oscuro saurio"
+
+#. [unit_type], id=Saurian Sprinter, race=undead-lizard
+#: Refumees_Saurian_Pack/units/undead-saurians/S3-Sprinter.cfg:4
+msgid "Saurian Sprinter"
+msgstr "Velocista saurio"
+
+#. [unit_type], id=Saurian Sprinter, race=undead-lizard
+#: Refumees_Saurian_Pack/units/undead-saurians/S3-Sprinter.cfg:19
+msgid ""
+"The Saurian Sprinter is the perfected form of the Runner. After mastering "
+"its overwhelming speed, it now strikes with precision, controlling its every "
+"movement. These creatures are not just fast—they are terrifyingly accurate, "
+"capable of delivering swift, lethal blows to their enemies with surgical "
+"precision."
+msgstr ""
+"El velocista saurio es la forma perfeccionada del corredor. Después de "
+"dominar su abrumadora velocidad, ahora ataca con precisión y controla cada "
+"movimiento. Estas criaturas no solo son rápidas, son terriblemente precisas, "
+"capaces de asestar golpes rápidos y letales a sus enemigos con precisión "
+"quirúrgica."
+
+#. [unit_type], id=Saurian Undead Stalker, race=undead-lizard
+#: Refumees_Saurian_Pack/units/undead-saurians/S3-Stalker.cfg:19
+msgid ""
+"The Saurian Stalker is the ultimate evolution of the Flayer, trained under "
+"the guidance of a master. These creatures have perfected the art of spitting "
+"corrosive acid and can now conceal themselves in various terrains—whether in "
+"the depths of a swamp, beneath the sands of a desert, or in the shadows of a "
+"dark cave. They strike with deadly precision, emerging from hiding to "
+"surprise their enemies."
+msgstr ""
+"El acechador saurio es la evolución definitiva del desollador, entrenado "
+"bajo la guía de un maestro. Estas criaturas han perfeccionado el arte de "
+"escupir ácido corrosivo y ahora pueden ocultarse en diversos terrenos, ya "
+"sea en las profundidades de un pantano, bajo las arenas de un desierto o en "
+"las sombras de una cueva oscura. Atacan con una precisión mortal, emergiendo "
+"de su escondite para sorprender a sus enemigos."
